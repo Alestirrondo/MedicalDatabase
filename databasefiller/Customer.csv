@@ -1,0 +1,1001 @@
+CustomerID,fName,mName,lName,DrugInteraction,Allergies,Active
+1,Philly,Comb duck,Forber,Thermazene,Fludeoxyglucose F-18,moderately active
+2,Aguistin,White-necked raven,Ummfrey,Lactulose,Effexor,kinda of active
+3,Ingram,Galapagos tortoise,Dillimore,Morphine Sulfate,BELSOMRA,calm down
+4,Tammie,Western bearded dragon,Beddingham,Cetirizine,Doxycycline,kinda of active
+5,Feliza,Red-winged hawk (unidentified),Reinbeck,equate ibuprofen pm,Provera,not active
+6,Hallsy,"Eagle, crowned",Mayling,albuterol sulfate,Headache Restlessness,very active
+7,Glad,Savannah deer (unidentified),Izkovitch,Botrytis,Fresh Umbrain Clay Freshface Foundation SPF 20 Croisette,moderately active
+8,Care,Pale-throated three-toed sloth,MacAloren,NuvaRing,Creamy Petroleum,very active
+9,Fernanda,Vicuna,McTague,Promethazine Hydrochloride,Zicam Allergy Relief,not active
+10,Natalya,Cattle egret,Ellwell,Creamy Diaper Rash,Liver Drainage,calm down
+11,Ophelia,Horned lark,Dumphries,Hydralazine Hydrochloride,Rugby Calcium Carbonate 10 gr,kinda of active
+12,Britney,"Goose, cape barren",De la Feld,Piroxicam,good neighbor pharmacy childrens pain and fever,not active
+13,Patrica,Pine snake (unidentified),Lints,Valproic Acid,Hydrocodone Bitartrate and Acetaminophen,kinda of active
+14,Stormie,Prairie falcon,Faulkener,Losartan Potassium,Berberis Larix Urinary Tract Relief,not active
+15,Audrye,Crimson-breasted shrike,Albers,CellCept,Otoflam,moderately active
+16,Barrett,"Cormorant, king",Figgures,Demeclocycline Hydrochloride,Lanacane,moderately active
+17,Katharine,"Crow, american",Bambrough,HAMSOA ATOBY MEDI,Diethylpropion Hydrochloride,not active
+18,Quentin,White-faced whistling duck,Cella,Dermarest,Rite Aid,not active
+19,Gustavus,Sarus crane,Zorzenoni,Niacor,Severe Daytime,kinda of active
+20,Jonie,Steller's sea lion,Thomke,Silk Antibacterial Foaming Hand,Charlie girl Strawberry Antibacterial Hand Sanitizer,moderately active
+21,Chick,Wild boar,Conti,Captopril,Phenytoin Sodium,calm down
+22,Curt,Sea birds (unidentified),Egle of Germany,Benazepril Hydrochloride,Tetracycline Hydrochloride,kinda of active
+23,Gwenore,"Francolin, swainson's",Beldham,Garlic,Lovastatin,moderately active
+24,Kyla,"Francolin, swainson's",Trevallion,Mebendazole,DIPYRIDAMOLE,very active
+25,Karney,Black curlew,Smithen,Levofloxacin,gemcitabine,very active
+26,Morry,Galapagos dove,Alsop,Oxybutynin Chloride,Amoxicillin,calm down
+27,Carine,Killer whale,Gibb,Diclofenac Sodium,Anti Inflammatory,not active
+28,Clarance,"Butterfly, canadian tiger swallowtail",McFarlane,Anticavity Fluoride Rinse,Helixate FS,calm down
+29,Karlie,"Cat, civet",Ouslem,Everyday Clean Dandruff,Aplicare Povidone-iodine Perineal Wash,kinda of active
+30,Leigh,"Bushbaby, large-eared",Champerlen,Vanilla,Ipratropium Bromide,moderately active
+31,Brigida,South American meadowlark (unidentified),Gonning,Lisinopril,VITALUMIERE AQUA,calm down
+32,Herbert,"Crake, african black",Lamont,Relief plus G12,laura mercier tinted moisturizer Broad Spectrum SPF 20 Sunscreen Lightweight Flawless Coverage OCHRE,calm down
+33,Eugenie,Hoffman's sloth,McAirt,UV Capture Sun BB,Budesonide,moderately active
+34,Ellette,"Ringtail, common",Krook,Natures Gate,Naproxen,calm down
+35,Laird,King cormorant,Antrag,Mandragora Rheum,Antacid,very active
+36,Veronica,Scarlet macaw,Willimot,Skin Corrective Innovative Skin Perfector BB Broad Spectrum SPF15 Sunscreen Light Medium,Redken 5th Avenue NYC Scalp Relief Dandruff Control,not active
+37,Nerti,"Lion, steller sea",Wadlow,Sivil 40 (Number 24),Buenos Dias de Personna,moderately active
+38,Pippy,North American red fox,Langstone,arthricream,ECOZA,not active
+39,Mason,"Porcupine, tree",Knewstubb,"Redtop Grass, Standardized",Non-Drowsy DayTime Cold and Flu Multi-Symptom Relief,kinda of active
+40,Gianni,Northern phalarope,Boocock,Fremont Cottonwood,SuperPlus Beblesh Balm Gold SPF25 PA 2Plus,kinda of active
+41,Noll,Hudsonian godwit,Leither,Alcohol Prep Pads - Non Sterile,smart sense naproxen sodium,moderately active
+42,Otis,"Francolin, coqui",Vescovini,Topiramate,Manefit Beauty Planner Lily Whitening Eye Patch,not active
+43,Stacey,Vine snake (unidentified),Woolfoot,Orange,Metformin Hydrochloride,not active
+44,Wynnie,Swallow-tail gull,Sueter,EPINEPHRINE,Laxative,kinda of active
+45,Brose,"Cormorant, pied",Tremathack,healthy accents sore throat,Arsenicum album 30,not active
+46,Madeleine,Chacma baboon,Attenbarrow,Isopropyl Alcohol,Sodium Chloride,moderately active
+47,Mady,Red-knobbed coot,Delia,Clean and Clear Advantage,METFORMIN HYDROCHLORIDE,not active
+48,Sylvan,Mountain goat,Georghiou,Prednisolone,GAMMAGARD S/D,moderately active
+49,Fabien,"Crane, sarus",Middlemass,nicotine polacrilex,FENTANYL CITRATE,very active
+50,Duncan,Knob-nosed goose,Morin,Doxazosin,Carelessweed,not active
+51,Stanton,"Chickadee, black-capped",Paramore,Good Neighbor Pharmacy Acid Reducer,LEVOFLOXACIN,very active
+52,Lil,Violet-crested turaco,Tunnah,Clozapine,Constipation,not active
+53,Franchot,"Jacana, african",Ickovitz,Risperidone,RUTA GRAV,not active
+54,Gearard,"Otter, north american river",Darnody,Coxsackie,Butalbital and Acetaminophen,moderately active
+55,Nate,California sea lion,Cromwell,CycloSPORINE,Golden Tan,very active
+56,Hyacinthie,Dassie,Talmadge,Magnesium Citrate,Ketorolac Tromethamine,very active
+57,Oswell,Dusky gull,Jahnel,leader flu and severe cold and cough,germstar Original unscented,kinda of active
+58,Levon,Harbor seal,Vargas,ANTIBACTERIAL WIPES Blue Raspberry,Lymph I,calm down
+59,Chelsey,"Flicker, field",Peedell,INTRON A,Acetylcholine chloride,moderately active
+60,Anetta,"Cat, native",Mabbe,Amlodipine Besylate,Piperacillin and Tazobactam,kinda of active
+61,Timmie,"Screamer, crested",Breckwell,"Detox and Drainage, Blood and Kidney",Zermat Xtreme Roll-On Antiperspirant Deodorant,moderately active
+62,Andrea,"Pademelon, red-legged",Caulton,Absorbine Jr.,Amitriptyline Hydrochloride,calm down
+63,Maddalena,"Albatross, galapagos",Joselevitch,Vyvanse,NATRUM PHOSPHORICUM,calm down
+64,Dorrie,"Deer, swamp",Walczak,leader nite time,Simply White,calm down
+65,Marshall,"Turkey, australian brush",Mathewson,Sildenafil,Buspirone Hydrochloride,moderately active
+66,Eugenius,African lion,Murthwaite,Vanilla Bean Anti-bacterial foaming Hand Wash,OP Protective Spray Gel 8,not active
+67,Tessi,Lily trotter,Barribal,VALTREX,Oxygen,very active
+68,Arlette,South American sea lion,Sage,Esika,Levofloxacin,kinda of active
+69,Baldwin,Water monitor,Munroe,OPANA,LEUKOSEP - SOLX B ADDITIVE SOLUTION,not active
+70,Bobbie,Genoveva,Mollon,ProcureVITAMIN A AND D,Hydromorphone Hydrochloride,kinda of active
+71,Ian,Rufous-collared sparrow,Casarini,Clonidine Hydrochloride,Citalopram,kinda of active
+72,Gearalt,"Lemur, lesser mouse",Gwin,healthy accents tussin chest congestion,Diltiazem Hydrochloride,very active
+73,Fletcher,"Heron, boat-billed",Tumelty,Ropinirole Hydrochloride,Hydralazine Hydrochloride,kinda of active
+74,Shayla,Small-toothed palm civet,Medgwick,Renuee,Tetanus and Diphtheria Toxoids Adsorbed,moderately active
+75,Izaak,"Cormorant, king",Elliot,pain relief,Warfarin Sodium,kinda of active
+76,Elora,Black swan,Spurret,Atenolol,Doxycycline Hyclate,kinda of active
+77,Darren,Lily trotter,Van de Velde,NHS Nausea Heartburn,Nupercainal Bio-Active Hemorrhoidal,kinda of active
+78,Renae,Smith's bush squirrel,Kelson,BELSOMRA,Equate Naproxen Sodium,moderately active
+79,Hedi,Crowned eagle,Lewton,LBEL COULEUR LUXE AMPLIFIER XP,Promethazine Hydrochloride,moderately active
+80,Cristiano,Common wolf,Veal,Arizona Cypress,Levothyroxine Sodium,very active
+81,Tess,Blesbok,Bras,DOPamine Hydrochloride and Dextrose,Teveten,moderately active
+82,Gibby,Large-eared bushbaby,Fairhurst,Ketorolac Tromethamine,Hydrocodone Bitartrate And Acetaminophen,not active
+83,Ebony,"Buffalo, asian water",Kennifick,Escitalopram,simvastatin,kinda of active
+84,Madelina,Wild boar,Braybrook,Concentrated Ibuprofen,Eplerenone,not active
+85,Anita,Ring-tailed lemur,Kiehne,SolMate,Ketorolac Tromethamine,calm down
+86,Angelo,Mountain goat,McFarlane,Artificial Tears,Maximum Strength Menstrual Relief,not active
+87,Joline,"Monkey, bleeding heart",Seczyk,Cough Hay Fever,LORTUSS,not active
+88,Brandon,"Possum, common brushtail",Furmonger,Gallbladder Liver,ORFADIN,very active
+89,Jock,"Zebra, common",Brunroth,Rare Gold,Trazodone Hydrochloride,very active
+90,Adda,Levaillant's barbet,McCue,misoprostol,Dexamethasone,not active
+91,Giulia,"Dolphin, striped",Sousa,Coppertone Sport Sunscreen Lip Balm,Acclean,not active
+92,Rosco,"Cormorant, great",Muncaster,Arthritis Joints,Naproxen,calm down
+93,Noll,"Snake, racer",MacGinney,Natural Vegetable Laxative,ConRx AR,moderately active
+94,Rickard,"Stork, white",Clemenza,Cotton Candy,Oxygen,calm down
+95,Bathsheba,"Creeper, black-tailed tree",Ridsdell,VALSARTAN,Trileptal,moderately active
+96,Shannon,Tokay gecko,Passion,Kadian,Labetalol HCL,not active
+97,Tiffany,Verreaux's sifaka,Limbourne,Bedside-Care,Ampicillin,kinda of active
+98,Bertrand,Silver-backed jackal,Soff,INATAL ADVANCE,Oral Dent,moderately active
+99,Corine,White-faced tree rat,Hynde,Hydrophor,Fulton Street Market Naproxen Sodium,very active
+100,Hollie,"Wallaby, bennett's",Preon,ACNE CLEANSING WIPES,ACONITUM NAPELLUS,not active
+101,Sofie,Yellow-throated sandgrouse,Mahaffey,ECLIPSE SPF 50,Warfarin Sodium,calm down
+102,Morton,Black-winged stilt,Coorington,SENSAI CELLULAR PERFORMANCE POWDER FOUNDATION,Valsartan and Hydrochlorothiazide,not active
+103,Raquel,"Toucan, red-billed",Laise,Diathesis,Rescue Sleep,very active
+104,Hanan,Radiated tortoise,Struis,Old Spice Fresher Collection Citron,Pramosone E,not active
+105,Martita,"Porcupine, indian",Sebastian,Nicotine polacrilex,Amoxicillin and Clavulanate Potassium,not active
+106,Latrina,Yellow-rumped siskin,Atherton,MISOPROSTOL,Balsam Poplar,calm down
+107,Iorgos,Brazilian otter,Tefft,Phentolamine Mesylate,Senna Plus,calm down
+108,Stepha,"Weaver, white-browed sparrow",MacAne,Paroxetine Hydrochloride,AMOREPACIFIC,not active
+109,Craggie,"Kangaroo, western grey",Tollow,amlodipine besylate,Cyclobenzaprine Hydrochloride,kinda of active
+110,Riordan,Short-beaked echidna,Erangey,Atenolol,Olanzapine,calm down
+111,Fraser,Python (unidentified),Kernermann,Epi-Clenz Instant Hand Antiseptic,CVS SPF 8,moderately active
+112,Conrado,"Toucan, white-throated",Hully,GLUCOVANCE,Equate Ranitidine,moderately active
+113,Mitzi,Asian foreset tortoise,Hechlin,Azithromycin,Sinus Clear,not active
+114,Charmine,Crab-eating fox,Blackden,Finasteride,Hand Sanitizer,calm down
+115,Ondrea,"Heron, grey",Ambrosch,Helixate FS,Precose,kinda of active
+116,Kellia,Yellow-rumped siskin,MacCosty,Ziprasidone Hydrochloride,Allergy,calm down
+117,Waylen,Flightless cormorant,Bowfin,Atenolol,Parrot Head Fins Up Sport 30 Mist,not active
+118,Dolli,Black-fronted bulbul,O'Doogan,HYDROXYZINE HYDROCHLORIDE,Defend Cold and Cough Night,calm down
+119,Verina,"Barbet, levaillant's",Kettell,OXYGEN,VANCOMYCIN HYDROCHLORIDE,kinda of active
+120,Aubrey,"Gull, southern black-backed",Brounsell,Desmopressin Acetate,Dover Addaprin,calm down
+121,Arie,Whip-tailed wallaby,Vigar,Pseudoephedrine hydrochloride,Ibuprofen,not active
+122,Wendy,Stanley bustard,Marlor,Indomethacin,CLARINS Extra-Comfort Broad Spectrum SPF 15 Sunscreen Tint 112,kinda of active
+123,Darell,"Raven, cape",Giovanetti,Ocean Breeze,Good Mood Enhancer,moderately active
+124,Shirleen,"Albatross, galapagos",Fevier,Bisoprolol Fumarate and Hydrochlorothiazide,Pramipexole,not active
+125,Elvera,Leopard,Jeaves,Ofloxacin,Hydrocodone bitartrate and acetaminophen,not active
+126,Ninnetta,"Goose, egyptian",Pasmore,Topcare Sinus Relief,Clarithromycin,very active
+127,Cariotta,Magellanic penguin,Harmes,Alba Sunblock Natural Facial SPF 30,Secura Protective,very active
+128,Cassandre,King cormorant,Chesney,IGNATIA AMARA,Black Birch,moderately active
+129,Garrot,Ringtail cat,Maulden,Accident - Injury Rescue,Acetaminophen,very active
+130,Francois,"Rat, white-faced tree",Lissaman,Calgest,11 Thyroid Adrenal,kinda of active
+131,Talyah,Prairie falcon,Sexton,SHISEIDO SUN PROTECTION EYE,Vancomycin Hydrochloride,calm down
+132,Franny,"Dolphin, bottle-nose",Sincock,Clobetasol Propionate,ANTIPYRINE AND BENZOCAINE,kinda of active
+133,Nessie,Ring-necked pheasant,McGaughay,Leader Nasal,Sunmark Antacid,very active
+134,Olivette,Ferruginous hawk,Asquez,Pulmo Mercurius Special Order,Mucinex,calm down
+135,Hartwell,Fork-tailed drongo,Murty,Promethazine Hydrochloride,Zipsor,moderately active
+136,Humfrey,Stone sheep,Edsall,fexofenadine hydrochloride,Lemon Verbena Antibacterial Foaming Hand Wash,kinda of active
+137,Jaymee,Cape cobra,Chace,Clarithromycin,True Natural broad spectrum spf 50,very active
+138,Jobie,Common pheasant,Burnsyde,Hamster Epithelium,Critical Care Aspirin to Go,moderately active
+139,Gino,"Owl, white-browed",Pierpoint,Prograf,Midodrine HCl,calm down
+140,Gothart,Malabar squirrel,Magnar,QUACK GRASS POLLEN,Old Spice High Endurance,very active
+141,Joseito,"Falcon, prairie",MacGilrewy,Peptic Relief,Maximum Strength Stay Awake,kinda of active
+142,Wendell,Yellow-necked spurfowl,Darrigoe,Pure Petroleum,Levothyroxine Sodium,not active
+143,Doralia,"Beaver, european",Cuchey,Hayfever Tonic,Gradual Self-tanning sunscreen SPF 20,calm down
+144,Chickie,Orca,O'Henehan,SELZENTRY,Venlafaxine Hydrochloride,not active
+145,Hershel,"Capuchin, black-capped",Roden,verapamil hydrochloride,BENZTROPINE MESYLATE,very active
+146,Horst,"Opossum, american virginia",Gavagan,Dantrolene Sodium,Lidocaine,calm down
+147,Nadeen,"Bird, secretary",Tenbrug,Ketorolac Tromethamine,Ondansetron,very active
+148,Gregorius,"Hawk, galapagos",McRinn,Bisoprolol Fumarate,Leucovorin Calcium,moderately active
+149,Ramsey,"Pintail, bahama",Redwall,careone acid reducer,"QCare Rx Oral Cleansing and Suctioning System, Q4",moderately active
+150,Kristien,Violet-eared waxbill,Janning,Tinted BB,FARXIGA,moderately active
+151,Stepha,"Quail, gambel's",Howlin,PROCRIT,BUDEPRION,kinda of active
+152,Danni,"Magpie, black-backed",Madgin,allergy,Clonidine Hydrochloride,very active
+153,Buddie,Cuis,Medling,Sheep Sorrel,PREMIER VALUE TRIPLE ANTIBIOTIC PLUS,calm down
+154,Zorana,"Bear, sloth",Shelmardine,Ceftriaxone Sodium,Onopordon Comp.,kinda of active
+155,Wilt,Smith's bush squirrel,Barock,phenylephrine hydrochloride,CLEAR DIFFERENCE ADVANCED BLEMISH SERUM,calm down
+156,Cherry,"Cormorant, javanese",McNicol,wal tussin,Infants Gas Relief,kinda of active
+157,Paige,"Swan, trumpeter",Keenan,Ondansetron,rexall lice killing,kinda of active
+158,Kelley,Canadian tiger swallowtail butterfly,Spurdle,Clarins UV Plus HP SPF 40 Day Screen High Protection,Anastrozole,not active
+159,Langsdon,"Wagtail, african pied",Piola,Belladonna 30C,SHOPKO TRIPLE ANTIBIOTIC PLUS,calm down
+160,Harwilll,Tsessebe,Harburtson,Oxycodone and Acetaminophen,Enoxaparin Sodium,moderately active
+161,Shannah,Asiatic jackal,Kealey,Austrian Pine,Amlodipine Besylate and Benazepril Hydrochloride,not active
+162,Teresa,Pig-tailed macaque,Berrill,Sunmark calcium antacid,Verapamil Hydrochloride,calm down
+163,Peyter,Chameleon (unidentified),Twinning,Haloperidol,Female Fibroids,kinda of active
+164,Maurits,Cape clawless otter,Echalier,Sucralfate,Dual Action Complete,calm down
+165,Hale,"Sheep, american bighorn",Tallquist,OXYGEN,Nicotine,moderately active
+166,Katerine,"Pie, indian tree",Howden,Equate Antacid,Robaxin,kinda of active
+167,L;urette,Royal tern,Arsnell,Oxygen,Nasal,very active
+168,Harriett,Blue and gold macaw,Oliphand,Jantoven,Secret Scent Expressions,very active
+169,Kristien,King vulture,Andress,"Standardized Mite, Dermatophagoides pteronyssinus",AZACTAM,not active
+170,Alida,"Tinamou, elegant crested",Lesley,Zep Provisions Pot and Pan Premium,"Smut, Wheat",kinda of active
+171,Manda,Mudskipper (unidentified),Meriton,Nabumetone,Laneige sliding pact EX,moderately active
+172,Gizela,"Langur, hanuman",Pulford,Amantadine Hydrochloride,Anzemet,kinda of active
+173,Vonnie,"Lion, california sea",MacNeice,ESIKA,Docusate Sodium,very active
+174,Erin,"Macaw, blue and gold",Kamen,COLLAGEN RESURGENCE STEMCELL BB,Belucie Luxury Essential foundation BB,moderately active
+175,Laureen,"Crane, sarus",Sebrook,Quetiapine Fumarate,Fire Ant,kinda of active
+176,Winnifred,"Owl, madagascar hawk",Purkiss,stool softener,Nascobal,kinda of active
+177,Cassy,"Shrike, crimson-breasted",Sidebottom,West Sycamore,Nifedipine,kinda of active
+178,Delphinia,Knob-nosed goose,Lavender,Hydrocodone Bitartrate And Acetaminophen,Soothing Advanced Arnica,not active
+179,Garreth,"Bustard, kori",Arrell,Good Sense Tussin CF,Colgate,very active
+180,Ami,Laughing kookaburra,Varnals,Fentanyl,DDF,not active
+181,Jenni,"Meerkat, red",Limming,Norpace,Oxycodone Hydrochloride,kinda of active
+182,Lindsey,European badger,Trude,Colyte,Trazodone Hydrochloride,very active
+183,Deana,"Gull, pacific",Vasyutin,Carvedilol,Clonazepam,moderately active
+184,Kassi,"Glider, sugar",Shale,Finasteride,Capecitabine,kinda of active
+185,Sonnie,Hottentot teal,Battram,Omeprazole,Tussin DM,kinda of active
+186,Phil,"Starling, superb",Shall,Motion Sickness Relief,KETOROLAC TROMETHAMINE,kinda of active
+187,Honey,Ostrich,Penhalurick,"Sodium Citrate Blood-Pack Units, (PL 146 Plastic)",Mirtazapine,kinda of active
+188,Blanca,Tarantula,Purton,Idole Lemon,SUPERDEFENSE DAILY DEFENSE MOISTURIZER BROAD SPECTRUM SPF20 (COMBINATION OILY - OILY),kinda of active
+189,Egor,American alligator,Brodway,ATIVAN,Amlodipine Besylate,calm down
+190,Chelsey,"Turkey, common",Renahan,lisinopril,POPULUS DELTOIDES SSP MONILIFERA POLLEN,very active
+191,Gerard,"Gull, pacific",Fibben,ck one 3-in-1 face makeup,Earths Best Mineral Sunscreen Broad Spectrum SPF30,moderately active
+192,Fanni,Blue-tongued skink,Kalberer,Freds Chest Congestion Relief,Cows Milk,kinda of active
+193,Tremayne,"Cliffchat, mocking",Halladey,Fosinopril Sodium,Virti-SULF,not active
+194,Willey,"Goose, canada",Lamyman,Chlordiazepoxide Hydrochloride,Ibuprofen,very active
+195,Leah,"Cat, jungle",Camel,Levetiracetam,Arnica Cream,calm down
+196,Alyse,"Cormorant, javanese",Chadbourne,Bio Gorse,CVS Pharmacy,calm down
+197,Donnie,Common langur,Gatesman,Buprenorphine HCl and Naloxone HCl,Up and Up Anticavity Toothpaste Multi Function,kinda of active
+198,Cyb,Osprey,Mashro,Pleo Sanuvis,CLE DE PEAU BEAUTE RADIANT FLUID FOUNDATION,not active
+199,Dulci,Whip-tailed wallaby,Cohn,citroma,Trazodone Hydrochloride,calm down
+200,Jareb,"Viper, egyptian",McKinty,Sheer Defense Tinted Moisturizer SPF 15 ML 40,Lemon Zest Antibacterial Foaming Hand Wash,kinda of active
+201,Jephthah,African porcupine,Henrichs,Lactulose,Metadate CD,very active
+202,Rourke,American badger,Delacourt,Luminous Goddess Aura Live Melting Foundation,BRIGHTER BY NATURE,moderately active
+203,Garnet,"Starling, superb",Wittke,DG ATHLETES FOOT,Aldex AN,kinda of active
+204,Hersh,"Waterbuck, defassa",Pressdee,Fenofibric Acid,Betalido Kit,very active
+205,Ignaz,Cook's tree boa,Dorken,meloxicam,Oxytocin,calm down
+206,Sinclare,"Shark, blue",Rodman,Anastrozole,NAT SULPH,very active
+207,Burgess,Purple moorhen,Bridal,BROMUS INERMIS POLLEN,Procardia,moderately active
+208,Vivia,"Woodcock, american",Kliner,SESAME SEED,Multi-Symptom Nighttime Cold,kinda of active
+209,Meredeth,Gray heron,Tatum,Methadone Hydrochloride,Relief OTC antacid,kinda of active
+210,Luisa,"Rhea, gray",Lowde,Triple Antibiotic,Peter Island Kids Sunscreen,moderately active
+211,Peder,Alpaca,MacCarroll,Fentanyl,LOVEA,kinda of active
+212,Siusan,Carmine bee-eater,Beddo,Meijer,BECONASE,not active
+213,Westbrook,"Francolin, coqui",Rennenbach,Levofloxacin,PINUS STROBUS POLLEN,very active
+214,Meghann,Numbat,Arnold,Trepoxen-250,Sun Total Protector Color 30 Light Tint,not active
+215,Jenda,"Crocodile, nile",Emps,Fragmin,Sleep Aid,kinda of active
+216,Claire,Seven-banded armadillo,Aberkirder,Isopropyl Alcohol,Cold and Hot Medicated,very active
+217,Dulcinea,Red howler monkey,O' Timony,Pussy Willow,PREVNAR 13,not active
+218,Krispin,"Wallaroo, common",Hamill,Gabavale-5,good sense athletes foot,not active
+219,Doe,"Wolf, common",Presshaugh,Chloroquine Phosphate,Toppik Mens Hair Regrowth Treatment,not active
+220,Inglis,Rose-ringed parakeet,Geelan,Pro-Den Rx,Sleep Aid,moderately active
+221,Vincenz,"Lion, asian",Lewing,MethylPREDNISolone,Whole Egg,moderately active
+222,Kennett,"Dragon, komodo",Blunsom,Orfadin,Coconut,calm down
+223,Liana,"Barbet, black-collared",Kleinber,Lucky Blue Ice,Dexmethylphenidate Hydrochloride,calm down
+224,Cirilo,White stork,Medmore,Cyzone,SERTRALINE,not active
+225,Linnea,Pygmy possum,Kitchin,dg health aspirin,Australian Gold,calm down
+226,Alden,Indian porcupine,Olliff,J-MAX,Easily Angered,moderately active
+227,Mildrid,"Shark, blue",Cullrford,Leader,Opahl,moderately active
+228,Bobbie,"Eagle, long-crested hawk",Greatbanks,Conney Aspirin Free,Allopurinol,not active
+229,Leighton,"Roller, lilac-breasted",Le Pine,Morphine Sulfate,BOTRYTIS CINEREA,very active
+230,Humberto,"Shrike, common boubou",Minto,Sodium Bicarbonate,ANTIMONIUM TARTARICUM,moderately active
+231,Yoshi,"Parrot, hawk-headed",Malicki,a.c.care Bees Shield B.B Cream,Hydroxyzine Pamoate,very active
+232,Korie,"Weaver, lesser masked",Velden,Clobetasol Propionate,Magnesium Sulfate in Dextrose,kinda of active
+233,Lyndell,"Turaco, violet-crested",Hullett,Pitressin,Badger SunScreen,very active
+234,Raimund,Grant's gazelle,Karus,Cinnabar Dandelion Cold Relief,Psoriasin,moderately active
+235,Lorne,"Butterfly, canadian tiger swallowtail",Lailey,Vyvanse,Constipation,not active
+236,Filide,"Rat, arboral spiny",Ranaghan,Salicylic Acid,Lisinopril,calm down
+237,Theo,Cuis,Grayley,BABY SUNSCREEN,Doxazosin,moderately active
+238,Cristabel,"Lion, mountain",Elverstone,Aminophylline,Ibuprofen,moderately active
+239,Kai,South African hedgehog,Hilliam,ERY-TAB,Fioricet with Codeine,calm down
+240,Bobinette,"Seal, common",Stockney,ropinirole hydrochloride,Famotidine,calm down
+241,Tawnya,Brolga crane,MacAllaster,Carbocaine,WYANDOTTE SANIFECT E3-NA,not active
+242,Auberta,"Ass, asiatic wild",Headley,Secret Invisible Solid,HYDROXYZINE PAMOATE,calm down
+243,Palm,Eastern cottontail rabbit,Drains,gemcitabine,Oxytocin,kinda of active
+244,Hersh,White-nosed coatimundi,Seargeant,Flawless Finish Dual Perfection Makeup SPF 8 Vanilla,Phineas and Ferb Sun Smacker SPF 24 Secret Agent Strawberry,not active
+245,Ricoriki,Snowy sheathbill,Zelland,Diphenhydramine,Sun Shades Lip Balm,kinda of active
+246,Isabella,"Raven, white-necked",Guinness,Hydromorphone Hydrochloride,HEALTHY HANDS SANITIZING HAND WIPES WITH ALOE,not active
+247,Aylmar,"Beaver, american",Mathissen,Azithromycin,Bio Minulus,moderately active
+248,Lynnea,"Skunk, striped",Serck,ACETAMINOPHEN AND CODEINE,Antibacterial Soap,not active
+249,Kelci,"Stork, yellow-billed",Croxton,Halls,Caffeine Withdrawal,calm down
+250,Peggie,American alligator,Gazzard,Instant Hand Sanitizer,Pantoprazole Sodium,kinda of active
+251,Lavina,"Shrew, mandras tree",Ellaman,LISINOPRIL AND HYDROCHLOROTHIAZIDE,benzonatate,very active
+252,Maryanna,Common wombat,Collen,Cystex,Prednisone,not active
+253,Johnath,Superb starling,Glasard,Reef Safe SPF 36,DEXTROSE,kinda of active
+254,Giorgia,"Stork, yellow-billed",Pikhno,Anti-Bacterial Hand Gel Sweet Pea,Axe,kinda of active
+255,Sherri,"Kangaroo, jungle",Lemmers,PediaCare Childrens Plus Flu,Equate Antacid,calm down
+256,Cristobal,"Marmot, yellow-bellied",Kase,Prednisone,Irbesartan,kinda of active
+257,Kai,Hanuman langur,Furzey,Synthroid,Aveeno Baby Daily Moisture,moderately active
+258,Regen,"Deer, savannah",Mathonnet,Cimetidine,Carvedilol,very active
+259,Daffi,Barrows goldeneye,Bolderson,Alprazolam,Heparin Sodium,calm down
+260,Fay,"Zorro, azara's",Ensor,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,Quetiapine Fumarate,moderately active
+261,Isacco,"Wallaroo, common",Gumary,CIDOFOVIR DIHYDRATE,TURKEY FOOD,kinda of active
+262,Gaby,"Antelope, sable",Klambt,ARANESP,dg health pain relief,very active
+263,Lindsey,Seven-banded armadillo,Zarfai,No7 Lift and Luminate Day Sunscreen Broad Spectrum SPF 15,Lidocaine,not active
+264,Davin,"Pie, rufous tree",Dibsdale,Propranolol Hydrochloride,Yellow Dock,calm down
+265,Minerva,Snow goose,Kittman,ZONISAMIDE,Vicoprofen,calm down
+266,Keir,Bird (unidentified),Torricina,Lidocaine Hydrochloride,MINOXIDIL,not active
+267,Daffi,Pied kingfisher,Easthope,CLONIDINE HYDROCHLORIDE,Naproxen Sodium,not active
+268,Sarine,"Echidna, short-beaked",Whight,Metoprolol Tartrate,TOPIRAMATE,kinda of active
+269,Meredith,Common rhea,Helleker,Adult Tussin Cough and Cold CF,migraine relief,very active
+270,Tammy,"Wallaby, red-necked",Yule,Gemfibrozil,Verapamil,not active
+271,Daphna,Sulfur-crested cockatoo,Semens,Dr. Dream Advanced Facial Treatment Serum,Aesculus Hipp Kit Refill,not active
+272,Verney,"Wallaby, bennett's",Boniface,NATRUM SULPHURICUM,DEXEDRINE,not active
+273,Berri,Golden-mantled ground squirrel,Koppes,HemeNatal OB,Clarins UV Plus HP SPF 40 Day Screen High Protection,very active
+274,Fritz,"Boar, wild",Scutchin,Acetaminophen PM Rapid Release,Atorvastatin Calcium,moderately active
+275,Sadie,"Cockatoo, slender-billed",Marconi,rx act pain relief,CITALOPRAM HYDROBROMIDE,moderately active
+276,Arel,Red meerkat,Kyneton,Hydrocodone Bitartrate with Acetaminophen,Cardene I.V.,kinda of active
+277,Harrison,"Boa, emerald green tree",Verrier,CVS Pharmacy Nighttime Severe Cough and Cold,Alpet E3 Hand Sanitizer Spray,calm down
+278,Corabel,Blue racer,Paris,Isopto Tears,Amlodipine Besylate and Benazepril Hydrochloride,moderately active
+279,Darn,"Phascogale, brush-tailed",Conan,Tybost,Prilosec OTC,not active
+280,Easter,"Duiker, gray",Cammocke,Povidone-Iodine,Lidocaine Hydrochloride,calm down
+281,Lela,Common genet,Heinzel,DawnMist Deodorant Bar No. 1/2,"Chlorpheniramine Maleate, Phenylephrine Hydrochloride",not active
+282,Eward,Kinkajou,Imos,PERFECTION LUMIERE VELVET,Hydrocortisone,moderately active
+283,Josy,Oriental short-clawed otter,Franciotti,NOEVIR N5,Hydrogen Peroxide,kinda of active
+284,Basilius,"Bird, magnificent frigate",Yerrington,Tramadol Hydrochloride,Goongsecret Calming Bath,calm down
+285,Calley,"Hornbill, red-billed",Sexon,buspirone hydrochloride,After Shave Broad Spectrum SPF 15,kinda of active
+286,Zola,Banded mongoose,Charlson,Norepinephrine,Badger SPF 34 Anti-Bug Sunscreen,very active
+287,Ruddie,Toddy cat,Connue,Amoxicillin,Mango,calm down
+288,Giana,Springbuck,Marden,Ibuprofen,White Oak Pollen,kinda of active
+289,Neila,Lesser flamingo,Dary,Benadryl,T-CHEM ANTIMICROBIAL HAND,not active
+290,Ariella,Ringtail,Laxson,Hand Wash,Penicillium notatum,kinda of active
+291,Fawnia,Laughing kookaburra,Spadari,Rifampin,Sterile Alcohol,moderately active
+292,Waite,"Iguana, common green",Bridgstock,Lidocaine Viscous,Ceftriaxone Sodium,not active
+293,Royal,Trumpeter swan,Avrashin,Metformin Hydrochloride,Methocarbamol,moderately active
+294,Lelah,Western palm tanager (unidentified),Stollhofer,Tucks Take Alongs Towelettes,TYLENOL Cold Multi-Symptom Daytime,moderately active
+295,Kym,Anaconda (unidentified),Alders,kirkland signature Minoxidil,BareMinerals,calm down
+296,Walliw,Sidewinder,Gibbins,Minocin,TROSPIUM CHLORIDE,moderately active
+297,Tiffi,Crab (unidentified),Tenney,LISINOPRIL,Anti-Bacterial Hand Gel Vanilla Cupcake,not active
+298,Anstice,White-winged black tern,Kefford,Cefuroxime Axetil,SOMBRA COOL THERAPY,very active
+299,Ethelind,Gray rhea,Tremoulet,Healthy Accents triple antibiotic,Lexapro,moderately active
+300,Claus,Striped hyena,Matchell,Zonatuss,Care One,calm down
+301,Myrwyn,Yellow-rumped siskin,Jachimiak,Safe Harbor - Natural Anti-Aging Sunscreen Broad Spectrum SPF30 Sunscreen Sensitive Skin,Imipenem and Cilastatin,not active
+302,Garold,Western bearded dragon,Lampert,LBEL,nanocare,very active
+303,Mari,Common duiker,Esmead,Diclofenac Sodium and Misoprostol,Pedia-Lax,not active
+304,Eddi,Knob-nosed goose,Brackenbury,Degree,CARBON DIOXIDE,moderately active
+305,Cosetta,Blue racer,McGlue,SENSAI FLUID FINISH LASTING VELVET FV103,Degree,very active
+306,Bryana,Collared lemming,Gatiss,Fragmin,Chestnut Oak,moderately active
+307,Rebeca,Greater flamingo,Freund,Ibuprofen,Captopril,not active
+308,Cahra,Small Indian mongoose,Livzey,Ivarest,Epinephrine,moderately active
+309,Rosemarie,"Dove, ring",Balsellie,Pigweed Mixture,Clearskin Professional,not active
+310,Letta,"Vulture, griffon",Clatworthy,Hyoscyamine Sulfate,Deep Cleaning Mask,not active
+311,Alfreda,Brolga crane,Perdue,Nasal Decongestant,Divalproex Sodium,calm down
+312,Catlee,"Antelope, four-horned",Brabbins,Iprivask,Fluor-a-day,calm down
+313,Timoteo,"Squirrel, arctic ground",Acland,Unithroid,Absorica,moderately active
+314,Findlay,African darter,Maplestone,Indomethacin,ANTIBACTERIAL WIPES Fresh Aloe,not active
+315,Enrique,"Roller, lilac-breasted",Sefton,Chlorhexidine Gluconate,Surmontil,very active
+316,Rhetta,Red-tailed hawk,Allsebrook,Levofloxacin,BOSLEY PROFESSIONAL STRENGTH HAIR REGROWTH TREATMENT Regular Strength For Men,very active
+317,Decca,European beaver,Bulle,Degree for Men Absolute Protection Cool Rush,Acetaminophen - APAP Arthritis,moderately active
+318,Rustin,"Dragon, asian water",Lidgey,ASPERGILLUS FUMIGATUS,Hazelnut Pollen,very active
+319,Abagail,"Dolphin, striped",Latimer,equate miconazole 1,Quintessence Q-Sunshade Leave In Hair Conditioner and Scalp Protectant SPF 30,kinda of active
+320,Errol,African ground squirrel (unidentified),Fairest,Instant Hand Sanitizer Foam,diltiazem hydrochloride,calm down
+321,Karisa,"Zebra, plains",Burnhard,ANTIBACTERIAL FOAMING,Pain Relieving Patch,very active
+322,Karisa,"Stork, european",McFadden,Valacyclovir Hydrochloride,MEPROBAMATE,not active
+323,Hastings,"Elephant, asian",Slyman,Atracurium Besylate,Zolpidem tartrate,not active
+324,Brandyn,Kelp gull,Callf,Maximum Strength Flu BP,Belladonna Alkaloids with Phenobartbital,very active
+325,Caro,Snake (unidentified),Gavey,Adenoscan,Catapres,calm down
+326,Benita,"Lynx, african",Stanistrete,Maracuja Miracle Foundation 12-Hour Foundation Broad Spectrum SPF 15 Sunscreen,Clonazepam,calm down
+327,Kathrine,Oriental white-backed vulture,Petegre,Cardene,H-Releve Hemorrhoidal,kinda of active
+328,Linoel,Black-necked stork,Raleston,Anhydrous SPF 30,benzonatate,very active
+329,Hank,Common zebra,Tomblings,Gillette Clinical,Western White Pine,kinda of active
+330,Whitney,"Kudu, greater",Whitehorne,buprenorphine hydrochloride,Oxygen,kinda of active
+331,Austine,Pocket gopher (unidentified),Frogley,piperacillin and tazobactam,Terbinafine,not active
+332,Camila,White-tailed deer,Symers,Treatment Set TS333315,Estradiol,very active
+333,Kiri,Roan antelope,Shears,SUKANG Alcohol Prep Pads Medium,Vaporizing,very active
+334,Bayard,Purple moorhen,Pride,Safeguard,Safe-T-Fresh Alcohol Free Hand Sanitizer,not active
+335,Jordanna,"Rabbit, eastern cottontail",Sandell,Carbamazepine,Healing,very active
+336,Marie,"Bushbaby, large-eared",Di Nisco,Losartan Potassium and Hydrochlorothiazide,Ri Mucil,kinda of active
+337,Edgar,Ring-tailed possum,Gian,STANDARDIZED MITE D FARINAE,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate",very active
+338,Jo,"Rhinoceros, black",Povey,Hydrochlorothiazide,Chloroprocaine Hydrochloride,kinda of active
+339,Eustacia,Black spider monkey,Culbert,McKesson Nite Time,APIS MELLIFICA,very active
+340,Reinaldos,"Cormorant, javanese",Branthwaite,Betamethasone Dipropionate,FRESH AFTER VACANCE BODY SOOTHING,moderately active
+341,Shandeigh,"Moorhen, purple",Trassler,Tartar Control Plus,Marvel The Avengers Hand Sanitizer,not active
+342,Ardis,Black-backed jackal,Beardsley,DUAL ACTION CHERRY COUGH SUPPRESSANT ORAL ANESTHETIC,Ampicillin,moderately active
+343,Fulton,Short-beaked echidna,Tabourin,Dog Epithelium,Sodium Polystyrene Sulfonate,moderately active
+344,Deanna,"Goldeneye, common",Neild,Penicillin V Potassium,Toposar,not active
+345,Joey,Greater roadrunner,Crown,Sertraline,ribavirin,very active
+346,Fanchon,"Monster, gila",Doiley,H Plus Care Medicated Wipes,Listerine Essential Care,not active
+347,Ogdon,"Possum, ring-tailed",Garrat,Ibuprofen,Aquaphor Healing,kinda of active
+348,Garret,"Alligator, mississippi",Corrison,Pediatric Glycerin,Cleanse,very active
+349,Minnaminnie,Harbor seal,Ibarra,Misoprostol,Entecavir,moderately active
+350,Loutitia,"Cat, miner's",Nattriss,HGH,Colgate,not active
+351,Blinni,Roseate cockatoo,Southern,Caduet,Alternaria alternata,kinda of active
+352,Addi,Two-toed sloth,Coulthard,Loperamide Hydrochloride,Acne Medication 5,not active
+353,Janith,"Genet, common",Patterfield,Amantadine Hydrochloride,Betamethasone Valerate,kinda of active
+354,Porter,"Dove, mourning collared",Guillem,Paroxetine,Escitalopram Oxalate,very active
+355,Clarey,Pied butcher bird,Currom,Topiramate,SINGULAIR,moderately active
+356,Tabbatha,"Beaver, eurasian",Bussey,Tolazamide,Metoprolol Tartrate,calm down
+357,Lowrance,American bison,Hearons,RHEUMATIC PAINS,Super Restorative Foundation True Lift SPF 15 Tint 2.5,not active
+358,Humphrey,"Snake, carpet",Ramlot,Amoxicillin and Clavulanate Potassium,Cough DM,kinda of active
+359,Myrlene,"Heron, little",Muselli,Adrenaclick,Kaopectate Regular Strength Peppermint Flavor Anti Diarrheal,not active
+360,Gardy,African polecat,Thow,Sumatriptan Succinate,DISCOUNT DRUG MART,moderately active
+361,Cloris,"Moorhen, purple",Loukes,Verapamil Hydrochloride,ibuprofen pm,not active
+362,Aimil,Common raccoon,Darrigoe,Belli Acne Control Spot Treatment,Levothyroxine Sodium,not active
+363,Trip,"Peacock, indian",Freda,Hydrochlorothiazide,topcare feminine,very active
+364,Bette-ann,"Spider, wolf",Mainston,Anti-Bacterial Hand,AK-POLY-BAC,very active
+365,Delores,"Raven, white-necked",Fleming,Promethazine Hydrochloride and Codeine Phosphate,DR.ISAO VITA WHITE SERUM,calm down
+366,Ronda,"Vulture, lappet-faced",Plitz,SHISEIDO UV PROTECTIVE FOUNDATION,Cephalexin,calm down
+367,Kaleb,"Gull, kelp",Pidgeley,Mirtazapine,No Foundation Foundation No.2 Light to Medium,not active
+368,Kermie,Galapagos penguin,Tidbold,Good Sense Nicotine,COLAZAL,very active
+369,Gladi,"Gecko, tokay",Caunter,Methylin,Quetiapine Fumarate,moderately active
+370,Borg,"Frogmouth, tawny",Looney,Astound Antibac,CYCLOBENZAPRINE HYDROCHLORIDE,kinda of active
+371,Georges,Llama,Box,Sensorcaine,Golden Pear Antibacterial Foaming Handwash,kinda of active
+372,Trescha,Mexican beaded lizard,Bartolomeotti,EMLA,Nitro-Time,very active
+373,Neilla,"Butterfly, canadian tiger swallowtail",Hincham,Glyburide,Metformin Hydrochloride,very active
+374,Theodora,Southern lapwing,Bittleson,Nucynta,Asepxia,very active
+375,Jan,Purple grenadier,MacCumeskey,Novolin,BAC-D Antibacterial Wound and Skin care,kinda of active
+376,Rebecca,Greater blue-eared starling,Sired,Clean Xpress Alcohol Gel Instant Skin Sanitizer,Ammens Medicated Powder Original,moderately active
+377,Giselbert,"Rhinoceros, black",Whiley,Prednisone,Regular Strength Tri-Buffered Aspirin,kinda of active
+378,Gillian,"Phalarope, red-necked",Lornsen,AMITIZA,AVALIDE,not active
+379,Brandtr,African darter,Heady,Proactiv plus Skin Purifying Mask,Givenchy Photo Perfexion Fluid Foundation SPF 20 Perfect Amber Tint 8,kinda of active
+380,Hannah,Dabchick,Cloughton,Creamy Petroleum Jelly,Enoxaparin Sodium,kinda of active
+381,Marena,"Otter, small-clawed",Deeney,hemorrhoidal,STRAWBERRY,moderately active
+382,Andee,Common boubou shrike,Ixor,Sodium Sulfacetamide and Sulfur,Gabazolamine-0.5,very active
+383,Mae,Magnificent frigate bird,Galbreth,Clonidine,Glytone acne treatment flesh tinted acne,moderately active
+384,Carlita,"Bettong, brush-tailed",Hadland,SaniGuard-SF,PNV-Select,calm down
+385,Jacinthe,Reindeer,Fawke,Grain and Seed Antigen,health mart nicotine,moderately active
+386,Trumann,"Magpie, australian",Ballard,Gentamicin Sulfate in Sodium Chloride,HAMSOA ATOBY MEDI,not active
+387,Fidole,Large cormorant,Boylan,Qualaquin,Imari Blossom,kinda of active
+388,Albie,"Bear, polar",Kaindl,ANCOBON,Tekturna HCT,calm down
+389,Lauralee,Brown pelican,Drysdale,Nitrofurantoin Monohydrate/ Macrocrystalline,Sleepinal,kinda of active
+390,Tallie,"Starling, red-shouldered glossy",Tozer,Sinus Congestion and Pain,Halls,kinda of active
+391,Kleon,Stanley crane,Vitte,Tryptophan,Ibuprofen,calm down
+392,Conant,Blue-faced booby,Leebeter,Artificial Tears,PURE SHEER,kinda of active
+393,Idelle,"Rhea, common",Roote,Dr. Jart Shimmering Beauty Balm 02 Medium - Deep,GUNA-IL 10,not active
+394,Helena,Red-necked wallaby,Orred,Arnica,COUMADIN,kinda of active
+395,Kelila,"Kangaroo, brush-tailed rat",Szapiro,Hydrocodone Bitartrate and Acetaminophen,UP and UP,moderately active
+396,Freemon,Three-banded plover,Matthaus,Entereg,Amoxicillin and Clavulanate Potassium,not active
+397,Hillier,Native cat,Becerro,Clindamycin,DayTime NightTime Cold/Flu,calm down
+398,Sheena,Pig-tailed macaque,Hoyles,Simvastatin,Aveda Active Composition,kinda of active
+399,Gerek,Asian water buffalo,Drummer,Hydrocodone bitartrate and acetaminophen,Theraworx Patented Foam Formulation,moderately active
+400,Nanice,Magellanic penguin,Tickle,temazepam,Clearasil PerfectaWash,very active
+401,Patton,Roseat flamingo,Adlem,Pain and Fever,Orris Root,not active
+402,Augustus,Red-billed buffalo weaver,Cadle,Synercid,Antiseptic,calm down
+403,Valaree,Pied kingfisher,Stealy,Kiss My Face - Oat Protein Complex SPF 30,Maprotiline Hydrochloride,very active
+404,Abba,Giant girdled lizard,Chalcroft,Antiseptic,symmetry Non-Alcohol Foaming Hand Sanitizer with Allantoin and Aloe,moderately active
+405,Camilla,"Armadillo, giant",L'Hommeau,VENTOLIN,SKIN STRONG - SKIN EQUIPMENT,calm down
+406,Nero,"Squirrel, uinta ground",Swiffin,HYZAAR,Polyethylene Glycol (3350),not active
+407,Rutherford,North American red fox,Dikle,Myco Nail A Antifungal Solution,Carbamazepine,very active
+408,Becka,Blue catfish,Austin,Pleo Lat,Stool Softener,very active
+409,Nolana,White-lipped peccary,Haile,Clearasil,PERTZYE,kinda of active
+410,Flem,Square-lipped rhinoceros,Cain,NABUMETONE,KENZAPUR,kinda of active
+411,Kale,"Lizard, giant girdled",Scoffham,SAVONE Skin Therapy Age Essentials SPF 30 Sports Sunscreen,berkley and jensen allergy,moderately active
+412,Kippy,Roe deer,Di Biagi,Triamterene and Hydrochlorothiazide,"Carisoprodol, Aspirin and Codeine Phosphate",moderately active
+413,Sibyl,African lynx,Shakeshaft,ARANESP,Vitamin D,not active
+414,Dido,"Raven, cape",Boaler,Bupropion Hydrochloride,Gabapentin,kinda of active
+415,Alma,Glossy starling (unidentified),Gladbeck,Salicylic Acid,Arbonne Clear Advantage Toner,calm down
+416,Brannon,"Hawk, red-tailed",Carr,SUNMARK NICOTINE TRANSDERMAL SYSTEM,Ibuprofen,moderately active
+417,Kikelia,Common raccoon,Bonny,Gablofen,LIQUIDAMBAR STYRACIFLUA POLLEN,kinda of active
+418,Chris,Cape starling,Sibyllina,AVALIDE,Provera,very active
+419,Dallas,"Stork, yellow-billed",Kitchaside,Silver Maple,Oxybutynin Chloride,calm down
+420,Chrysa,Australian spiny anteater,Dicken,ERIVEDGE,VIVITROL,moderately active
+421,Earlie,"Bird, black-throated butcher",Hannigane,Zenzedi,Hive Away,very active
+422,Edouard,"Chickadee, black-capped",Cone,Citalopram Hydrobromide,Stool Softener,moderately active
+423,Erminia,Red-necked wallaby,Pendergast,Amoxicillin,ANTIBACTERIAL FOAMING HAND SP CHERRY AND ALMOND,moderately active
+424,Nicoline,"Quoll, eastern",Ingreda,Extra Strength Mapap,Lotrimin Ultra,kinda of active
+425,Rolph,"Lory, rainbow",Tomkies,Adenoscan,Alcohol Swab with Benzocaine,very active
+426,Sigismund,"Zorro, common",Pichmann,Lidocaine Hydrochloride,"Pollens - Trees, Tree Mix 5",not active
+427,Mile,"Owl, great horned",Arrandale,Nortriptyline Hydrochloride,PREDNISOLONE ACETATE,calm down
+428,Sonnie,"Starling, greater blue-eared",Bunney,EPIVIR,Homeopathic Womens Libido,calm down
+429,Phillie,"Dove, emerald-spotted wood",Bisco,Regional Allergies Plains U.S.,MOSQUITO FOR DIAGNOSTIC USE ONLY,not active
+430,Zia,Tree porcupine,Paunton,CHAPSTICK FLAVA CRAZE,Fentanyl buccal,very active
+431,Linda,Field flicker,Cadwaladr,Piroxicam,Venlafaxine Hydrochloride,calm down
+432,Sari,Red-cheeked cordon bleu,Dinis,Ibuprofen PM,Bystolic,moderately active
+433,Stephenie,"Rhinoceros, square-lipped",Tabb,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",Codeine Sulfate,moderately active
+434,Leoline,"Genet, small-spotted",Hagwood,Firebush/Burning Bush,ZOSTAVAX,not active
+435,Oliviero,North American red fox,Synke,Diclofenac Sodium,Soothe and Cool Free Medseptic,calm down
+436,Nancee,Coqui francolin,Gurys,Colgate Total,CELLULAR RADIANCE SUNSCREEN SPF 30,not active
+437,Florence,"Ox, musk",McTeggart,Medline Alcohol Prep,Neostigmine Methylsulfate,kinda of active
+438,Teena,Green-winged macaw,Dudin,Zoloft,ACETA-GESIC,very active
+439,Henryetta,Bushpig,Yearn,Hang-Over Morning Mend,Sodium Bicarbonate,calm down
+440,Gerda,"Porcupine, crested",Broose,Escitalopram,Tigan,calm down
+441,Bobbette,"Whale, baleen",McGorley,Antacid,METFORMIN HYDROCHLORIDE,kinda of active
+442,Dene,"Tarantula, salmon pink bird eater",Howison,HYDROCODONE BITARTRATE AND IBUPROFEN,HydrOXYzine Hydrochloride,not active
+443,Aindrea,Bonnet macaque,Whitear,Mitomycin,Bruises Gone Gel,kinda of active
+444,Scottie,Violet-crested turaco,Sheppard,Metronidazole,TOPICLEAR SKIN LIGHTENING,calm down
+445,Bear,Black-fronted bulbul,Bedward,Black Willow,Sun Shades,moderately active
+446,Zane,"Tapir, brazilian",Moylan,Diphenhydramine HCl,Prochlorperazine Maleate,not active
+447,Rosalinda,Desert kangaroo rat,Hurley,Tears Again,Leader,moderately active
+448,Suki,Pied avocet,Coultas,Modafinil,Levofloxacin,very active
+449,Jacquelynn,Lesser double-collared sunbird,Vaune,Ampicillin and Sulbactam,Surfak Stool Softener,calm down
+450,Stevena,"Badger, honey",Lintin,Levetiracetam,African Formula Skin Lightening,not active
+451,Dick,Lesser masked weaver,Loweth,Buspirone Hydrochloride,SUYAN JEONGBAEK,not active
+452,Rosalynd,"Monitor, white-throated",Samwaye,Cefdinir,Lisinopril and Hydrochlorothiazide,moderately active
+453,Oralla,"Heron, green-backed",Lethem,Veneno de Abeja,Diovan,moderately active
+454,Adriane,"Capuchin, black-capped",Balsdon,Perform,Metformin Hydrochloride,very active
+455,Julietta,"Hornbill, leadbeateri's ground",Zmitruk,Cefepime,Goats Milk,very active
+456,Tedmund,Brazilian tapir,Leimster,DiabetiDerm Antifungal,Lidocaine Hydrochloride,very active
+457,Nicoli,Red-tailed wambenger,Driffield,Multi Symptom Cold,DDF,moderately active
+458,Broddy,"Crow, house",Buesden,Bupropion Hydrochloride,Activator Light,kinda of active
+459,Sherwood,Pied avocet,Raccio,Meloxicam,Energize RXS,not active
+460,Consuela,"White-eye, pale",Dagnan,Alcohol Prep Pads,Bupropion Hydrochloride,kinda of active
+461,Elliott,"Puffin, horned",Arnaez,BANANA BOAT,Stool Softener,calm down
+462,Sapphire,Tayra,Sacaze,ONDANSETRON,Lunesta,very active
+463,Eadith,"Squirrel, uinta ground",Arrault,Dopamine Hydrochloride and Dextrose,Docusate Sodium Stool Softener,moderately active
+464,Cindi,Curve-billed thrasher,Fedoronko,Sure Original Solid Regular,Sheffield Triple Antibiotic,moderately active
+465,Waylen,"Pheasant, common",Penhearow,Shunga,Dr Young 2p Blemish Base SPF35 PA,moderately active
+466,Maddalena,"Fox, savanna",Rollins,T-RAOJO,Glipizide,calm down
+467,Valentine,"Falcon, peregrine",Adey,RespiratoryCare,Gentle Laxative,kinda of active
+468,Wendall,"Deer, barasingha",O'Mullally,Diltiazem Hydrochloride,Multi-System Support,kinda of active
+469,Paula,King vulture,Recke,Allergy Desensitization,Promethazine Hydrochloride,moderately active
+470,Nikolaus,"Armadillo, nine-banded",Stirland,SUN DEFENSE SPF 15,flormar Concealer Sunscreen Broad Spectrum SPF 20 LC03 SOFT HONEY,very active
+471,Bo,Crested screamer,Hutfield,PHENTERMINE HYDROCHLORIDE,VENLAFAXINE HYDROCHLORIDE,not active
+472,Andy,"Seal, harbor",Guppy,Pain reliever PM,Levothyroxine sodium,kinda of active
+473,Harmony,Western patch-nosed snake,Sakins,Rapamune,LBEL Couleur luxe rouge irresistible maximum hydration SPF 17,calm down
+474,Fredericka,Hanuman langur,Vasyushkhin,"Kleenex Foam Hand Sanitizer, Green Certified",DELFLEX,moderately active
+475,Ginni,White-tailed jackrabbit,Dundon,Ampicillin,Desmopressin Acetate,not active
+476,May,Eastern quoll,Reckless,Divista,Treatment Set TS332090,calm down
+477,Ruthe,Chimpanzee,Ricardin,ABILIFY,Ultra-TechneKow,very active
+478,Kirsti,Cape Barren goose,Busch,Cephalexin,Divalproex Sodium,very active
+479,Kelley,"Mongoose, yellow",Casella,Metformin Hydrochloride,Apis Bryonia Special Order,kinda of active
+480,Isac,"Elephant, asian",Titterington,Triamcinolone Acetonide,Neostigmine Methylsulfate,very active
+481,Barry,Eastern white pelican,Vanstone,Allergiemittel,All Day Allergy,kinda of active
+482,Jocelyn,"Rattlesnake, dusky",Spiring,Childrens Loratadine,Balsam Poplar,calm down
+483,Frederic,"Pintail, white-cheeked",Craigie,aspirin,Oregon Ash,kinda of active
+484,Mel,"Beaver, european",Juan,Allercetin,Corn Grass,very active
+485,Prentice,Australian sea lion,Jiran,Bethanechol Chloride,PLANTAGO LANCEOLATA POLLEN,kinda of active
+486,Godfree,"Colobus, magistrate black",Mournian,Milk of Magnesia Original,Glyburide and Metformin,not active
+487,Eadie,"Pelican, great white",Gregory,Clarithromycin,FRESH SPLASH SCENTED HAND SANITIZER,very active
+488,Nickey,"Duiker, gray",Sidsaff,Paclitaxel,Verapamil Hydrochloride,calm down
+489,Sydelle,Greater adjutant stork,Sybbe,Everyday Clean,Ocean Breeze Antibacterial Foaming Hand Wash,kinda of active
+490,Cori,"Pie, rufous tree",Blatchford,Minocycline Hydrochloride,Sodium Chloride,moderately active
+491,Blondy,Common langur,Blaxley,6 Liver,Egg White,not active
+492,Mellisent,"Francolin, swainson's",Ardern,Bio Oak,Metoprolol Tartrate,very active
+493,Pansie,Black-tailed deer,Walker,Naproxen,IT RADIANT CC IN MELTING FOUNDATION,kinda of active
+494,Ladonna,"Gazelle, thomson's",Duny,Pain Reliever Fever Reducer,Nystatin,moderately active
+495,Hillel,"Boa, cook's tree",Fancutt,Ampicillin,Non-Aspirin PM,kinda of active
+496,Merrily,"Skua, long-tailed",Hollyar,quetiapine fumarate,ACTEMRA,not active
+497,Christian,"Hen, sage",Urquhart,Recombinate,Diazepam,not active
+498,Eldredge,Black-faced kangaroo,Jerson,SULPHUR,Lisinopril,kinda of active
+499,Laurent,"Oryx, fringe-eared",Quarrie,NightRelief DayRelief,GlyBURIDE,calm down
+500,Sadella,Red squirrel,Olyfat,Lotrisone,Ranitidine,calm down
+501,Kalvin,"Lemur, grey mouse",Gockelen,all day pain relief,telmisartan and hydrochlorthiazide,moderately active
+502,Allianora,"Zebra, plains",Elsom,Healthy Accents Gas Relief,Amoxicillin and Clavulanate Potassium,not active
+503,Shaina,Kirk's dik dik,Waddilow,Lisinopril,Real Deal Foundation,kinda of active
+504,Isidoro,African ground squirrel (unidentified),Ianittello,Walgreens night time wal-flu severe cold and cough,Correctol,not active
+505,Teddy,Northern phalarope,Settle,Lari-Clear,VALSARTAN,very active
+506,Stefan,Bahama pintail,Hanlin,Slimming Sap Patch,METHYLIN,very active
+507,Nicky,"Woodpecker, downy",Scatcher,smart sense nicotine,GOOSE FEATHERS,moderately active
+508,Lizzie,"Vulture, griffon",Busse,Yellow Pine,Flecainide Acetate,kinda of active
+509,Northrup,Stanley crane,Morrad,Nystatin and Triamcinolone Acetonide,PHOMA EXIGUA VAR EXIGUA,moderately active
+510,Bary,Chameleon (unidentified),Rallings,Meloxicam,Prednisone,kinda of active
+511,Kriste,Eastern box turtle,McKelloch,SALICYLIC ACID,GIVEN BY NATURE BAMBOO MASK SHEET,very active
+512,Tye,"Fox, north american red",Gillio,Verapamil Hydrochloride,Childrens Loratadine,very active
+513,Nonie,Red sheep,Adshad,Ting,Korres Wild Rose Mineral Foundation,kinda of active
+514,Sigmund,Guerza,Kobiera,Nifedipine,Tretinoin Gel Microsphere,kinda of active
+515,Desmond,Red-billed tropic bird,Kingswood,Wintergreen Isopropyl Alcohol,Vasopressin,kinda of active
+516,Arleta,Common wolf,McCaskill,Oxygen,Pravastatin Sodium,calm down
+517,Magda,"Gecko, barking",Gilhouley,Ondansetron,Oxygen,kinda of active
+518,Lorrin,Fringe-eared oryx,Bernard,PARURE DE LUMIERE LIGHT-DIFFUSING FOUNDATION WITH SUNSCREEN MOISTURE INFUSION BROAD SPECTRUM SPF 25 02 BEIGE CLAIR,ANTIBACTERIAL,calm down
+519,Jarad,American bighorn sheep,Brayfield,Nifedipine,OMEPRAZOLE DR,kinda of active
+520,Deck,"Dragon, ornate rock",MacPhee,Methimazole,Paroxetine,calm down
+521,Sophronia,Asian openbill,Stocken,Nifedipine,STOOL SOFTENER,kinda of active
+522,Antonella,Black and white colobus,Sworder,Fexofenadine Hydrochloride,Laxative pills,not active
+523,Sutherland,Pied avocet,Figura,Colocynthis-Homaccord,Gabapentin,calm down
+524,Gustavo,"Spurfowl, yellow-necked",Muzzi,Glonoinum Kit Refill,No Sweat Anti Perspirant,moderately active
+525,Michail,"Gazer, sun",Ilsley,Qdryl Allergy,Nighttime Cold and Flu Relief,not active
+526,Murial,Common seal,Malamore,Ropinirole Hydrochloride,Contac Cold and Flu,moderately active
+527,Aindrea,Tiger snake,Faulkener,Povidone Iodine,Lidocaine Hydrochloride,not active
+528,Wye,Two-toed sloth,Heskin,Mefloquine Hydrochloride,Glycopyrrolate,calm down
+529,Berti,Mallard,Grealish,RE-NUTRIV,Desmopressin Acetate,very active
+530,Cedric,Blesbok,Batie,SoftSheenCarson Magic Bump Rescue Spot Treatment,Olay Fresh Effects BB,kinda of active
+531,Hussein,"Polecat, african",McGoon,Safe Sea Sunscreen With Jellyfish Sting Protective SPF 15,Sephora Super Lisseur Rides SPF 15 Age Defy Moisture,very active
+532,Deloris,Crowned eagle,Pinchback,Alprazolam,Capent,calm down
+533,Lisa,"Tortoise, burmese black mountain",Beston,Instant Hand Sanitizer - Ice Clear,AMITRIPTYLINE HYDROCHLORIDE,not active
+534,Leicester,"Macaw, green-winged",Gooday,BODY GLOW SUNSCREEN,Onopordon comp. mite,very active
+535,Iona,Arctic ground squirrel,Blackham,Degree,benazepril hydrochloride and hydrochlorothiazide,very active
+536,Edeline,Zorilla,Doud,Painazol,Strattera,very active
+537,Amelita,Onager,Ellacombe,Erythrocin Stearate,DIANEAL Low Calcium with Dextrose,not active
+538,Heywood,Four-horned antelope,Quirk,Instant Hand Sanitizer Green Apple Scented,Minocycline Hydrochloride,moderately active
+539,Dud,Bare-faced go away bird,Beves,ARTHROTEC,NASOPEN,kinda of active
+540,Ricky,"Wallaby, bennett's",Moraleda,Synthroid,all day relief,very active
+541,Ruby,Llama,Minall,Nifedipine,2 IN 1 POWDER MAKE-UP,kinda of active
+542,Natale,Fisher,Boother,LIENDREX,Sulfamethoxazole and Trimethoprim,very active
+543,Tallulah,"Otter, brazilian",Elms,Equetro,Enalapril Maleate,very active
+544,Erminia,"Dove, ring",Beldum,Potassium Chloride in Dextrose and Sodium Chloride,ISOPROPYL RUBBING ALCOHOL,calm down
+545,Andie,"Cat, kaffir",Fendt,LBEL NATURAL FINISH MOISTURIZING FOUNDATION SPF 25,Nalbuphine Hydrochloride,calm down
+546,Saloma,"Stork, painted",Marchant,Equate Nasal Decongestant PE,Allergy Relief,calm down
+547,Damara,"Pie, indian tree",Pellissier,ASMANEX HFA,Montelukast Sodium,very active
+548,Kylynn,African lion,Mc Kellen,ROPINIROLE HYDROCHLORIDE,SOYBEAN,very active
+549,Marcello,Currasow (unidentified),Basketfield,OHM Endocrine Feminine Terrain,AMOREPACIFIC,moderately active
+550,Arielle,Impala,Tomich,Gold Caviar Cover Cushion,Nortriptyline Hydrochloride,very active
+551,Cybill,Indian star tortoise,Romeuf,Cotton Linters,Quinapril Hydrochloride,not active
+552,Pavla,"Lion, steller's sea",Kiossel,Sore Throat Dry Cough,Amlodipine Besylate,kinda of active
+553,Laurent,White-winged dove,Ratazzi,Namenda,Travel-Ease,kinda of active
+554,Jules,"Zorro, azara's",Costa,Antibacterial Foaming Hand Cleanser,Dr. Cocoa,kinda of active
+555,Shae,"Hartebeest, red",McPeake,Terazosin,Fresh Umbrian Clay Freshface Foundation SPF 20 Rio Samba,not active
+556,Guy,"Lion, mountain",Cicco,ACTIFIRM RECOVERY,Amitriptyline Hydrochloride,very active
+557,Oralle,"Coatimundi, white-nosed",Sear,Original,Thiothixene,very active
+558,Delaney,"Squirrel, african bush",Alvis,Saline Laxative,TROSPIUM CHLORIDE,kinda of active
+559,Katerine,South African hedgehog,Stainton,Loud Child,Nicotine,kinda of active
+560,Alain,Roe deer,Grevatt,Calgest,No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory,not active
+561,Terra,"Pintail, white-cheeked",Sussex,Acetaminophen and Codeine Phosphate,Pacific Anti-bacterial Hand Cleanse Kiwi Essence,calm down
+562,Arv,African polecat,Gibbs,Testosterone Cypionate,EZ Nite Sleep,calm down
+563,Winn,Ring-tailed coatimundi,Treadgear,Diflorasone Diacetate,Sodium Bicarbonate,not active
+564,Upton,"Cardinal, black-throated",Coxwell,KETOROLAC TROMETHAMINE,Cardene I.V.,moderately active
+565,Constantino,White-tailed jackrabbit,Haye,Voltaren,Cultivated Oat,calm down
+566,Clemens,"Stilt, black-winged",Mitchenson,KeVUENO Pain Relieving,Treatment Set TS339185,moderately active
+567,Klarika,Jabiru stork,Bullas,Cherry Bing,AIM,moderately active
+568,Tally,"Fox, crab-eating",Roth,Cyproheptadine Hydrochloride,Flurazepam,kinda of active
+569,Emily,"Zorro, common",Saggers,ConRx AR,Clonidine Hydrochloride,very active
+570,Eward,Western pygmy possum,Teather,DAYTIME,Shopko Antibacterial Hand Sanitizer,very active
+571,Nefen,"Otter, brazilian",Penley,Mentholatum Natural Ice,Relax-Tone,moderately active
+572,Deeanne,Pied crow,Petty,STOOL SOFTENER,Enviro,calm down
+573,Emmott,"Starling, superb",Hodinton,ciprofloxacin,Ice Cold Analgesic Gel,not active
+574,Fonzie,"Frogmouth, tawny",Pennells,Doxepin Hydrochloride,Aqua Rush Serum,not active
+575,Chick,"Tortoise, asian foreset",Meldrum,Fluoxetine,PROCHLORPERAZINE MALEATE,very active
+576,Doti,Yellow-necked spurfowl,Tolliday,Oxycodone Hydrochloride,Monistat 3 Combination Pack,not active
+577,Jorry,Genoveva,Storie,Vamousse Lice Treatment,Oxygen,kinda of active
+578,Claybourne,Comb duck,Axworthy,Metoprolol Tartrate,ERYTHROMYCIN Base Filmtab,calm down
+579,Willie,"Deer, spotted",Goodings,Octreotide Acetate,Gliocladium,very active
+580,Chanda,Australian masked owl,Stork,Lithium Carbonate,FENTANYL CITRATE,calm down
+581,Ivett,"Fox, pampa gray",Thomke,FENTANYL TRANSDERMAL SYSTEM,Allergy Complex,calm down
+582,Sophey,"Mongoose, yellow",DeSousa,Albumin (Human),Mucor/Aspergillus,very active
+583,Gustave,"Boubou, southern",Foreman,PROSOPIS JULIFLORA POLLEN,Less Drowsy Motion Sickness Relief,calm down
+584,Ebonee,Puku,Brotherhed,wal zan acid reducer,ReCreate Foundation,very active
+585,Gerhardine,"Quoll, eastern",Serridge,Arterioforce,CLARINS Super Restorative Day Illuminating lifting replenishing BROAD SPECTRUM - SPF 20 - Sunscreen,calm down
+586,Willi,"Cat, ringtail",Sheal,Calcitriol,CIPROFLOXACIN,moderately active
+587,Glynis,Blue racer,O'Heneghan,Nicotine,CRESTOR,calm down
+588,Alfons,"Hare, arctic",Oris,GABAPENTIN,DESONIDE,calm down
+589,Kahlil,"Wallaby, river",Itzchaky,Ropinirole Hydrochloride,Muscle Rub,calm down
+590,Gilligan,"Catfish, blue",Cunnane,Octreotide,Sun Protect Beblesh Pact SPF30 PA 2Plus,very active
+591,Emma,"Langur, gray",Mennear,DiorSkin Forever Wear Extending Invisible Retouch SPF 8 - 002,Dove,calm down
+592,Shelba,"Heron, giant",Axon,"COMPRESSED GAS, OXIDIZING, N.O.S.",Notaflu Lemon Oil,moderately active
+593,Emogene,"Eagle, african fish",Sikorsky,Electrolyte Plus,"PHOENIX HEALTHCARE SOLUTIONS, LLC",calm down
+594,Kellyann,"Constrictor, eastern boa",Joontjes,Edema - Fluid Retention,The Fresh Market Hand Sanitizer Alcohol Free,calm down
+595,Brewer,"Lion, southern sea",Leinweber,Nexiclon,"Butalbital, Acetaminophen, Caffeine",calm down
+596,Poul,"Crab, sally lightfoot",Hritzko,DOTAREM,Meijer Medicated Heat,kinda of active
+597,Gibb,Yak,McPhelim,CleanWell Natural Antibacterial Foaming Orange Vanilla,GORDONS UREA 40,not active
+598,Wynny,African wild cat,Everest,Amoxicillin,Hydrocodone Bitartrate and Acetaminophen,kinda of active
+599,Flem,"Porcupine, african",McVeigh,IBU,Granisetron Hydrochloride,calm down
+600,Tore,"Bee-eater, white-fronted",Nevill,Multi-Vitamin Fluoride and Iron Drops,Burrobrush,not active
+601,Russell,Ostrich,Gutteridge,Gabapentin,Stool Softener,kinda of active
+602,Ginger,Blue-footed booby,Dohms,Adult Tussin Cough Gels,Prednisone,calm down
+603,Fannie,"Admiral, indian red",Paulson,Candesartan cilexetil,Glycopyrrolate,not active
+604,Casi,"Owl, snowy",Sherrum,Viro Plus,Instant Hand Sanitizer,kinda of active
+605,Quillan,"Zorro, common",O'Kenny,Petrolatum,Studio35 Extra Strength Medicated Body,calm down
+606,Bert,"Deer, roe",Dunseith,BENZOCAINE and RESORCINOL,Up and Up Nicotine,not active
+607,Waldemar,"Lemur, grey mouse",Hails,Galantamine,Rodan And Fields Essentials Lip Shield SPF 25,moderately active
+608,Garry,Squirrel glider,Eldon,lisinopril,ARMOUR THYROID,not active
+609,Maurine,Bushbuck,Gabitis,Baclofen,Ursodiol,moderately active
+610,Herb,"Drongo, fork-tailed",Gravett,Derma Blemish Balm,LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE,kinda of active
+611,Esdras,Blackish oystercatcher,Hurran,"Standardized Grass Pollen, Grass Mix 5",Cephalexin,very active
+612,Nanice,Mule deer,Francescuccio,ISTODAX,Antibacterial Soap,kinda of active
+613,Shayna,"Plover, three-banded",Paragreen,Isosorbide Mononitrate,Walgreens Lubricant Eye Drops,not active
+614,Elisha,"Heron, giant",Gillanders,Clozaril,BEAUTE INITIALE,calm down
+615,Abdul,Praying mantis (unidentified),Poluzzi,"Sweet Vernal Grass, Standardized",Suboxone,kinda of active
+616,Cinnamon,Common green iguana,Seamons,Pharbest Aspirin 325mg,Pantoprazole Sodium,not active
+617,Koral,Marabou stork,Bierman,Fosphenytoin Sodium,Metformin Hydrochloride,not active
+618,Bobbye,Miner's cat,Draycott,Vecuronium bromide,Tizanidine,calm down
+619,Fifi,"Flamingo, greater",Millery,ibuprofen,Stool Softener,calm down
+620,Hermy,Dromedary camel,Russilll,Oxycodone Hydrochloride and Aspirin,Atenolol,very active
+621,Casey,Least chipmunk,Ellicombe,Rifadin,Meprobamate,not active
+622,Carroll,"Otter, african clawless",Cullington,Skintegrity Antibacterial Hand,WET ONES,moderately active
+623,Carny,"Owl, great horned",MacGrath,Lidocaine and Prilocaine,Desloratadine,very active
+624,Andriana,Tree porcupine,Pisco,Childrens Sabadil,Losartan Potassium,calm down
+625,Orazio,Short-beaked echidna,Djokovic,Acetaminophen,FENTANYL TRANSDERMAL SYSTEM,calm down
+626,Collete,Royal tern,Willimont,Fluphenazine Hydrochloride,NEXIUM,not active
+627,Marcel,Tiger,Lewton,Sunmark Nicotine,Carvedilol,not active
+628,Parnell,"Bettong, brush-tailed",Holtaway,Walgreens,equaline all day pain relief,very active
+629,Philippa,Openbill stork,Beare,kolorz,Thursday Plantation,calm down
+630,Reed,Tokay gecko,Itzkowicz,Enfuselle Time Repair A.M. SPF15,CONCEALER PENCIL AND BRUSH,not active
+631,Carlynn,"Darter, african",Gatfield,NOEVIR 5 TREATMENT LIQUID FOUNDATION LX,Neutrogena Nourishing Eye Quad,very active
+632,Jarrid,Northern elephant seal,Rugg,Serenity Remedy No. 12,Bio Viscum Compositum,kinda of active
+633,Agathe,"Flamingo, lesser",Braunfeld,Claravis,7 Select Acid Reducer,very active
+634,Georgianna,Northern phalarope,Bladen,ibuprofen,Potassium Chloride,kinda of active
+635,Ailee,"Mynah, common",Stucke,Amoxicillin,sumatriptan succinate,moderately active
+636,Karlotta,Civet cat,Townby,Amoxicillin,Canker plus Cold Sore Relief,kinda of active
+637,Ransell,Egyptian cobra,Bretton,OXYGEN,OXYMORPHONE HYDROCHLORIDE,kinda of active
+638,Tanney,"Devil, tasmanian",Starmer,Borba Age Defying,Phenobarbital,moderately active
+639,Boote,"Openbill, asian",Sayce,Night Time Original,Kynamro,very active
+640,Ely,"Leopard, indian",Birkinshaw,Spider Sense Spider-Man Pediatric,APRICOT,moderately active
+641,Burtie,Common wombat,Rhodef,LBEL,Moisture Renew,very active
+642,Saloma,Emerald green tree boa,Morrison,ALPRAZOLAM,Temazepam,calm down
+643,Waring,Swainson's francolin,Prudence,Hydrogen Peroxide,Fluconazole,not active
+644,Parsifal,"Wolf, common",Brugger,Diltiazem Hydrochloride,Zephrex-D,not active
+645,Ryan,"Fox, grey",Boc,Lima Beans,Levalbuterol,moderately active
+646,Harv,Galapagos hawk,Lillford,Healing,Cotton,calm down
+647,Rufe,Antelope ground squirrel,Soffe,Diphenhydramine Hydrochloride,Lipen 40 (Number 55),moderately active
+648,Brigitte,Kongoni,Troubridge,Ketoprofen,Modesa,kinda of active
+649,Kelila,"Wildebeest, blue",Reeman,Potassium Chloride in Sodium Chloride,Lysol,calm down
+650,Clareta,"Lion, galapagos sea",Dinnis,Bayer Migraine Formula,Ximino,very active
+651,Laney,Brazilian tapir,Gookes,LOVASTATIN,Daily Body Moisture Hydrating Complex SPF8,not active
+652,Naoma,Four-spotted skimmer,Paskerful,Diltiazem Hydrochloride,Oxcarbazepine,moderately active
+653,Ingamar,"Magpie, australian",McCathie,Octreotide Acetate,ESIKA,kinda of active
+654,Tisha,Blue waxbill,Ruthven,Aplicare Physicians Antibacterial,nighttime cold and flu relief,kinda of active
+655,Marchall,"Lemur, sportive",Bazoge,Tamsulosin hydrochloride,Astragalus e rad. 1%,very active
+656,Morna,"Porcupine, african",Lulham,Flomax,Purell Advanced Hand Sanitizer Inspiring Island Getaway,not active
+657,Lorettalorna,Crested porcupine,Brandone,Adderall,Beyond BB Perfecting Foundation Broad Spectrum SPF 15 Sunscreen,very active
+658,Dani,Large-eared bushbaby,Macklin,Bismuth subsalicylate,ziprasidone hydrochloride,kinda of active
+659,Hernando,Australian pelican,Cavozzi,Lithium Carbonate,Tradjenta,moderately active
+660,Lilias,Denham's bustard,Goffe,Vituz,Walgreens Active Stick,not active
+661,Addy,Ostrich,Hadgraft,Lucky,Polymyxin B Sulfate and Trimethoprim,not active
+662,Tobe,"Ibis, puna",Epps,Hydralazine Hydrochloride,simvastatin,moderately active
+663,Bianca,Masked booby,Longstreet,THAYERS TOPICAL PAIN RELIEVER MEDICATED SUPERHAZEL with ALOE VERA FORMULA,Natural herb,not active
+664,Daisi,"Fox, silver-backed",Gilleson,LBEL,Vecuronium Bromide,very active
+665,Laetitia,"Mongoose, javan gold-spotted",Epsley,Triamcinolone Acetonide,Coppertone Sport AccuSpray,kinda of active
+666,Ambrosi,"Capuchin, brown",Thelwll,Leader Senna Laxative,Toviaz,moderately active
+667,Flora,Little grebe,Eck,PiGe ll Real Skin Mask Pack,Lamivudine,not active
+668,Bibby,"Bushbaby, large-eared",Crux,Codfish,Orange Blossom Antibacterial Foaming Hand Wash,moderately active
+669,Antonino,Common grenadier,Wildber,Monoclate-P,All Day Pain Relief,calm down
+670,Melisse,Asian water dragon,Heading,Ageless Pain Relief,Gemfibrozil,calm down
+671,Dore,Greater rhea,Nickoll,Cattle Hair,Topcare Miconazole 7,very active
+672,Katinka,"Bandicoot, southern brown",Cranna,DIDANOSINE,Non-Drowsy Formula Wal-Tussin,kinda of active
+673,Bernie,"Pintail, bahama",Macieiczyk,Simvastatin,Oil Control,calm down
+674,Sharline,"Eagle, bateleur",Eckart,Diclofenac Sodium,Topcare Day Time Nite Time,calm down
+675,Jandy,Striped skunk,Pelham,HYCAMTIN,RANITIDINE,moderately active
+676,Hatty,"Spurfowl, yellow-necked",Breheny,ReCreate Foundation,ARTHROTEC,very active
+677,Magdaia,"Lion, mountain",Benedettini,Reglan,equate sinus,moderately active
+678,Cassondra,"Kudu, greater",Arnli,Valproic Acid,Childrens Accudial,calm down
+679,Elga,"Quail, gambel's",Dilon,Ciprofloxacin,CLE DE PEAU BEAUTE FOUNDATION L,moderately active
+680,Della,Red squirrel,Merredy,Zippity Doos,Degree,calm down
+681,Gonzalo,"Duck, mountain",Grodden,Instant Hand Sanitizer Green Apple Scented,Magnesium Citrate,calm down
+682,Noel,Gila monster,Martynikhin,Fluphenazine Hydrochloride,Methylphenidate Hydrochloride,not active
+683,Esme,Numbat,Biggam,SBS UltraGreen,enMotion High Frequency Antimicrobial Foam Handwash,calm down
+684,Etta,Yellow-crowned night heron,Bownes,Tamsulosin Hydrochloride,Naproxen Sodium,very active
+685,Homerus,"Dolphin, common",Grishkov,ADVANCED HYDRO-LIQUID COMPACT (REFILL),Salonpas pain relieving MASSAGE,very active
+686,Brnaby,"Dragon, asian water",Igonet,Ranitidine Hydrochloride,Nivea A Kiss of Shine Natural Look Glossy Lip Care,calm down
+687,Willow,"Deer, spotted",Shearston,Ulta Nectarine Spice Anti-Bacterial Deep Cleansing,ESIKA HD COLOR HIGH DEFINITION COLOR SPF 20,very active
+688,Lanny,Common raccoon,Enticknap,Ibuprofen,Clarithromycin,not active
+689,Florri,"Dove, laughing",Megany,"Food - Fish and Shellfish, Crab Xiphosurus sowerbyi",DOUBLE PERFECTION LUMIERE,not active
+690,Ines,Asian false vampire bat,Lindeboom,Desert Bambu,GLIMEPIRIDE,moderately active
+691,Roman,"Dragon, asian water",Bolens,Bupropion Hydrochloride,Terbinafine Hydrochloride,kinda of active
+692,Worth,Giant otter,McCooke,night time,Metronidazole,calm down
+693,Jesse,"Dove, galapagos",McKimmie,CVS Fast Acting Baby Teething,Calcitriol,not active
+694,Rebeka,"Dove, emerald-spotted wood",Gaymar,CombiPatch (estradiol/norethindrone acetate transdermal system),SUMATRIPTAN,not active
+695,Shea,Jungle kangaroo,Challes,Neutrogena Beach Defense Water Plus Sun,pain relief,calm down
+696,Karisa,"Devil, tasmanian",Ricardon,Allergena,Healthy Accents Maldroxal,moderately active
+697,Cindra,Ostrich,Sarch,Clobetasol Propionate,Duloxetine,moderately active
+698,Elias,"Bird, bare-faced go away",Blues,TopCare,Antibacterial Hand Sanitizer Pocket Sprayer,not active
+699,Nowell,"Gonolek, burchell's",Vedeshkin,HAND SANITIZING,Alcohol Pad,very active
+700,Salmon,Blue shark,Stocken,NouriFusion,Ibuprofen and Diphenhydramine Citrate,calm down
+701,Horatius,Marabou stork,Ormshaw,3 CONCEPT EYES HONEY FACE CHIFFON FLUID 002,DERMAKLEEN,not active
+702,Eileen,"Buffalo, asian water",Derry,VP-HEME OB DHA,Morphine Sulfate,calm down
+703,Baldwin,"Gonolek, burchell's",Wealthall,family wellness anti diarrheal,Adult Infuvite Multiple Vitamins for Infusion Pharmacy Bulk,kinda of active
+704,Nicholle,Roseate cockatoo,Piggot,Gilenya,PRAMIPEXOLE DIHYDROCHLORIDE,kinda of active
+705,Kleon,"Crane, wattled",Briers,Etomidate,Cefuroxime Axetil,kinda of active
+706,Corliss,Purple grenadier,Rakestraw,Paroxetine,Hydroxyzine Pamoate,calm down
+707,Wendall,Nelson ground squirrel,Szantho,Sprayology Life Detoxer,Berri-Freez,very active
+708,Ingelbert,White-winged tern,Gavin,Lucky Blue Ice,Proparacaine Hydrochloride,very active
+709,Barry,"Screamer, crested",Druce,Imipramine Hydrochloride,Verapamil Hydrochloride,moderately active
+710,Lorna,"Monster, gila",Franzonetti,Proactiv,NEO-POLYCIN,very active
+711,Fawn,Black-capped capuchin,Defau,healthy accents nasal,pain relief,calm down
+712,Fabiano,"Weaver, white-browed sparrow",Liffey,VITACILINA NEOMYCIN SULFATE FIRST AID ANTIBIOTIC,Potassium Chloride,not active
+713,Felice,"Admiral, indian red",Gallagher,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,Cephalexin,not active
+714,Jackquelin,Puma,Crilley,Skintegrity Antibacterial Hand,Betamethasone Dipropionate,very active
+715,Gussy,"Squirrel, palm",Bernardet,Phenytoin,Nu Skin Nu Colour,not active
+716,Peri,"Rhinoceros, square-lipped",Sawley,Metformin Hydrochloride,Ziprasidone Hydrochloride,not active
+717,Dian,"Mockingbird, galapagos",Sharpin,Health Mart Pain Relief,Folic Acid,calm down
+718,Pammi,"Sloth, hoffman's",Cumberledge,Scape SPF 50 Moisturizing Face,Category I,very active
+719,Codie,European beaver,Whettleton,SAFEWAY CARE,LEVONORGESTREL AND ETHINYL ESTRADIOL,kinda of active
+720,Gibby,"Colobus, black and white",Crecy,Ketorolac Tromethamine,CLONIDINE HYDROCHLORIDE,kinda of active
+721,Elfie,"Lorikeet, scaly-breasted",Ilyinski,Pravastatin Sodium,Glyburide and Metformin Hydrochloride,very active
+722,Nerty,Denham's bustard,Garnul,MELOXICAM,FLEXBUMIN,calm down
+723,Andrej,Common brushtail possum,Drohun,Topiramate,Head and Shoulders,very active
+724,Nisse,"Dove, emerald-spotted wood",Nice,Treatment Set TS346619,Olay Fresh Effects,moderately active
+725,Cathe,"Jackal, silver-backed",Pinniger,Naturasil,Nu Skin Nu Colour,calm down
+726,Oralla,Violet-crested turaco,Fontaine,Amlodipine besylate and Atorvastatin calcium,Ibuprofen,not active
+727,Manda,Egyptian goose,Bernard,Cefazolin,Obsessions/Compulsions,kinda of active
+728,Stanley,Malay squirrel (unidentified),Sibborn,Caffeine and Sodium Benzoate,ITCHY SKIN RASH,very active
+729,Sharla,Bush dog,McMurthy,Antibacterial Wet Wipes,Good Sense Pain Relief,kinda of active
+730,David,Javan gold-spotted mongoose,Cutting,Medicated Wipes,Covergirl Queen Collection All Day Flawless 3in1 Foundation,kinda of active
+731,Clevie,"Rhea, common",Bachnic,Perphenazine,Purminerals 4 in 1 Makeup SPF 15 Porcelain,not active
+732,Blinny,"Bulbul, black-fronted",Cornbill,Walgreens Maximum Strength Sensitive Fluoride,ACTIQ,very active
+733,Aldric,"Quoll, spotted-tailed",Richens,Infant Glycerin Laxative,equaline all day pain relief,moderately active
+734,Dallis,Pied avocet,Simnel,EQUATE CREAMY DIAPER RASH RELIEF,Nevirapine,moderately active
+735,Viviana,Red-tailed hawk,Aidler,Flu Relief Therapy Day Time,PRIMATENE,not active
+736,Betteanne,Tayra,Pottery,Softlips Praline Brownie,La Prairie Switzerland,moderately active
+737,Harman,"Hare, arctic",Weaving,levalbuterol hydrochloride,Ecolab,calm down
+738,Roth,Long-billed corella,Reisenstein,Anti-Diarrheal,Nivea body Natural Tone,kinda of active
+739,Seumas,Crown of thorns starfish,Beange,Arsenicum Cerebrum,Septisol NPD with Triclosan,kinda of active
+740,Wald,Arctic tern,Laurance,FACE GUARD 15,Elcure Ato,moderately active
+741,Barry,"Dog, bush",Perez,Metoprolol Succinate,PRESCRIPTIVES ALL SKINS MINERAL MAKEUP,kinda of active
+742,Gayler,"Brocket, brown",Doree,Sulfamethoxazole and Trimethoprim,Sulwhasoo Lumitouch Compact,moderately active
+743,Romeo,Pied cormorant,Gritskov,Propranolol Hydrochloride,PEGINTRON,very active
+744,Linda,Komodo dragon,Birt,Maximum Strength Sleep Aid,LAMICTAL,moderately active
+745,Magdalene,"Lizard, collared",Blaxeland,Baby Nighttime Tiny Cold,NEO-POLYCIN,moderately active
+746,Terrell,"Dragon, western bearded",Cowap,Ailanthus,lansoprazole,calm down
+747,Betsey,White-necked stork,Buckberry,Constipation,Antibacterial Hand - Witchs Brew and Scaredy Cat,kinda of active
+748,Gabriel,European red squirrel,Hamnet,Boolicious Antibacterial Hand,Didanosine,kinda of active
+749,Lindsay,"Dragon, asian water",Spaughton,Phenytoin Sodium,Goldenrod,very active
+750,Glenden,"Swan, black",Marmyon,Vital Weight Loss,Pramipexole dihydrochloride,kinda of active
+751,Agnola,Black vulture,Kleyn,Lantus,Mucor,very active
+752,Si,"Dunnart, fat-tailed",Ciccottio,Rescue Calm,Stay Well,kinda of active
+753,Eziechiele,"Lion, african",Hiner,PILOCARPINE HYDROCHLORIDE,Loblolly Pine,calm down
+754,Davine,"Gull, dusky",Conti,Good Neighbor Pharmacy loratadine d,Medicated,moderately active
+755,Serena,African wild cat,Dillinger,Satos Corn and Callus Remover,Otis Clapp Ultraprin,not active
+756,Ansley,African darter,Blazic,"Pollens - Trees, Walnut, Black Juglans nigra",TopCare,very active
+757,Doris,"Lizard, collared",Gummer,Antibacterial Wet Wipes,Olay Professional ProX Anti-Oxidant Sheer Daily Moisturizer,not active
+758,Byran,"Heron, gray",Temperley,Hydroxyzine HCl,Virustat,kinda of active
+759,Billie,"Heron, boat-billed",Bront,Erythromycin,Aloprim,very active
+760,Faustina,Downy woodpecker,Pavinese,NoHist LQ,Care One migraine relief,not active
+761,Jojo,Black-backed jackal,Crampton,Sodium Chloride,Acunol,kinda of active
+762,Hamnet,Cape fox,Faunch,Elgin Pain Relief,Nifedipine,not active
+763,Ty,"Woodcock, american",Bushell,Bladder Incontinence Formula,Glipizide and Metformin Hydrochloride,calm down
+764,Corey,"Duck, comb",Amber,Assured,Atorvastatin Calcium,kinda of active
+765,Marty,Asian foreset tortoise,Storror,No7 Advanced Hydration Day Cream Sunscreen SPF 12,CENTER-AL - ARTEMISIA VULGARIS POLLEN,very active
+766,Lizabeth,White-throated monitor,Halse,Gabapentin,Green Guard Ibupro Relief,calm down
+767,Cobby,Black-crowned crane,Czaja,Healing Waters Cotton Blossom Hand Sanitizer,Lemon Quince Allergy Relief,moderately active
+768,Cullan,Giant otter,Coverly,Hand Sanitizer,hemorrhoidal,kinda of active
+769,Consalve,"Hornbill, yellow-billed",Hannigane,Dr.Jart CC Essence Balm 01 Light - Medium,Quik-Care,kinda of active
+770,Marielle,Magistrate black colobus,Shapland,ibuprofen,Doxycycline Hyclate,calm down
+771,Clareta,Sable antelope,Fockes,Extra Strength Pain Relief,voriconazole,not active
+772,Brigitte,Swainson's francolin,Parkisson,ADVAIR,Protriptyline Hydrochloride,not active
+773,Bernhard,"Hartebeest, red",Nacci,Albuterol Sulfate,Melatonin Forte,moderately active
+774,Denna,Slender loris,Bidgood,Super Restorative Foundation True Lift SPF 15 Tint 09,TOPIRAMATE,very active
+775,Lyndel,"Lion, african",Lidbetter,Metoprolol Tartrate,Hydrocodone Bitartrate and Homatropine Methylbromide,kinda of active
+776,Maxim,"Nutcracker, clark's",Mounsey,COLCHICUM AUTUMNALE,Equaline Stay Awake,kinda of active
+777,Kenn,"Wallaby, bennett's",Thewlis,LBEL EFFET PARFAIT Spots Reducing Effect Foundation SPF 18 - MEDIUM 7,Protonix,moderately active
+778,Dasi,Common brushtail possum,Blount,rx act pain relief,Clonazepam,kinda of active
+779,Stefa,South American puma,Belding,"Insects (Whole Body), Ant, Fire Solenopsis richteri",OSENI,moderately active
+780,Reece,"Hawk, ferruginous",Stockford,Ciprofloxacin,Methocarbamol,kinda of active
+781,Marve,Common melba finch,Tribble,Antacid,Red Cedar,moderately active
+782,Augustine,Crested screamer,Wagon,triple antibiotic,NYLOXIN,very active
+783,Baird,Pied butcher bird,Ratazzi,Mixture of Standardized and Non-Standardized Southern Grasses,DYNACIN,kinda of active
+784,Jone,"Lemming, collared",Bernardi,TREXIMET,Pyridostigmine Bromide,kinda of active
+785,Shari,Common langur,Wadeling,Fluconazole,Hydrocortisone Maximum Strength Plus 12 Moisturizers,moderately active
+786,Gianni,California sea lion,Corden,CitraNatal Harmony,Cucumber,not active
+787,Dominga,African lion,Gurdon,Propranolol Hydrochloride,Betamethasone Dipropionate,moderately active
+788,Abrahan,Indian mynah,Rao,Citalopram,Provera,calm down
+789,Moreen,Indian giant squirrel,Napton,Health Mart Iodine Tincture Mild,Depakote,very active
+790,Ashlin,Cape Barren goose,Vigar,Belladonna,Thuja occidentalis,kinda of active
+791,Rosalia,"Flicker, field",Palin,LBEL COULEUR LUXE AMPLIFIER XP,pain relief pm,moderately active
+792,Rebeca,"Bee-eater, carmine",Sweet,Quinapril,acyclovir,calm down
+793,Blaine,Capybara,Chasen,up and up childrens acetaminophen,Lindane,moderately active
+794,Edythe,Red kangaroo,O'Cahsedy,Verapamil Hydrochloride,White Ash Pollen,moderately active
+795,Yulma,"Cormorant, little",Romanelli,Olive Leaf Antibacterial Foaming Hand Wash,Rejuvesol,kinda of active
+796,Odessa,Javanese cormorant,Rapley,Kendall Antimicrobial Cleanser,Carvedilol,very active
+797,Margette,"Phascogale, red-tailed",Noke,Ibuprofen (NSAID) Pain Reliever/Fever Reducer,Oxygen,calm down
+798,Karlie,"Bat, madagascar fruit",Berthomier,SERTRALINE HYDROCHLORIDE,Thiothixene,very active
+799,Nanni,"Fox, bat-eared",Grima,Hand Sanitizer with Moisturizers,BLEPHAMIDE,not active
+800,Parry,"Whale, southern right",Berthel,Nicotine,Etodolac,not active
+801,Annette,"Sloth, pale-throated three-toed",Barthelemy,rx act cough and sore throat,Laura Mercier Tinted Moisturizer Creme Compact Broad Spectrum SPF 20 Sunscreen OCHRE,calm down
+802,Chere,"Ibis, sacred",Timbridge,Ramipril,Zzz Sleep,kinda of active
+803,Joelie,"Squirrel, indian giant",Spreckley,Adrenal Tonic,Jewelweed 20,kinda of active
+804,Hope,"Lynx, african",Mundee,"Molds, Rusts and Smuts, Aspergillus niger",Ibuprofen,kinda of active
+805,Casie,Red-capped cardinal,Burkhill,FoamFresh E-2 Sanitizer Cleanser,Cephalexin,kinda of active
+806,Eric,Kafue flats lechwe,De Angelo,Folic Acid,DG BODY,not active
+807,Roz,"Waterbuck, defassa",Garmey,Zohydro,bupropion,moderately active
+808,Griswold,"Stilt, black-winged",Bahike,Quinapril Hydrochloride,Medrox,moderately active
+809,Nerty,"Woodpecker, red-headed",Redmore,Best Choice,Ropinirole Hydrochloride,kinda of active
+810,Edmund,South African hedgehog,Capin,Potassium Chloride,RE NUTRIV RADIANT UV BASE,not active
+811,Denny,"Siskin, pine",Linford,Terbinafine Hydrochloride,IOPE RETIGEN MOISTURE BASE NATURAL YELLOW,moderately active
+812,Vince,Defassa waterbuck,Bromehed,Clementine Anti-bacterial foaming Hand Wash,VENLAFAXINE HYDROCHLORIDE,not active
+813,Etti,Butterfly (unidentified),Smissen,Amitriptyline Hydrochloride,DR. RECKEWEG R76 Herbamine Forte,calm down
+814,Laura,"Rat, white-faced tree",Bowcock,Aceon,Adrenal and DHEA,kinda of active
+815,Stacee,Carmine bee-eater,Menichillo,Good Neighbor Pharmacy Nicotine,Aveeno Clear Complexion Cleanser,very active
+816,Guthry,Common zorro,Allchorne,Promethazine Hydrochloride,CLONAZEPAM,not active
+817,Jasmine,Golden brush-tailed possum,Geraldini,citroma,Wintergreen Isopropyl Alcohol,not active
+818,Chance,"Dolphin, bottle-nose",Pulley,Nystatin,INDOMETHACIN,moderately active
+819,Juliane,"Weaver, red-billed buffalo",Playle,North Alcohol Wipe,ChapIce Camphor Phenol Gel,kinda of active
+820,Veriee,"Stork, yellow-billed",Dowtry,Acetaminophen,CVS Pharmacy Glycerin,very active
+821,Hester,"Bat, little brown",Gillitt,Alfenta,Cephalexin,very active
+822,Abbi,Common eland,Ropking,Diphenoxylate Hydrochloride and Atropine Sulfate,Albuterol Sulfate,calm down
+823,Jo,Eastern fox squirrel,Ferronet,Simulect,SnowSkin Sunscreen Zinc,calm down
+824,Joseito,Swainson's francolin,Callen,Cold and Hot Medicated,Guaifenesin,kinda of active
+825,Davida,"Screamer, southern",Klaggeman,naproxen sodium,CENTER-AL - CHENOPODIUM ALBUM POLLEN,very active
+826,Merrili,"Pigeon, feral rock",Fardell,Albuterol Sulfate,NAVI Black and C-Clinic,very active
+827,Steffen,"Robin, white-throated",Addyman,ESIKA,Cefdinir,kinda of active
+828,Silvester,"Grebe, little",Moynihan,Vanilla,Ferrum Phos Kit Refill,calm down
+829,Jeanie,Bat-eared fox,Manning,EJECTDELAY,Lisinopril,moderately active
+830,Shannon,Eurasian hoopoe,Jessard,Kadian,Sinus Complex,very active
+831,Gabriele,Lily trotter,Strahan,Detox,Lipitor,not active
+832,Jacqueline,Netted rock dragon,Busk,Fresh Mint Dandruff,NHS Skin Irritation Cuts,moderately active
+833,Lynette,Brazilian tapir,Trowle,Nifedipine,Metamucil,kinda of active
+834,Sunny,Sidewinder,Milborn,BABOR Baborganic Age Preventing Body Cream,Nifedipine,very active
+835,Trenna,"Hyena, striped",de Leon,Oxygen-Nitrogen Mixture,Immune Support Junior Strength,moderately active
+836,Ronnie,"Beaver, european",Langsdon,Neova DNA Damage Control - Everyday,Risperidone,very active
+837,Michelle,"Boa, columbian rainbow",Luckey,Acetaminophen,Hand Sanitizer,very active
+838,Kathie,Arctic hare,Simoneschi,AVALIDE,Valsartan and hydrochlorothiazide,moderately active
+839,Blair,Lesser flamingo,Neylan,Misoprostol,Chloromag,calm down
+840,Fannie,"Jackal, golden",Eberlein,Magnesium Sulfate,TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose (CPD) AND OPTISOL Red Cell Preservative,very active
+841,Karoline,"Roadrunner, greater",Chilvers,ClomiPHENE Citrate,Lymphdrainex,very active
+842,Rancell,"Owl, madagascar hawk",Spiller,Heparin Sodium,Chlorpromazine Hydrochloride,not active
+843,Evyn,"Hen, sage",Hablot,Fuller Antibacterial Hand,THE YEON LOTUS FLOWER BC CUSHION PACT,not active
+844,Cordelia,"Dove, white-winged",Durbann,KMart Corporation,HUMATROPE,kinda of active
+845,Jameson,Common grenadier,Laminman,Diltiazem Hydrochloride,Heartery,kinda of active
+846,Colman,Land iguana,Brashaw,Minocycline Hydrochloride,Bicalutamide,calm down
+847,Rudolfo,European stork,Leader,Rejuvenation,Dr Smiths Diaper Rash,not active
+848,Jorrie,"Seal, northern elephant",Gaffney,Up and Up Cold and Head Congestion,Clarithromycin,very active
+849,Far,Palm squirrel,Dilawey,SINGULAIR,Breezers,calm down
+850,Chris,Crab-eating fox,Bettles,BROCCOLI SUN,COUMADIN,kinda of active
+851,Bria,Amazon parrot (unidentified),Chevin,Propoxyphene and Acetaminophen,Zicam Naturals Cough Suppressant,moderately active
+852,Phoebe,Blue-faced booby,Facchini,benzonatate,Simvastatin,very active
+853,Jeramie,Brown hyena,Kalderon,Tucks Take Alongs Towelettes,Dollar General Acne Spot Medication,not active
+854,Almeria,Silver-backed jackal,Bogies,HALOPERIDOL,TECHNIblock ULTRA SUNSCREEN,moderately active
+855,Maiga,"Dog, black-tailed prairie",Langman,Certus Alcohol Prep,lice killing,not active
+856,Odey,"Spurfowl, yellow-necked",Arnoud,ANTIMONIUM TART,Botanics Daily Hand Therapy Sunscreen SPF 10,calm down
+857,Wren,Cape white-eye,Vokes,ROPINIROLE HYDROCHLORIDE,good neighbor pharmacy cold and allergy,moderately active
+858,Andrea,Antelope ground squirrel,Frayling,Amlodipine Besylate,ISOXSUPRINE HYDROCHLORIDE,kinda of active
+859,Anne-corinne,Red-tailed wambenger,Strangward,ZAREE All Kii Coconut Water,Penicillin V Potassium,very active
+860,Kara-lynn,Western lowland gorilla,Gobert,Vancomycin Hydrochloride,Lisinopril,kinda of active
+861,Hendrick,Stick insect,Lawman,Loratadine,Gabapentin,moderately active
+862,Joyce,"Fox, arctic",Braidman,Zaliex Antiseptic Hand,Alprazolam,not active
+863,Malcolm,Black curlew,Ginner,Olanzapine,"Butalbital, Acetaminophen, and Caffeine",calm down
+864,Marget,"Marten, american",Rawsen,DILANTIN,Ampicillin and Sulbactam,calm down
+865,Mylo,Black-capped chickadee,Shuard,Aloxi,Pantoprazole Sodium,kinda of active
+866,Ivan,"Baboon, savanna",Maddock,BRODA Acne,SINUS HP,calm down
+867,Judas,"Boubou, southern",Kealey,Lorazepam,Warfarin Sodium,moderately active
+868,Edvard,"Woodpecker, red-headed",Monks,Clarithromycin,DualSenses Scalp Regulation Anti-Dandruff Shampoo,moderately active
+869,Fonz,Ferruginous hawk,Burnhard,Sildenafil,Alka-Seltzer Plus Cold Medicine Sparkling Original,kinda of active
+870,Felice,"Eagle, white-bellied sea",Bemment,Topcare Nicotine,Xyntha,kinda of active
+871,Dominik,Small-spotted genet,Carpenter,Vital HGH,ISA KNOX 365 SUN,moderately active
+872,Clifford,Lesser flamingo,Normington,PanOxyl,Paricalcitol,kinda of active
+873,Clarke,"Jacana, african",Bamfield,Nicotine Polacrilex,Just 4 Girl Waterless Anti Bacterial Hand Sanitizer Berry Blast,not active
+874,Kerrie,"Zorro, common",Brizland,UV LOCK ULTRA MILK SUN,LBEL MAXIMUM COMFORT AND LONG-LASTING FOUNDATION SPF 10,calm down
+875,Taber,"Turkey, common",Shrigley,BARACLUDE,up and up nicotine polacrilex,calm down
+876,Britney,Margay,MacRedmond,Trazodone Hydrochloride,Nasal,kinda of active
+877,Maxim,"Beaver, european",Zanicchelli,Old Spice Original,Allergy Eye Drops,moderately active
+878,Reinhard,Magellanic penguin,Hempel,Poplar,Gelato APF,moderately active
+879,Haydon,"Cow, scottish highland",De Clairmont,PRO-RED,PediaCare Childrens MultiSymptom Cold,calm down
+880,Rahal,Denham's bustard,Bram,Hypothalmu Stim,Dexmethylphenidate Hydrochloride,moderately active
+881,Kerwin,Oriental short-clawed otter,Billham,Digoxin,Fluticasone Propionate,very active
+882,Becka,Common seal,O'Ferris,Dulcolax,Dandruff,not active
+883,Edsel,"Tern, white-winged black",Braddock,Vitis Stibium,MOISTURE RICH FOUNDATION,very active
+884,Muriel,Leadbeateri's ground hornbill,Hampshire,Korres Wild Rose Mineral Foundation,Sucralfate,moderately active
+885,Joan,California sea lion,Jacobovitz,Guanfacine,Petasites Veronica,kinda of active
+886,Kalie,Coyote,Mott,Antispetic,berkley and jensen pain relief,very active
+887,Aurore,"Curlew, black",Nobbs,Sodium Chloride,Povidone Iodine Plus,not active
+888,Arley,"Turtle, snake-necked",Easdon,Levemir,Good Sense Nasal Decongestant PE,very active
+889,Linnell,Australian spiny anteater,Janz,Baclofen,Nabumetone,calm down
+890,Corabelle,European spoonbill,Daughtery,CETIRIZINE HYDROCHLORIDE,methylphenidate hydrochloride,not active
+891,Helsa,Small-toothed palm civet,Fetteplace,Antibacterial Foaming Hand Sanitizer,Mirtazapine,very active
+892,Arther,"Rhinoceros, black",Harrowell,Levetiracetam,foundcealer 2-in-1 foundation and concealer Broad Spectrum SPF 15 Sunscreen,calm down
+893,Darrick,Adouri (unidentified),Stonebanks,BC,leader childrens all day allergy,not active
+894,Ansley,"Sparrow, rufous-collared",Weare,METFORMIN HYDROCHLORIDE,Chewable Aspirin,calm down
+895,Lita,Secretary bird,Caccavale,Quality Choice Anti-Itch Clear,citroma,very active
+896,Brigida,"Cockatoo, red-breasted",Planke,Heavy Metal Detox,Indomethacin,kinda of active
+897,Mata,"Marmot, hoary",Pennick,ESIKA,PURELL Advanced Green Certified Instant Hand Sanitizer,not active
+898,Ardra,Dusky rattlesnake,Curson,Ramipril,foundcealer 2-in-1 foundation and concealer Broad Spectrum SPF 15 Sunscreen,not active
+899,Marieann,"Rat, desert kangaroo",Bloschke,Clearasil Daily Clear,DIAZEPAM,kinda of active
+900,Noelyn,"Goldeneye, common",McOrkil,Desmopressin acetate,Atorvastatin Calcium,moderately active
+901,Noach,Toddy cat,Smallpeice,VERAMYST,Magnesium Citrate,calm down
+902,Ikey,"Bird, black-throated butcher",Brandacci,ShopRite Childrens Allergy,"CAMPHOR, EUCALYPTUS OIL and MENTHOL",moderately active
+903,Ginnie,Eastern dwarf mongoose,Valentinetti,REZIL,mucus relief cold and sinus,very active
+904,Jerry,Hoary marmot,Mardle,ANTIBACTERIAL,VYTORIN,calm down
+905,Winfield,Western patch-nosed snake,McGoogan,Painful Urination,Good Neighbor Pharmacy,not active
+906,Hazel,Red-capped cardinal,Wint,glycopyrrolate,TOPIRAMATE,kinda of active
+907,Evan,Guerza,Le Friec,Neuralgo-Rheum,First Aid Antibiotic Pain Relief,calm down
+908,Elita,Sacred ibis,Hewkin,Juicy Orange Antibacterial Foaming Hand Wash,Kadian,calm down
+909,Josefa,"Bandicoot, short-nosed",McAuliffe,Treatment Set TS350619,Muscle Ice,not active
+910,Inger,"Jackal, asiatic",Mulrean,APTRIZINE,ACETAMINOPHEN AND CODEINE PHOSPHATE,moderately active
+911,Casper,"Deer, swamp",Netherwood,Enoxaparin Sodium,Cover Fx BB Gel Mattfying Anti-Blemish N Medium,very active
+912,Rebe,Leadbeateri's ground hornbill,Dodgshun,"Pollens - Trees, Pecan Carya Carya illinoensis",Antibacterial Roll Towels,not active
+913,Gennie,"Baboon, chacma",Havill,Cranberry Cream Antibacterial Hand Wash,HYDROCORTISONE,not active
+914,Wendye,Western palm tanager (unidentified),Hargreves,Methyldopa,Long Lasting Finish with Comfort Serum,kinda of active
+915,Ailee,African clawless otter,Golland,LBEL MAXIMUM COMFORT AND LONG-LASTING FOUNDATION SPF 10,Welmedix HomeCare PRO Extra Strength Rapid Rash Relief,not active
+916,Kelsy,"Bat, madagascar fruit",Comrie,Propafenone Hydrochloride,Pantoprazole Sodium,moderately active
+917,Orella,White-faced whistling duck,Conti,telmisartan,NUCYNTA,moderately active
+918,Yuri,Woolly-necked stork,Muzzullo,Moore Medical Sinus Pain and Pressure Relief,Sunscreen Baby,calm down
+919,Salem,"Mockingbird, galapagos",Doggerell,Indomethacin,Category IV,calm down
+920,Wilfrid,Red-winged hawk (unidentified),De Roos,Seaweed Moisturizer,CV Medicated,kinda of active
+921,Chickie,Eastern indigo snake,Devereu,Icee Strawberry Scented Hand Sanitizer,OXCARBAZEPINE,calm down
+922,Dagny,Pied kingfisher,Dwyr,Infants Ibuprofen,Kendall Soothing,kinda of active
+923,Willetta,Koala,Corner,Dicyclomine Hydrochloride,ZOMIG ZMT,not active
+924,Elna,Asian foreset tortoise,Bispo,Mupirocin,Ulta Freshwater Mist Anti-Bacterial Hand Sanitizer,moderately active
+925,Garrick,"Plover, blacksmith",MacGettigen,ACACIA,Fluconazole,moderately active
+926,Aloin,Common langur,Scantleberry,rexall night time cold and flu,Metaxalone,moderately active
+927,Artie,Brown brocket,Colwill,Saniwash Antimicrobial Foaming Hand,InstantFOAM non-alcohol hand sanitizer,calm down
+928,Laurent,Red-necked phalarope,Sommerlie,Citalopram Hydrobromide,Neurontin,very active
+929,Roselle,"Starling, greater blue-eared",Lewzey,Calm Drops,Coconut,kinda of active
+930,Rivkah,Black-eyed bulbul,Prichet,Ambien CR,IRIS,moderately active
+931,Jemimah,White-nosed coatimundi,Picker,Chlorpromazine,Atovaquone and Proguanil Hydrochloride,kinda of active
+932,Mikel,Pied butcher bird,Cupper,Halobetasol Propionate,Cladribine,calm down
+933,Robina,"Bandicoot, short-nosed",Lapree,NAFCILLIN SODIUM,Metronidazole,calm down
+934,Brigit,"Bandicoot, short-nosed",Giovannini,Methylergonovine Maleate,Miconazole 3,kinda of active
+935,Kitty,Crab-eating raccoon,Crocombe,Cover Fx Blemish Treatment Concealer N Med-Deep,Brewers Yeast,calm down
+936,Sharona,River wallaby,Darby,Repara Silver Nitrate,Severe Allergy And Sinus Headache,very active
+937,Artur,"Turaco, violet-crested",O Sullivan,Anti-bacterial Hand,Modafinil,moderately active
+938,Othella,Ocelot,Takle,Escitalopram,CEFPROZIL,moderately active
+939,Skip,"Legaan, ground",Laurencot,DayTime NightTime Cold and Flu,Glucotrol,not active
+940,Brandi,Zorilla,Berrecloth,Aspirin,Ketoprofen,moderately active
+941,Herculie,Sloth bear,Jecock,equaline nighttime cold and flu relief,Allergies Food Chemicals,calm down
+942,Myrwyn,Flying fox (unidentified),Matus,AF Foam Sensitive Acne Pore Cleanser,Acyclovir,calm down
+943,Elianore,"Crane, brolga",Standell,VALACYCLOVIR HYDROCHLORIDE,WellPatch Backache Pain Relief,kinda of active
+944,Boycey,"Zorro, common",Salkild,Cough DM,Naltrexone Hydrochloride,kinda of active
+945,Brod,Indian porcupine,Mayho,HYZAAR,Fluconazole,kinda of active
+946,Carly,"Boa, malagasy ground",Dwane,Freshscent Anti-Perspirant Deodorant,SHISEIDO UV PROTECTIVE COMPACT (REFILL),very active
+947,Aaron,Hoffman's sloth,Sancias,TIMOLOL MALEATE,HGH,kinda of active
+948,Desi,Large-eared bushbaby,Harse,Oxygen,CRESTOR,kinda of active
+949,Valenka,"Vulture, black",Ede,ELYMUS REPENS POLLEN,NIGHT-TIME,calm down
+950,Harriet,"Lapwing, southern",Spellward,Citalopram,Omega-3-Acid Ethyl Esters,very active
+951,Amii,"Hen, sage",Corballis,sunmark,Laura Mercier Tinted Moisturizer SPF 20 FAWN,calm down
+952,Emilio,Desert spiny lizard,Batho,Xylocaine,healthy accents daytime,very active
+953,Bambie,King cormorant,Danaher,Desoximetasone,Ibuprofen,very active
+954,Angela,"Kangaroo, western grey",Dennert,nifedipine,germstarNORO,moderately active
+955,Colleen,Desert spiny lizard,Guess,Isordil,Zicam Cold Remedy Kids Soft Chews,kinda of active
+956,Edvard,"Tapir, brazilian",Fieldstone,CAREONE,Detox,calm down
+957,Raphael,Monitor lizard (unidentified),Zellmer,rx act all day pain relief,BASIL,not active
+958,Clevey,Cape raven,Sessuns,sore throat spray,Hepsera,not active
+959,Aubrette,"Turkey, australian brush",Bertome,Humco Dewees Carminative,SHISEIDO PERFECT REFINING FOUNDATION,very active
+960,Sherman,"Civet, common palm",Brangan,Multi-Symptom Cold Relief,Thyroveev,moderately active
+961,Barbee,Rock dove,Stoile,fexofenadine hydrochloride,Squash Zucchini,calm down
+962,Franzen,"Phalarope, northern",Bartlosz,Terrasil Wound Care,SHISEIDO SHEER MATIFYING COMPACT (REFILL),moderately active
+963,Harald,Wild boar,Esbrook,Laura Lynn Anticavity Whitening plus Mouthwash,Haemonetics Additive Solution Formula 3 (AS-3),very active
+964,Slade,"Lemur, lesser mouse",Galle,Crest Pro-Health Multi-Protection,Fentanyl,very active
+965,Valli,"Bee-eater, nubian",McEnery,Herbion Naturals Honey Lemon,MAGNESIA PHOSPHORICA,moderately active
+966,Jonell,"Mouse, four-striped grass",Kubes,"Molds, Rusts and Smuts, Aspergillus fumigatus",Ramipril,calm down
+967,Stafford,"Grenadier, common",Cissen,nicotine,Tizanidine,very active
+968,Joice,White-headed vulture,Mc Caughan,Hydromorphone Hydrochloride,clindamycin hydrochloride,moderately active
+969,Stacia,Snowy egret,Darnbrough,SPINACH,Neosporin Plus Pain Relief Neo To Go First Aid Antiseptic Pain Relieving,moderately active
+970,Emelen,Red-cheeked cordon bleu,Hanway,CTx4 Gel 1100,Isopropyl Alcohol,not active
+971,Elliot,"Deer, barasingha",Goodwins,LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15,Sodium Bicarbonate,calm down
+972,Janina,"Cat, long-tailed spotted",Clevely,Tiger Balm,Gianvi,kinda of active
+973,Paul,Grison,Mitchenson,Clonidine Hydrochloride,Betamethasone Valerate,not active
+974,Kermit,"Seal, northern elephant",MacPeice,IRIS,Glyburide and Metformin Hydrochloride,not active
+975,Gillian,"Mongoose, yellow",Gisbourn,Ocean Potion Quick Dry Kids 50 Sunscreen,Cold-EEZE,very active
+976,Vera,"Heron, yellow-crowned night",Bartol,Leader Nite Time,OLANZAPINE,calm down
+977,Christine,Red-billed hornbill,Osmant,LISINOPRIL AND HYDROCHLOROTHIAZIDE,Russian Olive,calm down
+978,Abeu,"Whale, baleen",Norval,Alprazolam,Indigestion,not active
+979,Gilemette,Red deer,McWard,BY FLOWER BB,Pure petroleum,calm down
+980,Geoff,"Puma, south american",Di Giacomo,Milk of Magnesia,"Meadow Fescue Grass, Standardized",calm down
+981,Tiena,"Vulture, white-rumped",Claesens,Cefdinir,Sunmark Nasal Spray,moderately active
+982,Betty,Cereopsis goose,Graffham,PAXIL,smart sense cool heat,very active
+983,Tildie,"Jackal, indian",Farlham,Carvedilol,Weather Changes,moderately active
+984,Felicdad,Eleven-banded armadillo (unidentified),Dobbins,JUGLANS REGIA POLLEN,Simply Sleep,very active
+985,Angil,Puku,Siddle,Head and Shoulders,Pantoprazole Sodium,moderately active
+986,Vinita,"Owl, snowy",Poller,Gemcitabine Hydrochloride,NARS FOUNDATION,moderately active
+987,Nelle,"Gull, herring",Tugwell,Instant Hand Sanitizer Fresh Aloe,No7 Lift and Luminate Day Sunscreen Broad Spectrum SPF 15,calm down
+988,Ellie,Black-collared barbet,Kefford,Good Sense Acid Reducer,PAIN RELIEVING PATCH ULTRA STRENGTH,moderately active
+989,Sigismund,Crowned hawk-eagle,Follis,Nix Complete Maximum Strength Lice Elimination,Prednisone,very active
+990,Maryanna,"Possum, western pygmy",Angel,Potassium Chloride in Dextrose and Sodium Chloride,One Seed Juniper,very active
+991,Carissa,Moose,Roget,Quinapril,Simvastatin,kinda of active
+992,Sunny,Madagascar hawk owl,Treleven,Carisoprodol,Western Ragweed,calm down
+993,Clarance,"Penguin, magellanic",Ody,Aleveer Patch,Levothyroxine Sodium,moderately active
+994,Quentin,Red deer,Greengrass,SHISEIDO ADVANCED HYDRO-LIQUID COMPACT (REFILL),Irbesartan and Hydrochlorothiazide,very active
+995,Vern,Blue-tongued skink,Scroggins,ARRID EXTRA EXTRA DRY XX,COLGATE,kinda of active
+996,Clevie,"Cat, long-tailed spotted",McFaell,SHISEIDO THE MAKEUP PERFECT SMOOTHING COMPACT FOUNDATION (Refill),Glipizide and Metformin HCl,very active
+997,Ali,Grey fox,Regis,dg health acid reducer,Guaifenesin and Codeine Phosphate,calm down
+998,Larisa,Blue racer,Moorey,Ibuprofen,Acetaminophen PM Rapid Release,calm down
+999,Jaye,American Virginia opossum,Baldry,Cough Relief,California Live Oak,very active
+1000,Meredithe,"Rat, white-faced tree",Bratchell,SOLIE,Kidney Tonic,not active

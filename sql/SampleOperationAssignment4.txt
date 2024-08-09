@@ -1,0 +1,41 @@
+Q1
+Acetaminophen
+albuterol sulfate
+Amlodipine Besylate
+Amoxicillin
+Doxycycline Hyclate
+
+Q2
+201, Oxygen
+887, DIGOX
+91, Fentanyl
+165, Mirtazapine
+
+Q3
+700
+600
+850
+79
+
+Q4
+some valid drug names:
+AcipHex
+benzontate
+CHANTIX
+Nafcillin
+
+Q5
+Drug Name:
+a string to create name for new drug, can be anything
+
+Expiration Date:
+yyyy-mm-dd, is the format
+
+Strength:
+x mg, where x is any number
+
+Drug Interaction:
+random string, no need for coherence
+
+Amount available:
+any interger

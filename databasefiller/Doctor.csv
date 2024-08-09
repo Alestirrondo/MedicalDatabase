@@ -1,0 +1,1001 @@
+Doctorid,fName,mName,lName,FaxNumber,Institute
+1,Padriac,"Owl, white-browed",Marishenko,6035,York University
+2,Sheila-kathryn,Cook's tree boa,Middiff,9686,St. Jerome University
+3,Genni,White-faced whistling duck,Grindall,3777,King University College
+4,Clint,"Glider, feathertail",Gillan,1527,Brock University
+5,Odell,Eastern fox squirrel,Franzke,4821,McGill University
+6,Emery,"Bettong, brush-tailed",Boles,5084,University of Guelph
+7,Ertha,"Camel, dromedary",Scrane,7491,Wilfrid Laurier University
+8,Eudora,Mountain goat,Cescot,6883,University of Guelph
+9,Quincy,"Elk, Wapiti",Thurstance,9759,University of Toronto
+10,Winfred,"Monkey, black spider",Souch,2033,McMaster University
+11,Valerye,Eagle owl (unidentified),Buckberry,5001,University of Trinity College
+12,Carrissa,Madagascar hawk owl,O'Fogarty,6216,University of St. Michael College
+13,Park,Chimpanzee,Dubery,9710,University of Windsor
+14,Kermit,"Gull, southern black-backed",Matej,7492,King University College
+15,Erick,"Vulture, king",Veryan,5193,King University College
+16,Bliss,Egyptian vulture,Swain,8380,Trent University
+17,Menard,Yak,Todarini,2894,Brock University
+18,Wylma,"Cobra, cape",Punyer,8161,Ryerson University
+19,Zilvia,Savanna fox,Faithorn,5157,University of Sudbury
+20,Anthe,Desert kangaroo rat,Fontell,2548,Lakehead University
+21,Amerigo,Indian peacock,Rearie,6439,Algoma University
+22,Mohammed,Baleen whale,Staining,1934,Laurentian University
+23,Konstantine,"Kangaroo, red",Beining,4283,Carleton University
+24,Caitrin,Agouti,Dinsdale,4696,Brock University
+25,Silas,"Shrike, southern white-crowned",Chambers,8255,University of Toronto
+26,Cathy,"Eagle, bateleur",Gariff,1275,McMaster University
+27,Mathilde,"Crow, pied",Ripley,6512,York University
+28,Cameron,"Tenrec, tailless",Kamenar,7899,University of St. Michael College
+29,Shermy,Asiatic wild ass,Hartle,2223,Queen University
+30,Melvin,White rhinoceros,Columbell,3107,Trent University
+31,Harriot,Cattle egret,Elcombe,3923,University of Trinity College
+32,Dasi,White-throated toucan,Colthard,2167,Wilfrid Laurier University
+33,Gideon,"Sparrow, house",Backen,6466,McGill University
+34,Gabi,"Stork, white",Hansmann,5543,OCAD University
+35,Mano,"Pintail, bahama",Conigsby,2906,Royal Military College of Canada
+36,Corney,Desert spiny lizard,Buntain,5182,St. Jerome University
+37,Esmeralda,White-winged black tern,Le feaver,8659,King University College
+38,Hewe,"Elephant, african",Bewshire,5929,McGill University
+39,Alejandrina,Emu,Penkman,1451,University of Waterloo
+40,Titus,"Elephant, african",Schruur,9510,Redeemer University
+41,Winfred,"Wallaby, agile",Pflieger,5316,Nipissing University
+42,Amanda,Little brown dove,Burch,2515,University of Trinity College
+43,Bethany,"Lizard, mexican beaded",Beetlestone,4382,Victoria University
+44,Gardner,"Mynah, common",Vallens,5712,St. Jerome University
+45,Shelbi,Mountain goat,Glasheen,3428,McGill University
+46,Em,Violet-crested turaco,Loveguard,2491,Brescia University College
+47,Broderic,Gecko (unidentified),Labroue,6525,University of St. Michael College
+48,Maribelle,Cuis,Poynter,7767,University of Windsor
+49,Lilli,"Rhinoceros, black",Alp,4089,Wilfrid Laurier University
+50,Duff,Denham's bustard,Carus,4057,Victoria University
+51,Susanna,"Pelican, brown",Keasey,7916,Huron University College
+52,Gaynor,Striped hyena,Krinks,6487,Laurentian University
+53,Penny,Malleefowl,Levins,8455,King University College
+54,Ingmar,Wattled crane,Feely,1521,University of Guelph
+55,Tiffie,Alpaca,McKimmey,6089,Brescia University College
+56,Fredrick,"Ass, asiatic wild",McCarney,9698,Ontario Tech University
+57,Redford,Bateleur eagle,Hustler,2728,McGill University
+58,Elias,Downy woodpecker,Eilhart,6409,University of Windsor
+59,Yolande,"Hawk, galapagos",Mityushin,2114,Western University
+60,Kizzie,Red squirrel,Trathan,8457,University of Ottawa
+61,Annetta,White-browed owl,Reddings,9427,University of Toronto
+62,Herbert,"Dove, little brown",Orys,2833,St. Jerome University
+63,Bary,Australian pelican,Brimham,2931,University of St. Michael College
+64,Ame,"Finch, common melba",Posnett,5512,St. Jerome University
+65,Rozanne,Lesser flamingo,Skedgell,5773,St. Jerome University
+66,Randolph,Blue-tongued lizard,Biles,6234,Wilfrid Laurier University
+67,Laurene,Lappet-faced vulture,Antram,3891,University of Sudbury
+68,Georgy,"Cormorant, flightless",Livezey,8122,Lakehead University
+69,Kimmi,Campo flicker,Eadmeads,5889,York University
+70,Ilyse,"Monkey, bleeding heart",Von Gladbach,5682,St. Jerome University
+71,Cordy,"Dragon, asian water",Asbery,4467,""
+72,Corinna,Blue racer,Van Saltsberg,1817,Queen University
+73,Norry,Bee-eater (unidentified),Notti,2735,Trent University
+74,Ursala,Rose-ringed parakeet,Pennino,7878,McMaster University
+75,Ingaberg,Galapagos penguin,Dalinder,5661,Laurentian University
+76,Bea,Striated heron,Ghirardi,5754,""
+77,Reginald,"Goldeneye, common",Tift,8029,McMaster University
+78,Chase,"Sparrow, house",Aurelius,1229,Ryerson University
+79,Jodi,"Fox, savanna",Kleinberer,1014,Wilfrid Laurier University
+80,Emilee,"Wallaby, red-necked",Jackling,8843,York University
+81,Maud,"Lemur, lesser mouse",Balme,1899,Ryerson University
+82,Erhart,Indian mynah,Osborn,4616,Algoma University
+83,Hester,"Toucan, white-throated",Mungin,2469,University of Ottawa
+84,Quinton,"Porcupine, african",Barfoot,5698,Brock University
+85,Adelina,Striped skunk,Smales,2265,University of Trinity College
+86,Cybill,Black-crowned crane,Youles,5458,University of Guelph
+87,Gram,"Squirrel, antelope ground",Alenichev,1749,McGill University
+88,Dietrich,Golden eagle,Whiting,8887,Nipissing University
+89,Farand,"Snake, green vine",Rootham,8608,Algoma University
+90,Cece,"Langur, gray",Dils,3626,Ontario Tech University
+91,Lexy,Least chipmunk,Spence,8346,Algoma University
+92,Maure,"Duck, comb",Minshaw,1139,Victoria University
+93,Jackquelin,Pallas's fish eagle,Nayer,6316,""
+94,Forrester,"Gull, herring",Cricket,8835,Laurentian University
+95,Lionello,Swamp deer,Lowrie,1873,Ryerson University
+96,Ulick,Trumpeter swan,Himsworth,8220,Brock University
+97,Ches,Darwin ground finch (unidentified),Rotham,1009,McMaster University
+98,Craig,"Elephant, asian",Lonsdale,6998,Carleton University
+99,Mabelle,"Heron, little",Stanmer,6615,Brescia University College
+100,Clemence,"Siskin, pine",Whetnall,9948,""
+101,Izzy,Arboral spiny rat,Cosgry,3450,McGill University
+102,Leicester,Lava gull,Alloisi,7336,University of Ottawa
+103,Pepillo,Galapagos mockingbird,Gamblin,1155,University of Ottawa
+104,Amber,Common raccoon,Barreau,9886,St. Jerome University
+105,Charin,Common raccoon,Beetham,1905,Redeemer University
+106,Effie,Blackbuck,Peddel,4337,York University
+107,Ches,Red-breasted cockatoo,Peacham,9932,Wilfrid Laurier University
+108,Timmie,"Monitor, water",Toplis,2126,McGill University
+109,Hinda,African darter,Oaker,3552,Nipissing University
+110,Dalt,"Lion, california sea",Dimeloe,9541,University of Ottawa
+111,Ethelred,"Flicker, campo",O'Duggan,9229,Brock University
+112,Angelika,"Hyena, striped",Brozek,2423,University of Windsor
+113,Orly,Kirk's dik dik,Dolan,7681,York University
+114,Georgena,Eastern diamondback rattlesnake,Sebright,8124,St. Jerome University
+115,Dex,"Snake, tiger",Baldery,5944,Trent University
+116,Fredi,"Viper, egyptian",Rabbatts,9512,Nipissing University
+117,Mack,Black-backed magpie,Macak,5867,Royal Military College of Canada
+118,Morgana,"Eagle, african fish",Soeiro,9038,Ontario Tech University
+119,Gussie,King cormorant,Le Gallo,7429,Huron University College
+120,Bobinette,Brazilian otter,Fendlen,3287,Ontario Tech University
+121,Annette,Neotropic cormorant,Godden,4891,University of Toronto
+122,Dyna,"Oryx, beisa",Knutton,6689,Royal Military College of Canada
+123,Catha,"Racer, american",Lammertz,7290,Ryerson University
+124,Fidelia,Kongoni,Moorrud,1434,Ontario Tech University
+125,Bernita,Argalis,Huggan,4192,St. Jerome University
+126,Ignacio,Mexican wolf,Shakesbye,1911,University of Waterloo
+127,Tobiah,"Hawk, red-tailed",Gremane,4835,Ontario Tech University
+128,Cori,"Sparrow, house",McKune,7743,York University
+129,Robinet,Blue wildebeest,Barrow,8887,Ryerson University
+130,Mag,"Dove, emerald-spotted wood",Marner,9305,Western University
+131,Celine,Pale-throated three-toed sloth,Sappy,8889,Queen University
+132,Hillary,Black-necked stork,Bunstone,6479,OCAD University
+133,Sawyer,Common dolphin,Pinnick,9657,St. Jerome University
+134,Alyosha,Snowy sheathbill,Hammerson,3444,Trent University
+135,Jerrylee,Blue racer,Dockreay,8935,McGill University
+136,Marja,Black-collared barbet,Jakeway,4819,University of Sudbury
+137,Bonnibelle,Brown pelican,McArd,1719,University of Waterloo
+138,Rich,Long-billed corella,Rojas,3911,Western University
+139,Lurlene,"Spoonbill, european",Wherry,2228,Nipissing University
+140,Riobard,Agile wallaby,Revens,7111,Wilfrid Laurier University
+141,Idell,"Heron, striated",Blaber,2061,Royal Military College of Canada
+142,Traver,"Bulbul, african red-eyed",MacCaig,3728,Brescia University College
+143,Loralie,Yellow-throated sandgrouse,Shyres,6192,""
+144,Elnora,"Pigeon, wood",Guyonneau,5182,Ontario Tech University
+145,Shurlock,Golden eagle,Pennycook,5038,Lakehead University
+146,Tim,"Whale, killer",Gutherson,8249,York University
+147,Obie,"Gull, kelp",Kilbourn,1806,Queen University
+148,Derby,White-winged tern,Theobalds,4385,Ontario Tech University
+149,Symon,Sidewinder,Isakov,7199,Western University
+150,Ingmar,"Avocet, pied",McFade,4379,Victoria University
+151,Pablo,"Gecko, tokay",Fausch,7411,University of St. Michael College
+152,Xylia,"Ibis, glossy",Lates,7977,McMaster University
+153,Jeana,Pale white-eye,Nancekivell,1268,Ryerson University
+154,Bethany,Horned lark,Harbard,5793,Brescia University College
+155,Adi,"Rhea, gray",Archdeckne,5486,King University College
+156,Tabby,"Lemur, sportive",Scranny,7679,Algoma University
+157,Parke,American Virginia opossum,Hevey,7181,Trent University
+158,Xymenes,"Coatimundi, white-nosed",Southcombe,5678,Redeemer University
+159,Louie,Black and white colobus,Brophy,3200,Wilfrid Laurier University
+160,Felicle,Vine snake (unidentified),MacArte,2135,Western University
+161,Benny,"Turtle, snake-necked",Labb,8238,University of Ottawa
+162,Myrah,Cheetah,Sheehy,3774,University of Toronto
+163,Alberto,Savannah deer (unidentified),Kenneford,9776,Wilfrid Laurier University
+164,Westleigh,White-browed sparrow weaver,Burtonwood,3460,St. Jerome University
+165,Janith,"Cormorant, javanese",Ryson,5002,Brock University
+166,Thorstein,Asian elephant,Beden,5252,Ontario Tech University
+167,Alfonso,Glossy ibis,Fairn,6970,University of Waterloo
+168,Panchito,Indian tree pie,Pepperrall,8849,University of St. Michael College
+169,Kendrick,Common genet,Ruppertz,3488,York University
+170,Errick,Cheetah,Reede,1000,University of St. Michael College
+171,Clarisse,Ringtail cat,Essame,5843,OCAD University
+172,Marice,Galapagos albatross,Corker,8907,University of Trinity College
+173,Donella,"Spider, wolf",Andrelli,6272,York University
+174,Brig,Eastern grey kangaroo,Byrom,4016,Ryerson University
+175,Francyne,"Oryx, fringe-eared",Zannelli,6379,Trent University
+176,Nils,Hummingbird (unidentified),Arderne,4669,King University College
+177,Eachelle,Eastern grey kangaroo,Sharram,4542,University of Trinity College
+178,Eleni,Magistrate black colobus,McQuade,9666,University of Toronto
+179,Lazarus,Brown pelican,Cairney,8511,York University
+180,Jeana,"Elk, Wapiti",Alsobrook,1213,Brock University
+181,Grove,"Iguana, common green",Bister,9258,University of Sudbury
+182,Jacquelynn,"Gecko, ring-tailed",Parlott,1701,Laurentian University
+183,Berthe,Crested bunting,Perch,5858,University of Sudbury
+184,Ted,"Admiral, indian red",Scutchings,7452,Ontario Tech University
+185,Alex,"Sloth, two-toed",Nucciotti,1056,McGill University
+186,Ealasaid,"Crocodile, nile",Poel,2485,Queen University
+187,Karine,"Cat, long-tailed spotted",Purchase,9501,Carleton University
+188,Alexandro,Two-toed tree sloth,Penticost,9431,Carleton University
+189,Maryrose,"Brocket, brown",Kershow,3149,Redeemer University
+190,Anatola,Long-nosed bandicoot,Noli,8811,York University
+191,Carolin,Burmese brown mountain tortoise,Pattini,9702,University of Windsor
+192,Clerkclaude,"Peacock, indian",Ivanyushkin,9784,Nipissing University
+193,Renee,"Jackal, golden",Balaizot,1299,University of St. Michael College
+194,Kynthia,Pied cormorant,Twinborne,2863,St. Jerome University
+195,Tedda,Goliath heron,Rodge,6566,Algoma University
+196,Gawain,"Constrictor, eastern boa",Calender,8839,University of Trinity College
+197,Allegra,"Lizard, mexican beaded",Smouten,5922,Royal Military College of Canada
+198,Asa,South American meadowlark (unidentified),Spanswick,9979,""
+199,Geri,"Devil, tasmanian",Forder,6657,Ontario Tech University
+200,Dallas,"Chipmunk, least",Fowgies,1941,OCAD University
+201,Olimpia,Red-necked wallaby,Gurdon,7019,OCAD University
+202,Claudina,"Kite, black",Garrould,8034,University of Waterloo
+203,Luigi,"Otter, giant",Mahaffey,7169,Nipissing University
+204,Efrem,Great egret,Pollok,5381,Ontario Tech University
+205,Nathanial,Bare-faced go away bird,Perllman,8157,University of Waterloo
+206,Alvy,"Dove, rock",Whichelow,8908,Redeemer University
+207,Trenna,"Deer, mule",Pauli,8659,University of Guelph
+208,Elihu,Ferruginous hawk,Danbury,9214,University of Toronto
+209,Domini,"Turtle, snake-necked",Tomsu,7753,Trent University
+210,Lonni,"Dog, bush",Clemson,2380,Redeemer University
+211,Nada,"Vulture, lappet-faced",McRonald,6064,Royal Military College of Canada
+212,Clarisse,"Rat, arboral spiny",Wittier,1931,University of Toronto
+213,Dynah,"Mongoose, javan gold-spotted",Cambell,2851,University of Waterloo
+214,Deloris,Greater sage grouse,Inchley,3938,Victoria University
+215,Georgianne,"Armadillo, seven-banded",Irvin,9350,Ryerson University
+216,Ermengarde,Slender-billed cockatoo,Domokos,9367,Wilfrid Laurier University
+217,Job,Crested screamer,Silverton,2848,Trent University
+218,Jennilee,"Otter, north american river",Sculley,5549,McMaster University
+219,Giacopo,Lappet-faced vulture,Crumly,2836,King University College
+220,Dalia,Water legaan,Romagosa,9638,OCAD University
+221,Wally,"Antelope, sable",Stockow,3696,King University College
+222,Adrian,"Heron, grey",Capitano,9996,University of Sudbury
+223,Julia,Sugar glider,Budd,8822,King University College
+224,Daloris,Egyptian vulture,O'Sheils,1679,Western University
+225,Mark,"Cat, cape wild",MacNeill,3306,Nipissing University
+226,Beitris,Verreaux's sifaka,Sworn,2055,Wilfrid Laurier University
+227,Selene,Brolga crane,Ames,4397,Carleton University
+228,Neddy,Giant anteater,Payler,8400,King University College
+229,Karissa,Black-winged stilt,Accombe,6497,Ontario Tech University
+230,Anneliese,Swamp deer,Lightwing,1290,Ontario Tech University
+231,Sullivan,"Pelican, australian",Kaiser,8919,Royal Military College of Canada
+232,Heida,"Dove, galapagos",Sleit,3377,Algoma University
+233,Dell,Grey-footed squirrel,Robbe,7096,Queen University
+234,Camala,Frog (unidentified),Mathison,4818,Victoria University
+235,Gard,Black swan,Sima,3788,Lakehead University
+236,Daffie,Turtle (unidentified),Feldberger,8586,Brock University
+237,Mela,Burmese black mountain tortoise,Cadwell,7716,Western University
+238,Glyn,Pine snake (unidentified),Jenk,8151,Wilfrid Laurier University
+239,Lavinia,"Kingfisher, pied",Castiello,6806,York University
+240,Burl,Greater blue-eared starling,Barbrook,9880,Laurentian University
+241,Cletis,"Egret, great",Littlejohns,5108,Huron University College
+242,Jermayne,Stone sheep,Devinn,2257,University of Sudbury
+243,Zorina,"Crane, brolga",Northfield,7328,Victoria University
+244,Norma,Grey mouse lemur,Sellens,4600,University of Windsor
+245,Marja,"Snake, buttermilk",Blackaller,9594,Royal Military College of Canada
+246,Natal,"Opossum, american virginia",Hamp,4990,University of Windsor
+247,Marion,Thirteen-lined squirrel,Newsham,1841,Brescia University College
+248,Elysha,Striped hyena,Busswell,9135,McMaster University
+249,Jenilee,Blue and yellow macaw,Antyukhin,6674,Huron University College
+250,Perla,"Bulbul, african red-eyed",Casa,2231,Laurentian University
+251,Alfreda,Grey-footed squirrel,Nixon,9801,Laurentian University
+252,Reena,"Egret, cattle",Proudler,1337,University of Sudbury
+253,David,"Darter, african",Symington,9939,University of Toronto
+254,Seline,Sable antelope,Antley,9652,Wilfrid Laurier University
+255,Hermy,"Cormorant, pied",Willment,6275,University of Toronto
+256,Ezechiel,Saddle-billed stork,Brech,3073,McGill University
+257,Dwain,Agama lizard (unidentified),McEniry,1226,King University College
+258,Marchelle,"Dolphin, bottle-nose",Gon,3516,Ryerson University
+259,Brynne,Manatee,Phare,6975,Wilfrid Laurier University
+260,Lizbeth,"Heron, striated",Le Claire,1691,Queen University
+261,Hedda,Galapagos tortoise,Detoc,9226,Algoma University
+262,Simonette,Arctic lemming,Tejada,6599,Redeemer University
+263,Kirbie,Knob-nosed goose,Blakeston,9047,York University
+264,Burg,"Lynx, african",Rendall,4309,Algoma University
+265,Micah,"Deer, red",Astill,5320,University of Guelph
+266,Petrina,Antelope ground squirrel,Cattenach,4441,Nipissing University
+267,Austin,Red phalarope,McMullen,2395,St. Jerome University
+268,Bernadina,"Possum, golden brush-tailed",Yanshinov,4996,University of Toronto
+269,Godfry,Salmon pink bird eater tarantula,Calton,1825,""
+270,Cody,Crested screamer,Baudacci,7817,Queen University
+271,Margarita,"Skink, african",Heeks,8060,St. Jerome University
+272,Janaye,European wild cat,Strete,3556,Queen University
+273,Vera,"Bandicoot, long-nosed",Totaro,8497,Victoria University
+274,Jodie,Black-throated butcher bird,Yousef,4778,Laurentian University
+275,Kassi,"Cat, long-tailed spotted",De Maria,6927,Wilfrid Laurier University
+276,Rorke,Greater rhea,Kornyshev,1858,King University College
+277,Antonio,"Whale, southern right",Giovanizio,1962,King University College
+278,Ruthe,"Rat, white-faced tree",Roelofsen,7557,University of Windsor
+279,Rocky,European wild cat,Golightly,6766,""
+280,Darda,"Seal, southern elephant",Smoughton,5090,Brock University
+281,Estelle,White-rumped vulture,Belchem,5111,Brescia University College
+282,Darrel,Pied butcher bird,Snalum,5844,University of Windsor
+283,Mohandas,"Tortoise, asian foreset",Jenne,8526,Carleton University
+284,Leopold,Asian false vampire bat,Braitling,9349,University of Toronto
+285,Brander,"Bulbul, black-eyed",Ablott,5002,Western University
+286,Chaim,Kelp gull,Kaye,6890,Nipissing University
+287,Chrystel,"Iguana, marine",Foro,5742,Royal Military College of Canada
+288,Gibb,"Cow, scottish highland",Sheppard,8738,King University College
+289,Adelheid,"Eagle, golden",Willishire,3267,Huron University College
+290,Godfrey,"Deer, red",Stallard,5229,Carleton University
+291,Gleda,"Grouse, sage",Revie,5215,McMaster University
+292,Lenna,Egyptian cobra,MacGauhy,8584,McGill University
+293,Brandon,"Wallaby, whip-tailed",Scott,2233,Brock University
+294,Ree,Snowy egret,Gossipin,7752,Laurentian University
+295,Diahann,"Deer, savannah",Follis,8785,Carleton University
+296,Jonis,Australian spiny anteater,Yu,8030,University of Trinity College
+297,Aura,Turtle (unidentified),Malkinson,6547,Redeemer University
+298,Torre,"Hawk-eagle, crowned",Gossop,1294,Queen University
+299,Bil,North American porcupine,Stubbley,6510,Lakehead University
+300,Georgy,Red-tailed cockatoo,Leckey,4237,University of Ottawa
+301,Donica,Violet-eared waxbill,Connue,6693,University of St. Michael College
+302,Fanchon,Asian openbill,Tiler,2066,York University
+303,Margette,Ground legaan,Agron,6353,Algoma University
+304,Tilda,Pacific gull,Crocetti,4242,University of Windsor
+305,Carr,"Spoonbill, european",Ever,4687,Algoma University
+306,Heidie,"Openbill, asian",Coggill,8111,Queen University
+307,Hamlen,"Cliffchat, mocking",O' Cuolahan,3550,Redeemer University
+308,Sydelle,"Monkey, red howler",Barkworth,3298,York University
+309,Giffard,"Cat, toddy",Gabbitus,9281,Carleton University
+310,Yettie,Kelp gull,Glaze,4639,Wilfrid Laurier University
+311,Ninnetta,"Vulture, griffon",Giovannini,3714,Huron University College
+312,Caren,Common wolf,Beyne,5151,York University
+313,Dania,Red and blue macaw,Coronas,9947,University of Trinity College
+314,Saxon,Egyptian cobra,O'Neil,8427,Redeemer University
+315,Camel,"Kingfisher, malachite",Altimas,8085,McGill University
+316,Mia,Southern right whale,Goodreid,2527,""
+317,Brendan,Bird (unidentified),Storms,8312,University of Sudbury
+318,Fidel,"Crab, red lava",Hinge,7126,University of Guelph
+319,Chauncey,"Baboon, olive",Henriques,4724,Wilfrid Laurier University
+320,Crissy,"Wallaby, whip-tailed",Sleightholme,4002,Redeemer University
+321,Dixie,"Lizard, desert spiny",Wallhead,2622,McMaster University
+322,Deeann,"Mockingbird, galapagos",Peckitt,2981,University of Toronto
+323,Iver,"Stork, yellow-billed",Kinder,4734,Lakehead University
+324,Udell,"Otter, small-clawed",Bradie,1299,University of Waterloo
+325,Rochester,Brown antechinus,Poltun,4394,McMaster University
+326,Jacquenette,"Bat, madagascar fruit",Antrim,1022,Queen University
+327,Susanne,"Spoonbill, white",Holhouse,4897,Laurentian University
+328,Guendolen,"Wallaby, whip-tailed",Eadon,8661,University of Toronto
+329,Carlin,Long-tailed skua,Flowerden,7164,""
+330,Wyndham,Southern right whale,Chisnell,4586,Brock University
+331,Raff,"Weaver, sociable",Vickress,4400,Algoma University
+332,Mab,Striated heron,Crother,5238,Victoria University
+333,Nata,Mississippi alligator,Speares,3475,Wilfrid Laurier University
+334,Karim,"Langur, common",Yellop,5320,University of Guelph
+335,Bradley,"Cat, ringtail",Robertucci,9872,York University
+336,Cobbie,Black-throated butcher bird,Castellino,8943,Huron University College
+337,Abner,"Boa, malagasy ground",Sandison,3508,King University College
+338,Bonni,Brown pelican,Ashman,4627,University of Windsor
+339,Marlo,"Sloth, two-toed tree",McNea,2084,St. Jerome University
+340,Marcel,Squirrel glider,Piens,5911,University of Guelph
+341,Lorant,Blue-tongued lizard,Myhan,1268,Western University
+342,Seline,"Vulture, turkey",Jantet,3737,Carleton University
+343,Lewes,African wild dog,Gladdish,7089,University of Trinity College
+344,Zelig,Red-breasted cockatoo,Handscombe,9353,Queen University
+345,Moll,"Possum, western pygmy",Dietmar,8818,Ryerson University
+346,Les,Red-headed woodpecker,Scripps,2761,Western University
+347,Aldrich,"Owl, white-browed",Alten,9913,Brescia University College
+348,Chrissie,Barking gecko,Naisbet,7021,Brock University
+349,Rollo,Ovenbird,Hegges,6274,King University College
+350,Shane,"Gazelle, grant's",Conaboy,1086,McGill University
+351,Nikita,"Whale, southern right",Berthot,5822,Brescia University College
+352,Marty,Southern lapwing,Langelaan,7306,University of Sudbury
+353,Jarrod,"Gazer, sun",Waber,1334,OCAD University
+354,Cassandre,Ground monitor (unidentified),Nutbeam,6637,Algoma University
+355,Alyse,Blesbok,Furber,2172,Brescia University College
+356,Billy,"Vulture, oriental white-backed",Warbys,7268,University of Windsor
+357,Porty,Potoroo,Bennedick,3297,OCAD University
+358,Graham,Black-cheeked waxbill,Drillingcourt,7625,University of Toronto
+359,Kipper,"Rat, desert kangaroo",Harlock,1594,McMaster University
+360,Lindi,Malagasy ground boa,Ubach,6449,Brescia University College
+361,Tessie,Common green iguana,Brezlaw,9966,University of Windsor
+362,Clair,Tawny eagle,Sherme,5869,Brock University
+363,Peterus,"Siskin, yellow-rumped",Wraxall,8399,University of Trinity College
+364,Everett,"Seal, northern fur",Nucator,7654,OCAD University
+365,Buck,"Bird, black-throated butcher",Tander,8838,University of Ottawa
+366,Gladi,"Cat, jungle",Collyer,7293,University of Windsor
+367,Alister,"Kingfisher, pied",Calterone,2249,Brock University
+368,Harlen,"Dove, emerald-spotted wood",Brennand,6189,McGill University
+369,Benedikta,Bat-eared fox,Elliman,8129,Royal Military College of Canada
+370,Jennee,Ring-tailed lemur,McGuffie,3722,University of Trinity College
+371,Bren,Oribi,Ciccone,3933,King University College
+372,Che,Red-tailed wambenger,Clopton,2121,University of Toronto
+373,Hildagarde,Sugar glider,Sakins,6162,Ontario Tech University
+374,Link,Puna ibis,Goodbarr,6036,University of St. Michael College
+375,Artemis,"Bird, pied butcher",Smowton,2008,Royal Military College of Canada
+376,Sanson,"Mynah, common",Millington,4068,Brescia University College
+377,Sutherland,White-throated monitor,Mair,5709,Victoria University
+378,Yevette,Western grey kangaroo,Vedyasov,5327,Brescia University College
+379,Carlyle,"Siskin, pine",Cecere,7608,Carleton University
+380,Nissie,"Seal, northern elephant",Dabinett,7289,Ryerson University
+381,Pauletta,"Lemming, arctic",Charrisson,1564,York University
+382,Benn,"Frogmouth, tawny",Pessel,8996,McMaster University
+383,Brennen,"Skink, blue-tongued",Geddes,4462,Trent University
+384,Jonis,Indian porcupine,Gabbotts,9082,University of Toronto
+385,Reynard,"Waterbuck, defassa",Siveyer,9443,University of Waterloo
+386,Ethelind,"Anteater, australian spiny",Hearnes,2948,McMaster University
+387,Hugo,"Antelope, roan",Gayne,5141,St. Jerome University
+388,Magdalen,Tyrant flycatcher,Canfield,9772,University of Trinity College
+389,Karita,"Stork, yellow-billed",Airy,4747,""
+390,Bertine,"Cockatoo, roseate",McLucky,4555,Ryerson University
+391,Emmet,"Toucan, white-throated",Rau,4133,McGill University
+392,Anthia,Common palm civet,Hourihan,9118,Laurentian University
+393,Rosalynd,Green heron,Peert,2320,University of Guelph
+394,Oswell,Uinta ground squirrel,Kolodziej,3928,Wilfrid Laurier University
+395,Amalle,Javan gold-spotted mongoose,Bretton,4938,University of Guelph
+396,Joella,White stork,Keneforde,3112,Laurentian University
+397,Harland,"Eland, common",Giraudeau,7798,University of Toronto
+398,Boony,African black crake,Segeswoeth,2165,Carleton University
+399,Gerty,Pacific gull,Branney,4283,University of Trinity College
+400,Konrad,Collared peccary,Foddy,2865,University of Guelph
+401,Ravid,"Hyena, brown",Peebles,8800,Royal Military College of Canada
+402,Stacee,White spoonbill,Pitfield,4321,Royal Military College of Canada
+403,Glynnis,"Lemming, collared",Humburton,3203,University of Toronto
+404,Emera,"Skua, great",Kruschev,5489,University of Trinity College
+405,Regina,Crested porcupine,Duffitt,6817,University of St. Michael College
+406,Dorice,"Cockatoo, slender-billed",Yarnell,9886,Huron University College
+407,Ashlan,"Colobus, black and white",Dorrian,8185,University of Trinity College
+408,Edik,White rhinoceros,Krammer,8501,University of Windsor
+409,Olivie,"Lion, galapagos sea",Knevett,6858,University of Guelph
+410,Bernita,Puna ibis,Bonavia,5159,Queen University
+411,Roi,Southern brown bandicoot,Nettle,7778,Laurentian University
+412,Galvan,African black crake,McCaw,8396,Nipissing University
+413,Consalve,"Zebra, plains",Paulino,8883,Lakehead University
+414,Jodie,"Mongoose, banded",Larwood,1696,McMaster University
+415,Dolley,"Lizard, frilled",Kaas,7889,Western University
+416,Herold,African porcupine,Guslon,3134,University of Windsor
+417,Fayette,Lappet-faced vulture,Tilt,7621,Wilfrid Laurier University
+418,Lindsy,"Hornbill, red-billed",Teaz,4437,University of Trinity College
+419,Adel,"Pademelon, red-legged",Beals,1707,King University College
+420,Leeann,Paddy heron (unidentified),Sylvester,4826,Redeemer University
+421,Gertrud,"Albatross, galapagos",Kreutzer,8988,Huron University College
+422,Lalo,Eagle owl (unidentified),Jagiello,9635,McGill University
+423,Catherina,Slender-billed cockatoo,Gormley,1115,Laurentian University
+424,Arvin,Stone sheep,Whyborne,3193,Carleton University
+425,Bradley,Pallas's fish eagle,O'Corhane,7707,Carleton University
+426,Ginny,Richardson's ground squirrel,Chandler,5776,University of Windsor
+427,Amelie,Tiger,Coning,3273,King University College
+428,Sylvester,Rock dove,Yakebovich,8684,York University
+429,Israel,Arctic hare,Berka,5477,King University College
+430,Waldon,"Kudu, greater",Ertel,9501,St. Jerome University
+431,Jay,Koala,Maffetti,1635,Carleton University
+432,Ethelda,"Lemming, arctic",Sextone,1726,Brescia University College
+433,Melli,Jaguar,McDiarmid,5695,Queen University
+434,Pandora,"Goldeneye, common",Gerault,2075,University of Trinity College
+435,Gigi,Mandras tree shrew,Gerdts,3907,Nipissing University
+436,Kathleen,Agama lizard (unidentified),Judron,6754,University of St. Michael College
+437,Wendall,Bare-faced go away bird,McCollum,9084,York University
+438,Davine,Frilled lizard,Gareisr,2602,Ontario Tech University
+439,Daisey,"Goose, knob-nosed",Rawsthorn,3917,Queen University
+440,Astra,"Turtle, long-necked",Spurden,5040,King University College
+441,Meriel,"Lemur, brown",Pelfer,5294,University of Guelph
+442,Anson,Two-banded monitor,Nuzzi,3055,OCAD University
+443,Rozelle,"Fox, asian red",Rodway,7038,University of St. Michael College
+444,Aurea,American alligator,Scorton,7441,McGill University
+445,Malinda,Gecko (unidentified),Winteringham,3879,University of Windsor
+446,Karole,Praying mantis (unidentified),Da Costa,9605,Lakehead University
+447,Bambi,"Otter, small-clawed",Bownass,7535,OCAD University
+448,Bailey,Lava gull,O'Hara,6394,University of Sudbury
+449,Osborne,Kalahari scrub robin,Pascow,1159,Trent University
+450,Jacinthe,Kongoni,Schlagman,7510,St. Jerome University
+451,Caroljean,"Gorilla, western lowland",Carse,9195,Redeemer University
+452,Beulah,Roseat flamingo,Starie,2840,University of Trinity College
+453,Dimitry,Spotted-tailed quoll,Row,9803,University of Ottawa
+454,Eunice,American crow,O'Scandall,4567,Brock University
+455,Lee,Ostrich,Ungaretti,4959,University of Ottawa
+456,Regen,Eurasian badger,Votier,3031,University of Ottawa
+457,Byrle,"Bison, american",Van den Dael,8596,OCAD University
+458,Frederich,"Cat, ringtail",Hamon,9034,""
+459,Raoul,Silver-backed jackal,Readwin,5852,St. Jerome University
+460,Peggie,Javan gold-spotted mongoose,Stetson,2859,King University College
+461,Kat,"Ibis, puna",Kamenar,1921,Algoma University
+462,Amitie,Spur-winged goose,Tartt,6697,""
+463,Fredia,African bush squirrel,Bengall,4345,University of Guelph
+464,Slade,"Bustard, kori",Pipe,3675,University of Trinity College
+465,Hewet,"Civet, common palm",Garstan,1298,Ontario Tech University
+466,Brigitta,"Wallaby, dama",Bande,5067,University of Toronto
+467,Shani,Zorilla,Wasielewicz,6297,Brescia University College
+468,Jerri,"Crane, brolga",Gawler,7206,Lakehead University
+469,Terrill,Barrows goldeneye,Posnett,3009,Laurentian University
+470,Van,White rhinoceros,Cornejo,5773,King University College
+471,Augy,"Kangaroo, black-faced",Nielson,2999,McGill University
+472,Jermayne,"Jacana, african",Mundall,6715,University of Toronto
+473,Dona,"Crow, house",De Gowe,8157,Victoria University
+474,Dell,"Vulture, egyptian",Jacqueminot,3789,University of Guelph
+475,Chucho,Common wombat,Bedminster,9037,University of Toronto
+476,Tulley,Bohor reedbuck,Donwell,7812,Redeemer University
+477,Trent,"Lizard, goanna",Leckenby,3223,Brock University
+478,Siobhan,Flying fox (unidentified),Pierton,8848,""
+479,Donni,"Dove, rock",Medlar,5410,King University College
+480,Hewitt,"Mongoose, eastern dwarf",Duignan,1250,University of Windsor
+481,Shaylyn,"Whale, baleen",Mutch,4212,University of Sudbury
+482,Dorotea,Mouflon,Link,4380,King University College
+483,Karen,Southern sea lion,O'Siaghail,8984,University of Ottawa
+484,Jayson,African porcupine,Shalcras,1835,Huron University College
+485,Andrew,"Cat, kaffir",Wicken,6433,York University
+486,Crin,Red-billed toucan,Benford,8738,McMaster University
+487,Perren,Anaconda (unidentified),Gresswood,1996,Queen University
+488,Blinni,Green-winged trumpeter,Stanton,7612,King University College
+489,Archaimbaud,"Bustard, kori",Milmoe,6382,Victoria University
+490,Stephie,Violet-crested turaco,Capstack,6700,Brescia University College
+491,Jeremie,Trumpeter swan,Halleday,1571,Ryerson University
+492,Dalenna,"Dragon, asian water",Ackenhead,6127,Ontario Tech University
+493,Lissie,Caracara (unidentified),Joanaud,2713,University of Ottawa
+494,Abdel,"Eland, common",Deniseau,9345,University of Trinity College
+495,Cahra,Long-finned pilot whale,Kempe,4545,University of Waterloo
+496,Emmalee,"Shark, blue",Tattersill,6786,Wilfrid Laurier University
+497,Alwyn,Snowy egret,Usher,8881,Ontario Tech University
+498,Lelia,"Dragonfly, russian",Naden,4923,Carleton University
+499,Anastassia,Great white pelican,Fryer,7112,Ontario Tech University
+500,Laverne,"Lemur, ring-tailed",Brocks,6601,OCAD University
+501,Averil,Cobra (unidentified),Burbidge,9237,University of Toronto
+502,Nikolas,Grant's gazelle,Grey,7703,""
+503,Gothart,"Tapir, brazilian",Mainstone,4201,Laurentian University
+504,Giacinta,"Porcupine, crested",Guillou,6394,University of Guelph
+505,Arabella,"Crane, black-crowned",Triggle,1093,McMaster University
+506,Conchita,Southern lapwing,Houlahan,1678,University of Guelph
+507,Christian,Yellow-billed stork,Piotrowski,4242,Trent University
+508,Ibbie,Galapagos tortoise,Ogdahl,2957,University of Windsor
+509,Paddie,"Lemming, collared",Glavis,6620,Nipissing University
+510,Caren,Indian peacock,Beynkn,5597,Ryerson University
+511,Katuscha,South American sea lion,Tapscott,4834,University of Waterloo
+512,Bobbee,"Squirrel, thirteen-lined",Bikker,8364,Redeemer University
+513,Cord,Ostrich,Van den Bosch,7056,University of Trinity College
+514,Marjy,Eastern grey kangaroo,Hannond,4593,Lakehead University
+515,Ash,Small-spotted genet,Krikorian,8142,McGill University
+516,Zita,"White-eye, cape",St. Quintin,1205,McMaster University
+517,Tobye,Dusky gull,Drieu,3037,Ontario Tech University
+518,Lezley,Kafue flats lechwe,Bront,2278,St. Jerome University
+519,Margeaux,"Elephant, asian",Langworthy,6576,Algoma University
+520,Randy,"Dog, raccoon",Dutch,6251,Queen University
+521,Denny,Red-billed buffalo weaver,Geerling,5719,Nipissing University
+522,Godard,Levaillant's barbet,Housegoe,3598,Lakehead University
+523,Clemmie,Western spotted skunk,Kruszelnicki,1635,Western University
+524,Xerxes,Grey lourie,Guidelli,3426,Redeemer University
+525,Hugibert,"Pie, rufous tree",Goodlad,2919,University of Waterloo
+526,Phillis,Purple moorhen,Amies,7036,Brescia University College
+527,Octavia,"Baboon, yellow",Nibley,5807,Trent University
+528,Hadley,Common duiker,Boost,1023,Queen University
+529,Nat,Pygmy possum,Fetter,8320,Huron University College
+530,Shelia,"Quail, gambel's",Larrosa,7827,Huron University College
+531,Peggi,Canada goose,Roalfe,1036,University of Waterloo
+532,Dulsea,Worm snake (unidentified),Lievesley,6953,Brescia University College
+533,Rolando,"Hare, arctic",Blackwell,5551,Carleton University
+534,Baxter,"Goldeneye, common",Tedorenko,9575,Algoma University
+535,Felicity,Pampa gray fox,Lofts,4124,University of St. Michael College
+536,Rafaelita,Fisher,Karleman,4715,Wilfrid Laurier University
+537,Rutherford,Little grebe,Degg,5385,Western University
+538,Giacobo,Eleven-banded armadillo (unidentified),Merry,5519,Laurentian University
+539,Brit,"Otter, cape clawless",Jon,6809,Queen University
+540,Marisa,"Godwit, hudsonian",Mourge,1829,Ontario Tech University
+541,Donavon,"Trumpeter, green-winged",Tallach,8350,University of St. Michael College
+542,Linnea,Mexican beaded lizard,Swindin,5833,University of Toronto
+543,Deloris,"Cockatoo, long-billed",Bilbery,4461,University of Guelph
+544,Juliet,California sea lion,Tilliards,6667,University of Windsor
+545,Reina,Egyptian cobra,Tallquist,9382,University of St. Michael College
+546,Lonnie,Laughing kookaburra,Londesborough,7014,Brock University
+547,Billie,Polar bear,Silverstone,3988,Brock University
+548,Pascale,Green-backed heron,Elkins,9761,Lakehead University
+549,Cornie,Lizard (unidentified),Schruyer,4888,University of Guelph
+550,Vonni,African polecat,Dmitrievski,3869,McMaster University
+551,Rachelle,"Penguin, magellanic",Prozillo,7422,Brock University
+552,Irvine,Pied cormorant,Durning,3902,Brescia University College
+553,Lotti,American woodcock,Busst,6535,Victoria University
+554,Germaine,"Pheasant, ring-necked",Brisley,9155,Victoria University
+555,Stepha,"Vulture, oriental white-backed",Blizard,5466,Queen University
+556,Judas,American bison,Wythill,3386,Laurentian University
+557,Chevalier,Malabar squirrel,Le Galle,7429,Redeemer University
+558,Viviana,"Crab, red lava",Tipton,6596,University of Toronto
+559,Ferdinand,"Armadillo, nine-banded",Martinovsky,7763,Western University
+560,Toma,"Skink, african",Pristnor,7088,Huron University College
+561,Tony,"Quoll, spotted-tailed",Mulvagh,2831,Royal Military College of Canada
+562,Samson,"Weaver, red-billed buffalo",Rapley,5476,Trent University
+563,Olympia,"Fox, silver-backed",Arnao,3672,Brescia University College
+564,Sara,Monitor lizard (unidentified),Brundill,7523,Algoma University
+565,Lexis,Eastern dwarf mongoose,Smeeton,6518,Queen University
+566,Lilas,White-cheeked pintail,Grisard,6725,Huron University College
+567,Sharity,Fringe-eared oryx,Wase,6504,Brock University
+568,Steve,Snake-necked turtle,Iban,8872,Queen University
+569,Annalise,"Falcon, peregrine",Tillerton,2490,Redeemer University
+570,Emlynne,Emu,Farens,8455,University of Windsor
+571,Taffy,"Rhea, gray",Fair,2770,Wilfrid Laurier University
+572,Bertrand,Indian leopard,Peart,6279,University of Trinity College
+573,Edward,Little cormorant,Joynson,8176,Redeemer University
+574,Rheta,"Weaver, red-billed buffalo",Farncombe,1512,King University College
+575,Gilberto,Black-fronted bulbul,Goodale,6991,Trent University
+576,Kerstin,Tiger,Fathers,7532,Nipissing University
+577,Kimberlyn,"Vulture, white-headed",Janiak,3428,St. Jerome University
+578,Sammie,"Macaque, rhesus",Stollberger,6402,St. Jerome University
+579,Armin,Carpet python,Corry,2047,Redeemer University
+580,Baryram,"Heron, goliath",De Gregario,7526,Ontario Tech University
+581,Alejandra,Gray heron,Truman,3374,McGill University
+582,Keelia,"Squirrel, red",Dron,2316,Wilfrid Laurier University
+583,Ibbie,"Alligator, mississippi",Burker,9181,St. Jerome University
+584,Modesta,Roseat flamingo,Monketon,8426,Ryerson University
+585,Bourke,Whip-tailed wallaby,Espinas,8639,University of Ottawa
+586,Lenee,Laughing kookaburra,Farguhar,4916,McMaster University
+587,Karry,"Gonolek, burchell's",Clohisey,9289,Wilfrid Laurier University
+588,Toddy,"Mongoose, banded",Mallabar,5464,Huron University College
+589,Shanta,Pale-throated three-toed sloth,Harlick,6535,Queen University
+590,Farica,South American sea lion,Aldritt,4339,McMaster University
+591,Wendel,Black spider monkey,Langhor,4247,University of Windsor
+592,Celinda,African fish eagle,Fidele,1905,Ryerson University
+593,Hillery,Magellanic penguin,Espinosa,5604,Ontario Tech University
+594,Loree,"Bandicoot, short-nosed",Abisetti,8182,York University
+595,Walliw,Paradoxure,Mawman,1724,Wilfrid Laurier University
+596,Nikos,"Lemur, brown",Succamore,5269,Trent University
+597,Adina,Blue-footed booby,Glasscock,8707,Ryerson University
+598,Dene,"Fox, grey",Benito,8342,Royal Military College of Canada
+599,Darb,"Lark, horned",Blei,3995,Laurentian University
+600,Andros,"Meerkat, red",Fillingham,6561,Ryerson University
+601,Kellby,Blue crane,Pressman,9385,Redeemer University
+602,Ashby,"Skimmer, four-spotted",Haynesford,3903,Victoria University
+603,Joelly,"Heron, goliath",Berger,8111,Victoria University
+604,Dick,Little brown dove,Stoile,6727,Lakehead University
+605,Millie,Swainson's francolin,Yesenin,2321,Carleton University
+606,Wilhelm,Australian spiny anteater,Febre,3492,Victoria University
+607,Stormie,"Lechwe, kafue flats",Andrin,5613,Nipissing University
+608,Arlen,"Mongoose, banded",Moughton,5974,Wilfrid Laurier University
+609,Mano,"Buffalo, asian water",Hanwell,1294,University of St. Michael College
+610,Rodd,Swamp deer,MacAvddy,5502,Algoma University
+611,Casar,American racer,Clint,8054,King University College
+612,Josefa,"Hornbill, red-billed",Deeman,3412,Algoma University
+613,Orel,"Butterfly, canadian tiger swallowtail",Matias,9186,Laurentian University
+614,Pancho,Bush dog,Turville,5453,Lakehead University
+615,Eugenio,Southern tamandua,Harbidge,9683,Victoria University
+616,Johny,American woodcock,Farfoot,8720,Nipissing University
+617,Kial,Springhare,Godard,1049,Royal Military College of Canada
+618,Aluino,"Hyena, spotted",Avraham,1750,University of Windsor
+619,Otho,"Grouse, sage",Croasdale,6752,McGill University
+620,Woodman,Banded mongoose,Dingle,1403,OCAD University
+621,Alfonse,Black-backed magpie,Frotton,8802,Ontario Tech University
+622,Jasen,Great skua,Medling,1193,OCAD University
+623,Ade,"Hawk, galapagos",Iwanowski,6852,University of St. Michael College
+624,Karil,"Tern, white-winged",Audiss,7627,York University
+625,Kirsteni,"Shelduck, european",Greatbanks,4669,Queen University
+626,Blair,Common wombat,Perring,9768,University of St. Michael College
+627,Evelyn,"Raccoon, crab-eating",Heavy,8478,""
+628,Thain,"Mongoose, javan gold-spotted",Oley,3821,York University
+629,Carmel,Capybara,Bartley,2076,OCAD University
+630,Felipa,Agama lizard (unidentified),Linkleter,1673,University of Trinity College
+631,Khalil,Columbian rainbow boa,Cuchey,7205,Western University
+632,Jocelyne,Eastern cottontail rabbit,Johnston,6577,Brescia University College
+633,Silvano,Savannah deer,Larkcum,9405,Carleton University
+634,Mersey,"Raven, cape",Daffey,1680,Trent University
+635,Berthe,Netted rock dragon,Norris,4545,University of Toronto
+636,Omar,Yellow-headed caracara,Dyott,1852,Nipissing University
+637,Jerri,"Robin, white-throated",Casali,2142,Lakehead University
+638,Rozelle,Red deer,Mably,7501,OCAD University
+639,Pincas,Crab (unidentified),Kindleysides,3661,University of Ottawa
+640,Amargo,"Siskin, yellow-rumped",Cadwaladr,1043,Algoma University
+641,Tamma,Green-winged trumpeter,Lowson,6126,McMaster University
+642,Brunhilda,"Albatross, galapagos",Dacombe,3856,OCAD University
+643,Natty,"Macaque, japanese",Mirfield,7408,McMaster University
+644,Dyane,Hoary marmot,Gunthorpe,4913,""
+645,Aleen,Red-shouldered glossy starling,Jickles,5634,Nipissing University
+646,Ashley,"Rhinoceros, white",Jantet,9561,Ontario Tech University
+647,Bay,Ostrich,Eidler,1495,University of Sudbury
+648,Ashla,"Gecko, ring-tailed",Roman,7539,Royal Military College of Canada
+649,Moira,"Cat, toddy",Wanstall,4536,OCAD University
+650,Maxwell,"Stilt, black-winged",Gobat,8450,University of Guelph
+651,Kissiah,Malachite kingfisher,Peebles,7942,Brock University
+652,Artemus,Dusky rattlesnake,Stithe,8129,University of Windsor
+653,Bevvy,Harbor seal,Morecomb,3633,Trent University
+654,Brittan,African lynx,Traves,4564,McGill University
+655,Modestine,Moose,Livingston,6017,Ontario Tech University
+656,Claybourne,Indian porcupine,Rysdale,9688,Royal Military College of Canada
+657,Elsy,Aardwolf,Valder,4424,Huron University College
+658,Daune,"Gorilla, western lowland",Slad,6275,University of Guelph
+659,Samson,White stork,Garratt,4968,Huron University College
+660,Hymie,Pale-throated three-toed sloth,Buckam,1875,Redeemer University
+661,Austin,Magistrate black colobus,Barnhill,5349,Nipissing University
+662,Charmine,"Cobra, cape",Standage,8110,University of Guelph
+663,Sigfrid,Sea birds (unidentified),Tibbles,3301,""
+664,Seana,"Viper, egyptian",Dohmann,5069,University of Trinity College
+665,Kalil,"Lapwing, southern",MacCallam,8630,York University
+666,Erika,African polecat,Satterfitt,8980,York University
+667,Maddy,"Mongoose, banded",Le Claire,1353,Queen University
+668,Dorothea,Blue shark,Belverstone,5670,Nipissing University
+669,Dyna,European wild cat,Barchrameev,2826,Royal Military College of Canada
+670,Chrissie,Four-horned antelope,Semeradova,1806,Victoria University
+671,Emiline,"Swan, trumpeter",Coggin,2616,McMaster University
+672,Corny,Gambel's quail,Hedling,1804,Royal Military College of Canada
+673,Enos,"Tenrec, tailless",Klaassens,8683,St. Jerome University
+674,Helenelizabeth,"Bettong, brush-tailed",MacFadzean,5650,University of Toronto
+675,Tabatha,"Squirrel, smith's bush",Binch,9624,Laurentian University
+676,Spike,Nilgai,Drissell,5096,University of Toronto
+677,Torie,"Wallaby, whip-tailed",Eggins,9457,University of Sudbury
+678,Chiarra,Australian masked owl,Pyrah,9778,""
+679,Beitris,Red-breasted cockatoo,Leopard,7240,Laurentian University
+680,Siobhan,Galapagos tortoise,Siehard,7902,Laurentian University
+681,Reece,Laughing dove,Drinkhall,3163,University of St. Michael College
+682,Creight,Four-striped grass mouse,Frusher,3862,OCAD University
+683,Errol,Tiger snake,Gallienne,7281,McGill University
+684,Berty,"Baboon, olive",Moverley,1912,York University
+685,Renae,Gambel's quail,Peverell,4982,Huron University College
+686,Armand,African jacana,Browne,9943,Queen University
+687,Shaun,Burmese black mountain tortoise,Ghiron,2826,University of Trinity College
+688,Remy,American Virginia opossum,Reddel,4022,King University College
+689,Zahara,Thirteen-lined squirrel,De Blase,6294,Royal Military College of Canada
+690,Lia,Common shelduck,Digweed,7874,University of Toronto
+691,Henry,Asian openbill,Heineke,8551,Nipissing University
+692,Fin,Spectacled caiman,Helsby,1830,University of Sudbury
+693,Arvy,Olive baboon,Basil,7138,Brescia University College
+694,Suzy,Grey lourie,Chicco,3356,University of Waterloo
+695,Antonin,Javan gold-spotted mongoose,St. Pierre,3068,Trent University
+696,Juliana,Pig-tailed macaque,Czyz,2638,Brescia University College
+697,Arley,Boat-billed heron,Croote,6482,University of Guelph
+698,Virgie,"Squirrel, eurasian red",Richardson,7059,Trent University
+699,Sigvard,African pied wagtail,Ovanesian,1957,University of Windsor
+700,Evonne,Elegant crested tinamou,Milbourn,6773,McMaster University
+701,Abbey,"Waxbill, blue",Ginnaly,9128,Western University
+702,Stanislas,White-cheeked pintail,Gilham,7937,Victoria University
+703,Kamillah,"Lizard, blue-tongued",Friedlos,7444,York University
+704,Letizia,"Dragon, asian water",Anscombe,3848,University of St. Michael College
+705,Ewell,Ring-tailed possum,Abley,9939,Victoria University
+706,Lia,"Shelduck, european",Mellor,6342,Laurentian University
+707,Vi,Sage hen,Carmo,4959,Ontario Tech University
+708,Reggi,House sparrow,Kayley,9660,York University
+709,Allyn,"Jackal, indian",Sketcher,3757,McGill University
+710,Oliver,Common melba finch,Murdy,7144,Ryerson University
+711,Fields,Common rhea,Pigeon,4904,University of St. Michael College
+712,Cristi,"Stork, openbill",Burbidge,6324,Western University
+713,Baldwin,House crow,Pagett,3821,University of St. Michael College
+714,Foster,Wattled crane,Constantine,3438,""
+715,Nancey,"Avocet, pied",Sowerby,7581,Ryerson University
+716,Sherie,"Wildebeest, blue",Vallentin,7894,University of Waterloo
+717,Hyacinth,Woodchuck,Edess,5137,University of Waterloo
+718,Ario,"Porcupine, african",Dwyer,3115,Huron University College
+719,Sutherland,Red-winged blackbird,McPhail,7967,University of Ottawa
+720,Boigie,House sparrow,Kinrade,1841,Huron University College
+721,Liane,"Roller, lilac-breasted",Lowrie,4619,Trent University
+722,Maye,Grizzly bear,Storek,4799,York University
+723,Doroteya,White-throated kingfisher,Arrol,1236,York University
+724,Gustav,Square-lipped rhinoceros,Mesnard,2102,University of Waterloo
+725,Lisbeth,"Alligator, mississippi",Duplain,4943,University of Toronto
+726,Jeffrey,Bald eagle,McInally,5689,Redeemer University
+727,Caro,Spur-winged goose,Clerke,3393,Redeemer University
+728,Kenny,American marten,Spittle,2721,Queen University
+729,Tanny,"Flycatcher, tyrant",Thexton,7271,Wilfrid Laurier University
+730,Katey,Pocket gopher (unidentified),Acome,3777,York University
+731,Demetra,Eastern dwarf mongoose,Espin,5522,Redeemer University
+732,Aurel,"Dragon, asian water",Ruseworth,6866,Redeemer University
+733,Cordula,White-faced tree rat,Scarlan,5921,King University College
+734,Melina,"Fox, savanna",Scryne,6743,University of St. Michael College
+735,Flore,Swamp deer,Moncaster,2757,University of Ottawa
+736,Kathy,"Roller, lilac-breasted",Beig,4057,Lakehead University
+737,Nadeen,Great egret,Stocks,8588,Royal Military College of Canada
+738,Astrix,"Kangaroo, eastern grey",Caulkett,1614,Redeemer University
+739,Michal,Kalahari scrub robin,Shotboult,7718,Royal Military College of Canada
+740,Collie,House sparrow,Mityukov,8326,University of Windsor
+741,Una,Black-collared barbet,Thurlby,9025,Brescia University College
+742,Marylynne,Small Indian mongoose,Tolefree,6778,University of Trinity College
+743,Hyacinthe,"Dove, little brown",Yea,2362,Ontario Tech University
+744,Nigel,Springbok,McCue,9489,University of Toronto
+745,Maren,Yellow-rumped siskin,Eastlake,2663,""
+746,Perle,Hoary marmot,Warters,5964,Ontario Tech University
+747,Garrek,Large cormorant,Feehely,8865,Queen University
+748,Rollins,Hanuman langur,Duns,2823,University of St. Michael College
+749,Hadley,African ground squirrel (unidentified),Kimbley,4691,Queen University
+750,Sydel,"Egret, cattle",Masurel,5793,McGill University
+751,Stephie,Ring-tailed possum,Cattach,1115,University of Toronto
+752,Cece,"Bulbul, african red-eyed",Darch,4663,Ontario Tech University
+753,Dodie,"Booby, blue-faced",Zuanazzi,8550,Wilfrid Laurier University
+754,Christyna,African darter,Whaley,9929,Victoria University
+755,Rahal,"Shrike, common boubou",Verrier,2510,University of Windsor
+756,Otho,"Eagle, pallas's fish",Wescott,3266,Redeemer University
+757,Gracie,Black-throated butcher bird,Szach,9465,Brescia University College
+758,Berkly,Blacksmith plover,Carbett,9248,Ryerson University
+759,Henriette,Short-beaked echidna,Tinton,1656,Wilfrid Laurier University
+760,Consuelo,Platypus,Sibbit,7740,Wilfrid Laurier University
+761,Nert,"Hartebeest, red",Richings,3319,Brescia University College
+762,Ignacius,Pig-tailed macaque,Kinnier,9897,McGill University
+763,Malinda,"Cat, ringtail",Loade,8842,University of St. Michael College
+764,Jacki,"Brocket, red",Spurier,9547,Nipissing University
+765,Ada,"Penguin, magellanic",Fibbens,5619,University of Toronto
+766,Sibel,"Antelope, roan",Coke,5290,""
+767,Hanan,"Blackbird, red-winged",McColm,4898,Lakehead University
+768,Rennie,"Hartebeest, coke's",Ochiltree,1061,Victoria University
+769,Karrie,Eagle owl (unidentified),Anten,5784,University of Trinity College
+770,Shandeigh,Bohor reedbuck,Longmead,8931,""
+771,Willow,"Tenrec, tailless",Krysiak,9190,King University College
+772,Cal,"Phalarope, grey",Gapper,7558,York University
+773,Anatol,Emerald-spotted wood dove,Peckett,2661,Algoma University
+774,Hillier,Common zorro,Trowell,1131,McGill University
+775,Florian,"Cardinal, black-throated",Vasilov,3941,University of Trinity College
+776,Nathanil,Horned rattlesnake,Cowans,4949,Western University
+777,Gretchen,Common boubou shrike,Yeldon,4059,University of Waterloo
+778,Korney,"Gull, herring",Urian,3471,""
+779,Robena,White-nosed coatimundi,Belfrage,8205,Royal Military College of Canada
+780,Gnni,Snake-necked turtle,Jozefczak,8660,Huron University College
+781,Samaria,"Armadillo, common long-nosed",Taylot,7159,Redeemer University
+782,Natty,"Bear, grizzly",Sinkings,3867,Lakehead University
+783,Sophey,"Lion, australian sea",Skinner,7362,University of Guelph
+784,Mufinella,"Tortoise, burmese brown mountain",Dohrmann,4052,University of Sudbury
+785,Morgen,Cape wild cat,Overpool,9689,Nipissing University
+786,Kassi,"Stork, painted",Theaker,8613,Wilfrid Laurier University
+787,Cory,"Lourie, grey",Wheatland,7236,Lakehead University
+788,Merrilee,Sidewinder,Frany,2833,Carleton University
+789,Natty,Western grey kangaroo,Bischof,7907,Carleton University
+790,Randal,"Badger, eurasian",Lethcoe,8075,Algoma University
+791,Uta,"Goat, mountain",Ganforthe,6188,Trent University
+792,Cally,"Turtle, snake-necked",Ebunoluwa,3049,Nipissing University
+793,Karia,"Eland, common",Lawless,5024,University of Trinity College
+794,Hunter,"Lizard, mexican beaded",Monier,9727,McGill University
+795,Clarice,"Snake, buttermilk",Carletti,3723,Carleton University
+796,Ophelie,"Bear, grizzly",Bridgwater,2602,University of Sudbury
+797,Heriberto,White-winged dove,Haster,5522,Laurentian University
+798,Reine,Beisa oryx,Cornner,1462,Algoma University
+799,Marysa,"Rattlesnake, eastern diamondback",Rumsby,1732,Queen University
+800,Ashia,"Hyena, striped",Foli,7660,York University
+801,Jerrine,"Bandicoot, long-nosed",Grunder,2459,Nipissing University
+802,Inga,"Admiral, indian red",Punch,5417,King University College
+803,Elisha,White-faced tree rat,De Giorgi,5032,University of Guelph
+804,Erastus,"Marshbird, brown and yellow",Jamrowicz,5675,Huron University College
+805,Bald,"Lemur, sportive",Barrowcliff,5725,""
+806,Dunc,"Sparrow, house",Sidnell,4043,Wilfrid Laurier University
+807,Bruis,Sociable weaver,Carman,3764,OCAD University
+808,Nadia,Long-finned pilot whale,Penhaligon,1568,McGill University
+809,Brnaba,Nelson ground squirrel,Durgan,1957,Algoma University
+810,Pacorro,"Alligator, american",Sweetman,7140,Nipissing University
+811,Adina,"Baboon, olive",Ricci,8079,Wilfrid Laurier University
+812,Jacquenetta,Red-breasted cockatoo,Durman,8860,University of Guelph
+813,Sunny,"Hartebeest, red",Chateau,2235,University of Sudbury
+814,Earvin,Monitor lizard (unidentified),Sponder,6675,Wilfrid Laurier University
+815,Brigid,Prehensile-tailed porcupine,Leaney,6390,Brock University
+816,Arnoldo,Striped skunk,Bockler,1987,Carleton University
+817,Lydia,"Woodcock, american",Stirzaker,7021,Ryerson University
+818,Janette,"Bettong, brush-tailed",Leyson,3928,University of Sudbury
+819,Sher,"Moorhen, purple",Micheau,5004,Nipissing University
+820,Douglas,"Hen, sage",Ruler,8502,York University
+821,Laurel,"Flycatcher, tyrant",Fardy,2796,Trent University
+822,Kipp,Red sheep,Kurton,6641,University of Waterloo
+823,Lorrie,"Boa, cook's tree",Cashman,3369,Wilfrid Laurier University
+824,Thekla,Common waterbuck,Brazel,9707,""
+825,Tiena,"Echidna, short-beaked",Suthren,5248,York University
+826,Gerri,"Gazelle, grant's",Pooley,2639,Huron University College
+827,Silvain,Black spider monkey,Cocking,8000,""
+828,Ginger,Long-necked turtle,Moscon,4015,University of Ottawa
+829,Britta,"Pigeon, feral rock",Pacitti,1617,Wilfrid Laurier University
+830,Bee,African fish eagle,Casari,7760,OCAD University
+831,Lauren,Southern elephant seal,Blankman,6013,Trent University
+832,Lory,"Jacana, african",Dubbin,6230,Ryerson University
+833,Pail,"Cormorant, large",Skillen,9364,Brock University
+834,Danice,"Barbet, crested",Delahunty,8319,Brescia University College
+835,Bern,"Hen, sage",Grasner,4929,Ryerson University
+836,Winfred,"Quoll, eastern",McArd,7911,Algoma University
+837,Hilton,"Mongoose, eastern dwarf",Garrison,7188,University of Ottawa
+838,Parrnell,Ostrich,Fishburn,5975,Algoma University
+839,Abbe,Groundhog,Sheed,4055,University of Waterloo
+840,Zea,Feral rock pigeon,Stawell,7151,Algoma University
+841,Tristan,Mouflon,Syder,3785,Royal Military College of Canada
+842,Erin,"Stork, white",Schaumann,7764,Algoma University
+843,Nanete,Cheetah,Beckerleg,8394,York University
+844,Bruis,Feathertail glider,Cisec,4075,Carleton University
+845,Meagan,"Catfish, blue",Beiderbecke,5106,University of Guelph
+846,Salim,Elegant crested tinamou,Dominico,9685,University of Ottawa
+847,Caressa,Yellow-throated sandgrouse,Eard,2838,University of Trinity College
+848,Veronika,"Bleu, blue-breasted cordon",Skittle,9290,York University
+849,Birdie,Eastern grey kangaroo,Tillyer,5859,University of Trinity College
+850,Laura,"Heron, striated",Leinster,6418,""
+851,Devon,Roan antelope,Worg,5272,Queen University
+852,Harper,"Goose, cereopsis",Goulston,8553,Ryerson University
+853,Reta,"Weaver, red-billed buffalo",Margrett,6236,McMaster University
+854,Murielle,Grey mouse lemur,Prott,9104,University of Sudbury
+855,Krisha,"Sparrow, rufous-collared",Crystal,3544,University of Sudbury
+856,Simone,Plains zebra,Boyet,7703,University of Trinity College
+857,Mariquilla,African wild cat,Acreman,1774,Lakehead University
+858,Drusilla,"Fox, arctic",Pischof,5946,Victoria University
+859,Brenden,Canada goose,Anstie,2121,King University College
+860,Leda,"Hyena, striped",Pareman,9365,Wilfrid Laurier University
+861,Teirtza,"Deer, savannah",Pharaoh,1490,University of Waterloo
+862,Anastasie,Tokay gecko,McDade,1476,Nipissing University
+863,Stormi,"Capuchin, black-capped",King,3027,Wilfrid Laurier University
+864,Myrtia,"Blackbird, red-winged",Puttock,6688,King University College
+865,Ase,"Whale, killer",Ruilton,7810,Huron University College
+866,Kippar,Eastern grey kangaroo,Burt,4369,Algoma University
+867,Barrie,Andean goose,Ogborn,2980,King University College
+868,Georas,"Rhinoceros, square-lipped",Hillitt,8417,University of Waterloo
+869,Fidole,"Goose, canada",Applegate,7994,Queen University
+870,Jaquelyn,"Pheasant, ring-necked",Reddel,6779,Algoma University
+871,Gayla,Asian elephant,Hoston,1722,University of Ottawa
+872,Deva,"Penguin, galapagos",Bredes,6688,University of Ottawa
+873,Efrem,"Genet, small-spotted",Ramet,7029,""
+874,Anya,North American beaver,Braam,2022,Victoria University
+875,Riccardo,"Tern, white-winged",Van Halen,4069,University of Sudbury
+876,Keely,"Dove, rock",Carden,4979,Huron University College
+877,Lorinda,Blue crane,McGowran,1911,University of Windsor
+878,Marve,"Gull, dusky",Fuggle,1312,Brock University
+879,Skipton,Darwin ground finch (unidentified),Crasford,7576,Victoria University
+880,Alon,"Fox, blue",Kiddey,4251,University of Sudbury
+881,Tiertza,"Lion, mountain",Phittiplace,4868,McMaster University
+882,Modestia,Red deer,Starkey,6934,Huron University College
+883,Othello,White-faced tree rat,McBrier,2102,Laurentian University
+884,Baird,"Deer, barasingha",Baunton,7721,Ontario Tech University
+885,Hobey,"Squirrel, richardson's ground",Woolner,2347,Lakehead University
+886,Alix,African bush squirrel,Petrillo,6936,Victoria University
+887,Glenden,"Hoopoe, eurasian",Davoren,1562,""
+888,Carce,Yellow-necked spurfowl,Chiplen,8884,""
+889,Obidiah,Boat-billed heron,Scholefield,8237,Ontario Tech University
+890,Cindy,Little grebe,Kares,5753,Nipissing University
+891,Penelopa,"Wombat, southern hairy-nosed",Keane,2872,University of Ottawa
+892,Nat,"Gull, swallow-tail",Sibbald,3638,University of St. Michael College
+893,Alf,"Whale, killer",Wile,8400,Trent University
+894,Javier,"Weaver, chestnut",Pitts,2619,University of Waterloo
+895,Tamqrah,"Tern, arctic",Coweuppe,2260,Western University
+896,Cristian,"Squirrel, european red",Tappington,1557,Victoria University
+897,Mercedes,White-winged dove,Hansed,2508,University of Trinity College
+898,Leeanne,Silver gull,Searson,3125,Western University
+899,Curt,Square-lipped rhinoceros,Figurski,3706,St. Jerome University
+900,Patricia,"Stork, openbill",Soars,4093,Brescia University College
+901,Andy,"Grenadier, purple",Dmitriev,5714,""
+902,Lars,African red-eyed bulbul,Cordova,2163,Nipissing University
+903,Bealle,Lava gull,Sloley,5142,University of Waterloo
+904,Royall,"Cat, native",Mouland,8728,Western University
+905,Tracey,Great kiskadee,Freshwater,9576,Carleton University
+906,Arch,"Deer, swamp",Hubane,4478,Laurentian University
+907,Jordan,"Pintail, white-cheeked",Perren,3501,Victoria University
+908,Isidore,African jacana,Hanrahan,3020,Laurentian University
+909,Jeff,"Squirrel, indian giant",Bixley,8417,University of St. Michael College
+910,Gerrilee,Sun gazer,Quakley,2113,Victoria University
+911,Rosemaria,"Monitor, two-banded",Sandon,9433,Nipissing University
+912,Vallie,Snowy owl,Zimmerman,5671,University of Toronto
+913,Alaine,"Gecko, barking",Dybald,2406,Royal Military College of Canada
+914,Harwell,"Porcupine, african",Bodega,5418,McMaster University
+915,Nerita,"Francolin, coqui",Alsopp,2423,Lakehead University
+916,Ogdon,Puku,Raddan,6966,Wilfrid Laurier University
+917,Hashim,Red-tailed phascogale,Georgescu,2232,Ontario Tech University
+918,Mufinella,Griffon vulture,Ruecastle,3617,University of Waterloo
+919,Mavra,"Gull, kelp",Troucher,3075,University of Trinity College
+920,Henriette,Tropical buckeye butterfly,Soffe,9796,Brock University
+921,Fredek,Ground legaan,Ledrun,9865,Brescia University College
+922,Theresita,Field flicker,Mealham,7004,Western University
+923,Romy,"Vulture, white-headed",Salzberger,8687,University of Trinity College
+924,Brooks,African polecat,Courtman,7826,University of Windsor
+925,Rockwell,Southern right whale,Lemmens,2396,University of Trinity College
+926,Anna-maria,"Eagle, white-bellied sea",Paddington,4512,Western University
+927,Brigida,Javan gold-spotted mongoose,Brant,4892,Nipissing University
+928,Ilka,"Toucan, red-billed",Coade,9189,Brock University
+929,Stoddard,"Bear, black",Benjafield,6326,University of Trinity College
+930,Quinn,Red-necked wallaby,Edbrooke,4575,University of Windsor
+931,Juana,Australian magpie,Siemianowicz,5199,McMaster University
+932,Redford,Mexican wolf,Cordrey,9062,Redeemer University
+933,Ignazio,"Lion, galapagos sea",McPike,2831,Brescia University College
+934,Cherise,Native cat,Willock,7770,University of Ottawa
+935,Maribel,"Turtle, eastern box",Easey,9886,Ontario Tech University
+936,Phaidra,Western palm tanager (unidentified),Cothey,8072,McMaster University
+937,Clarine,Galapagos dove,Pressnell,2088,Wilfrid Laurier University
+938,Aura,Common dolphin,Nelius,1908,Royal Military College of Canada
+939,Esra,Swallow-tail gull,Bresland,8271,University of Sudbury
+940,Kitty,Crested barbet,Innis,4524,Carleton University
+941,Charlotte,Thirteen-lined squirrel,Matanin,4564,University of Waterloo
+942,Heidie,Asian red fox,Bramah,9026,Redeemer University
+943,Raye,Blue racer,Arbuckle,1323,McMaster University
+944,Bradly,Andean goose,Blanning,8995,King University College
+945,Tiffie,Brush-tailed rat kangaroo,Metts,6091,Western University
+946,Darcy,"Wagtail, african pied",Shee,1060,Western University
+947,Wilie,"Jackrabbit, white-tailed",Shelly,3858,University of Guelph
+948,Dixie,Feathertail glider,Klimpt,3022,""
+949,Reggis,Northern fur seal,McTrusty,7653,King University College
+950,Heida,"Shrike, southern white-crowned",Schoenfisch,7107,University of Ottawa
+951,Malina,"Hornbill, southern ground",Mantle,4154,Trent University
+952,Alameda,"Boa, columbian rainbow",Cometti,3053,Queen University
+953,Salem,Burrowing owl,Cartin,6591,OCAD University
+954,Benjie,Cereopsis goose,Favell,6033,Redeemer University
+955,Gigi,"Baboon, gelada",Birkenhead,5900,Lakehead University
+956,Corri,Rhesus monkey,McNeill,3698,Victoria University
+957,Lucina,Japanese macaque,Brechin,9813,McGill University
+958,Vance,"Puffin, horned",Godfray,7983,University of Waterloo
+959,Ina,Potoroo,Jozefowicz,9785,Western University
+960,Jemmie,African snake (unidentified),Rawes,9054,University of Ottawa
+961,Robers,"Tern, white-winged",Petzold,9747,University of St. Michael College
+962,Oralle,"Waterbuck, defassa",Beaney,1328,Wilfrid Laurier University
+963,Eunice,"Gull, swallow-tail",Hamsley,2312,OCAD University
+964,Dodie,Coqui partridge,Brinsford,5026,King University College
+965,Heddi,Paradoxure,Duetschens,2985,University of St. Michael College
+966,Dolly,Plains zebra,Tackle,1625,Redeemer University
+967,Gabie,"Goose, greylag",Prophet,1062,University of Sudbury
+968,Fania,Crab-eating fox,Reaveley,4649,Nipissing University
+969,Sarge,Mouflon,Brussels,7582,Lakehead University
+970,Gilli,House crow,Mepsted,9800,Royal Military College of Canada
+971,Valencia,"Gull, silver",Guppy,1108,Algoma University
+972,Hermy,European beaver,Shearsby,2191,University of Waterloo
+973,Thorpe,"Squirrel, antelope ground",Carette,6256,University of St. Michael College
+974,Townie,"Coatimundi, ring-tailed",Kunze,4054,University of Windsor
+975,Gilbert,Violet-eared waxbill,Durtnal,3628,University of Trinity College
+976,Ezequiel,Swallow-tail gull,Gammidge,4391,University of Trinity College
+977,Udall,"Mynah, common",Wildash,8900,University of Waterloo
+978,Theresita,Carpet python,Leftley,7722,Ryerson University
+979,Ernesto,Tawny frogmouth,Eymor,2160,University of Ottawa
+980,Flinn,Indian leopard,Stillmann,4083,Victoria University
+981,Sisile,"Dragon, asian water",Carty,9596,Huron University College
+982,Sherye,White-throated monitor,Josefowicz,1261,Ontario Tech University
+983,Hayden,Ring-necked pheasant,Klausen,9239,Brescia University College
+984,Alexandr,"Dragon, komodo",Peppard,7699,Lakehead University
+985,Alexina,"Egret, snowy",Imloch,8716,Wilfrid Laurier University
+986,Say,"Possum, golden brush-tailed",Mattin,9982,McGill University
+987,Amii,Western spotted skunk,Saill,1335,King University College
+988,Lindi,Black-tailed deer,Cripps,9948,University of St. Michael College
+989,Charlena,Bushbuck,Blissett,6080,Queen University
+990,Olia,Striped skunk,Sanderson,3822,University of Sudbury
+991,Margy,Cape clawless otter,Jiran,8528,Nipissing University
+992,Rupert,Golden eagle,MacPaden,7284,Brock University
+993,Harriett,"Buffalo, american",Petras,1492,McGill University
+994,Dela,Common rhea,Odney,5447,Brock University
+995,Theressa,"Possum, western pygmy",Wadeling,8044,King University College
+996,Jedd,Groundhog,Hair,1589,McMaster University
+997,Zed,"Vulture, lappet-faced",Bouldon,5871,York University
+998,Rina,"Capuchin, brown",Hawgood,4582,Western University
+999,Rawley,"Hartebeest, coke's",Sobieski,9472,McMaster University
+1000,Dorita,Swamp deer,Leidecker,5607,Algoma University

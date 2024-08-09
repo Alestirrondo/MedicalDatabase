@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Here you can add a new prescription drug</h1>
+    <form action = '/Q5Search' method = "post">
+        Type the name of the drug here
+        <input type="text" name = "drugname" id ="drugname"><div></div>
+        Type the ExpirationDate here in the format yyyy-mm-dd
+        <input type="text" name = "ExpirationDate" id ="ExpirationDate"><div></div>
+        Type the Strength here
+        <input type="text" name = "strength" id ="strength"><div></div>
+        Type any interactions with other drugs
+        <input type="text" name = "DrugInteraction" id ="DrugInteraction"><div></div>
+        Type the AmountAvailable
+        <input type="text" name = "AmountAvailable" id ="AmountAvailable"><div></div>
+        <button type = "submit">Insert Drug</button>
+    </form>
+    <form action='/Q5Goback' method="post"> 
+        Go back to main page
+        <button type="submit">back</button>
+    </form>
+</body>
+</html>

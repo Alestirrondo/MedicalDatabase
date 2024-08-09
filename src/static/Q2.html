@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Here you can find if there is enough medication available for the prescription</h1>
+    <form action = '/Q2Search' method = "post">
+        Type the Order Id here
+        <input type="text" name = "OrderID" id ="OrderID">
+        Type the Drug name here
+        <input type="text" name = "drugname" id ="drugname">
+        <button type = "submit">Search</button>
+    </form>
+    <form action='/Q2Goback' method="post"> 
+        Go back to main page
+        <button type="submit">back</button>
+    </form>
+</body>
+</html>

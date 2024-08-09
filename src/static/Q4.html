@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Here you can increase or decrease the amount of a prescription drug available</h1>
+    <form action = '/Q4Search' method = "post">
+        Type the Prescription Drug here
+        <input type="text" name = "PrescriptionName" id ="PrescriptionName">
+        Type the new amount here
+        <input type="text" name = "NewAmount" id ="NewAmount">
+        <button type = "submit">change the amount</button>
+    </form>
+    <form action='/Q4Goback' method="post"> 
+        Go back to main page
+        <button type="submit">back</button>
+    </form>
+</body>
+</html>

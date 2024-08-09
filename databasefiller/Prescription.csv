@@ -1,0 +1,1001 @@
+PrescriptionID,Pname,PharmacistID,AmountPrescribed,DosageIntructions,Pdate,LengthOfPrescription
+1,Lisinopril,195,834,Stone,2021-03-26,2021-04-12
+2,Mupirocin,780,819,Plastic,2021-05-22,2021-07-28
+3,Kalium aceticum comp. 6,632,60,Rubber,2021-03-19,2021-11-27
+4,Omeprazole,758,753,Brass,2021-07-02,2021-01-29
+5,Ranitidine Hydrochloride,304,617,Rubber,2021-08-22,2021-07-16
+6,UltrasolSunscreen,160,147,Stone,2021-09-05,2021-03-12
+7,ADRUCIL,779,597,Glass,2021-11-09,2021-03-11
+8,DESMOPRESSIN ACETATE,506,850,Plastic,2021-02-19,2021-08-03
+9,Ready Foundation,904,914,Steel,2021-01-29,2021-01-30
+10,Isosorbide Mononitrate,850,896,Wood,2020-12-15,2021-08-22
+11,Medroxyprogesterone Acetate,549,962,Wood,2020-12-18,2021-08-16
+12,ANTI AGE VEIN,952,302,Rubber,2021-05-20,2020-12-13
+13,Echinacea Thuja Flu Fighter,200,753,Steel,2021-10-29,2021-02-25
+14,DIGOX,78,111,Plastic,2021-11-24,2021-11-03
+15,Asepxia,928,959,Brass,2021-08-09,2021-10-21
+16,Oxygen,79,139,Aluminum,2021-10-24,2021-10-05
+17,Bio Rock Rose,276,393,Brass,2020-12-21,2021-02-06
+18,RHINOCORT AQUA,234,281,Rubber,2021-07-08,2021-02-23
+19,Cell Salts,42,711,Plastic,2021-06-23,2021-09-19
+20,PERFECTION LUMIERE,996,928,Aluminum,2021-01-03,2021-02-11
+21,Lisinopril,338,319,Vinyl,2020-12-12,2021-02-27
+22,Meijer Cold and Hot Medicated,723,459,Stone,2021-03-06,2021-12-01
+23,ANAFRANIL,732,903,Steel,2021-11-23,2021-06-12
+24,Lomotil,485,455,Wood,2021-04-07,2021-11-29
+25,Solu-Medrol,530,117,Plexiglass,2020-12-14,2021-01-20
+26,OXYCODONE AND ACETAMINOPHEN,397,318,Vinyl,2020-12-25,2021-09-26
+27,Sardine,407,781,Vinyl,2021-06-19,2021-10-04
+28,Necon 10/11,861,708,Granite,2021-01-11,2021-07-31
+29,AVAPRO,515,502,Wood,2020-12-28,2021-05-09
+30,OXYGEN,758,547,Plastic,2021-03-09,2021-06-19
+31,Intralipid,796,684,Plastic,2021-01-10,2021-11-29
+32,Salsalate,550,872,Plexiglass,2021-02-04,2021-04-07
+33,DoubleDex Kit,396,531,Plastic,2021-09-03,2021-07-01
+34,Levothyroxine Sodium,552,545,Plexiglass,2021-09-08,2021-11-17
+35,Tegretol,554,566,Glass,2021-02-20,2021-10-30
+36,Diclofenac Sodium,575,260,Granite,2021-03-24,2020-12-30
+37,9 Spleen Pancreas,538,59,Vinyl,2021-04-01,2021-01-08
+38,ETODOLAC,859,979,Wood,2021-05-05,2021-11-04
+39,Lycogel Cover and Recovery - Breathable Concealer - SPF 30 with LYCO Complex,695,349,Plexiglass,2021-10-23,2021-09-24
+40,LACURA,99,373,Vinyl,2021-08-13,2021-04-09
+41,Metoprolol Tartrate,611,108,Steel,2021-11-22,2021-06-30
+42,childrens acetaminophen,181,256,Wood,2021-10-12,2021-08-18
+43,Aspirin,147,404,Plexiglass,2021-03-21,2021-07-10
+44,Dextrose Monohydrate,926,676,Plastic,2021-06-07,2021-10-02
+45,Pro-Den Rx,187,229,Stone,2021-10-25,2021-01-02
+46,Econazole Nitrate,88,358,Plastic,2021-06-18,2021-11-18
+47,ibuprofen pm,159,502,Granite,2020-12-11,2021-10-19
+48,Piperacillin and Tazobactam,414,672,Wood,2021-04-06,2021-11-01
+49,Anti-acne,15,659,Plexiglass,2021-02-03,2021-04-06
+50,Hydroxyzine Hydrochloride,502,980,Glass,2021-03-22,2021-06-23
+51,health mart lice killing,195,930,Plexiglass,2021-04-02,2021-03-11
+52,Leflunomide,765,26,Brass,2021-10-20,2021-11-16
+53,Hydrogen Peroxide,669,784,Rubber,2021-02-23,2021-11-20
+54,NiteTime Sinus,253,417,Wood,2021-11-24,2021-03-11
+55,MUSHROOM FOOD,86,798,Wood,2021-02-09,2021-02-24
+56,Skin Eruptions,45,935,Glass,2021-07-17,2020-12-19
+57,Anticavity,833,600,Plastic,2021-09-13,2021-09-26
+58,mucus relief,445,366,Vinyl,2021-04-30,2021-09-21
+59,Lamotrigine,583,899,Brass,2021-08-17,2021-03-07
+60,Ropinirole Hydrochloride,98,629,Glass,2021-10-28,2021-09-23
+61,Banana Boat Kids Tear Free Sunscreen SPF 60,898,843,Steel,2021-05-18,2021-02-27
+62,COLLAGEN HD PRIIMER BB,741,194,Plexiglass,2021-12-01,2021-10-13
+63,Fluoxetine,135,680,Glass,2021-11-12,2021-11-20
+64,Triple Antibiotic,987,987,Glass,2021-04-23,2021-08-06
+65,ALPRAZOLAM,757,911,Plexiglass,2021-11-19,2021-10-11
+66,Felbamate,854,922,Granite,2021-09-17,2021-01-22
+67,Olive Leaf Antibacterial Foaming Hand Wash,100,18,Stone,2021-06-18,2021-03-09
+68,Oxycodone Hydrochloride,488,238,Glass,2020-12-11,2021-01-16
+69,Hydrocortisone Maximum Strength with Aloe,896,637,Vinyl,2021-02-22,2021-08-04
+70,rexall antacid,121,337,Brass,2021-08-25,2021-04-10
+71,Bronkids,106,51,Plastic,2021-01-15,2021-08-13
+72,Rimmel London,230,877,Glass,2021-08-31,2021-10-26
+73,Amytal Sodium,440,649,Wood,2021-03-03,2021-05-16
+74,Olive Rectal Formula,216,679,Plastic,2021-06-15,2021-08-07
+75,"Pollens - Trees, Bottlebrush, Callistemon spp.",356,859,Plastic,2021-10-15,2021-04-04
+76,Potassium Chloride,958,567,Stone,2021-08-18,2021-10-05
+77,Acetaminophen and Codeine Phosphate,589,943,Steel,2021-10-01,2021-03-22
+78,CLINIMIX,494,332,Rubber,2021-10-20,2020-12-11
+79,Glimepiride,329,410,Vinyl,2021-01-16,2020-12-05
+80,Carbon Dioxide,325,524,Vinyl,2021-05-05,2021-04-24
+81,lisinopril,264,84,Stone,2021-01-12,2020-12-29
+82,TREATMENT LIPSHINE,305,23,Rubber,2021-06-12,2021-07-22
+83,PredniSONE,105,212,Brass,2021-05-21,2021-11-11
+84,Good Neighbor Pharmacy,680,56,Brass,2021-08-25,2021-01-01
+85,Miracle of the Mose Hair Bar,944,613,Granite,2021-09-16,2021-03-04
+86,MISSHA M PERFECT COVER BB,97,375,Glass,2021-04-10,2021-11-10
+87,NEUROSPORA INTERMEDIA,804,392,Brass,2021-01-10,2021-11-08
+88,COMETRIQ,873,762,Stone,2021-11-10,2021-03-12
+89,NORTRIPTYLINE HYDROCHLORIDE,805,728,Steel,2021-09-12,2021-07-22
+90,Alcohol-Free Anticavity,205,562,Rubber,2021-05-09,2021-04-23
+91,Glyburide,109,145,Glass,2020-12-23,2021-09-24
+92,Gabapentin,67,616,Plexiglass,2020-12-26,2021-06-29
+93,Aspirin,828,315,Glass,2021-06-23,2020-12-29
+94,SOOTHING AND MOISTURE ALOE VERA 92 PERCENT SOOTHING,306,247,Rubber,2021-11-15,2021-03-04
+95,Erythrocin Stearate,180,70,Granite,2021-07-14,2021-01-11
+96,Letrozole,531,233,Stone,2021-02-21,2021-08-29
+97,Pleo Fort,159,718,Brass,2021-05-12,2021-10-26
+98,"Food - Plant Source, Walnut, Black Juglans nigra",379,991,Plastic,2021-10-06,2021-09-02
+99,Lisinopril,928,466,Granite,2021-11-03,2021-04-20
+100,SEROQUEL,238,192,Plexiglass,2021-01-14,2021-09-01
+101,FIBRICOR,576,52,Wood,2021-07-03,2021-03-20
+102,Dicyclomine Hydrochloride,668,52,Plexiglass,2021-01-08,2021-02-05
+103,PediaVent,963,151,Stone,2021-12-04,2021-08-16
+104,NU-DERM SYSTEM NORMAL-OILY,775,719,Brass,2021-04-17,2021-07-17
+105,Morphine Sulfate,703,228,Brass,2021-03-26,2021-10-19
+106,Equaline tussin,33,286,Steel,2021-10-09,2021-06-05
+107,Mirtazapine,949,501,Granite,2021-04-21,2021-02-20
+108,Babyteeth,724,217,Glass,2021-11-11,2021-06-28
+109,Dehydrated Alcohol,157,133,Plastic,2021-04-08,2020-12-18
+110,ciprofloxacin,861,328,Plastic,2021-09-03,2020-12-14
+111,Mamma (dextra) 6,810,288,Brass,2021-12-02,2021-08-12
+112,Lorazepam,101,967,Glass,2021-08-21,2021-10-13
+113,Baby Orajel Naturals,80,48,Vinyl,2021-08-11,2020-12-06
+114,Cocoa Latte Tinted Moisturizer Broad Spectrum SPF 25 Sunscreen Medium To Dark,643,342,Steel,2021-03-28,2021-01-10
+115,MKMen Advanced Facial Hydrator Sunscreen SPF 30,737,191,Brass,2021-02-25,2021-10-17
+116,BENZALKONIUM CHLORIDE AND LIDOCAINE HYDROCHLORIDE,229,632,Glass,2021-06-14,2021-03-08
+117,Neutrogena Healthy Skin Compact Makeup,428,64,Glass,2020-12-28,2021-05-16
+118,Diphenoxylate Hydrochloride and Atropine Sulfate,266,174,Glass,2021-03-08,2021-07-02
+119,Lien Plumbum,944,745,Vinyl,2021-08-26,2021-07-13
+120,Aruba Aloe Very Water Resistant Sunscreen,762,596,Granite,2021-06-28,2021-02-22
+121,NUCYNTA,64,733,Plexiglass,2020-12-05,2021-09-30
+122,Readi-Cat2,151,170,Brass,2021-11-11,2021-05-29
+123,STOOL SOFTENER,409,978,Plexiglass,2021-11-26,2021-04-04
+124,ANTIBACTERIAL FOAMING,945,904,Steel,2021-07-15,2021-10-28
+125,Poppyseed,376,237,Plexiglass,2021-05-19,2021-10-14
+126,Pleo Art U,561,190,Rubber,2021-06-22,2021-05-12
+127,Paroxetine,779,875,Vinyl,2021-08-30,2021-07-19
+128,Chantix,856,935,Vinyl,2021-03-21,2021-10-03
+129,Complete Beauty,788,261,Steel,2021-06-20,2021-11-06
+130,Isopropyl Alcohol,706,379,Vinyl,2021-11-19,2021-02-23
+131,Myo-Breathe,262,923,Granite,2021-10-18,2021-07-27
+132,Estradiol,557,928,Granite,2021-07-05,2021-09-16
+133,"",946,538,Vinyl,2021-06-06,2021-10-15
+134,Idole Beauty,391,827,Vinyl,2021-06-30,2021-09-29
+135,ACT Anticavity Fluoride Rinse Kids Scooby Doo,508,363,Plexiglass,2021-01-12,2021-05-20
+136,RI MOX,406,652,Rubber,2020-12-13,2020-12-23
+137,OXYGEN,930,443,Plexiglass,2020-12-21,2021-05-15
+138,Oxycodone Hydrochloride,518,370,Rubber,2021-11-14,2021-01-06
+139,Avastin,253,587,Stone,2021-05-11,2021-05-22
+140,Coast Maple Pollen,906,292,Aluminum,2021-09-21,2021-09-09
+141,NANOMIX NANO CLEAN,946,130,Plexiglass,2021-05-21,2021-11-20
+142,Next Choice,766,481,Stone,2021-02-11,2021-07-23
+143,Aspirin,149,312,Stone,2021-08-05,2021-01-10
+144,ZONISAMIDE,815,687,Stone,2021-08-24,2021-10-07
+145,Mirapex,80,376,Stone,2020-12-17,2021-04-04
+146,Clonazepam,315,391,Wood,2021-06-02,2021-05-19
+147,Desoximetasone,717,935,Granite,2020-12-28,2021-03-31
+148,Quillivant,680,65,Plexiglass,2021-09-22,2021-09-09
+149,Oxygen,78,70,Plexiglass,2021-05-14,2021-01-03
+150,Sterile Alcohol,765,121,Plexiglass,2020-12-16,2020-12-10
+151,Ofloxacin,31,278,Granite,2021-10-02,2021-01-30
+152,Ciprofloxacin,380,835,Plexiglass,2021-07-22,2021-03-15
+153,Candida albicans,149,247,Aluminum,2021-11-27,2021-02-22
+154,Tolterodine Tartrate,726,843,Vinyl,2021-10-19,2021-08-20
+155,Healthy Accents cold head congestion,318,442,Plexiglass,2021-02-17,2021-05-01
+156,Doxazosin,858,315,Rubber,2021-06-12,2021-01-31
+157,Black Walnut,358,177,Rubber,2021-08-15,2021-02-13
+158,ZOMIG,865,447,Plastic,2021-05-08,2021-01-13
+159,Anti-Bacterial Hand,547,315,Wood,2021-08-10,2021-02-19
+160,Erythrocin Stearate,625,811,Wood,2021-08-25,2021-05-02
+161,Hemofil M,892,547,Rubber,2021-07-01,2021-09-20
+162,PAROXETINE,298,976,Stone,2021-11-19,2021-07-15
+163,Metoprolol Tartrate,723,916,Plastic,2021-06-11,2021-09-28
+164,Denti-Care Denti-Rinse,512,386,Steel,2021-03-04,2021-05-04
+165,PAROXETINE,2,570,Plastic,2021-08-04,2020-12-15
+166,Aspirin,117,853,Steel,2021-01-27,2021-06-08
+167,Fentanyl Citrate,105,182,Aluminum,2021-11-30,2021-04-26
+168,Amlodipine Besylate,196,948,Steel,2021-08-30,2021-08-18
+169,AVALIDE,20,340,Rubber,2021-02-10,2020-12-13
+170,Hydrocodone Bitartrate and Acetaminophen,717,203,Vinyl,2021-07-01,2021-04-20
+171,Nitrofurantoin Monohydrate/Macrocrystalline,240,788,Plexiglass,2021-05-06,2020-12-23
+172,DigiClean Slim-Line,357,449,Plexiglass,2021-07-29,2021-07-06
+173,"Molds, Rusts and Smuts, Stemphylium botryosum",992,21,Granite,2021-07-27,2021-01-14
+174,CVS Triple Action Astringent,261,193,Vinyl,2021-09-22,2021-01-11
+175,NEXIUM,244,243,Granite,2021-01-07,2021-10-14
+176,Retin-A,946,74,Stone,2021-11-05,2021-08-22
+177,Parsnip,71,321,Rubber,2021-11-03,2021-11-12
+178,Amoxicillin,220,528,Glass,2021-10-03,2021-07-24
+179,7 Select Acid Reducer,737,534,Stone,2021-07-09,2021-09-27
+180,WHITE PINE POLLEN,940,773,Vinyl,2020-12-05,2021-09-22
+181,Clindamycin Hydrochloride,524,288,Aluminum,2021-01-05,2021-08-04
+182,Qsymia,585,808,Glass,2021-05-12,2021-02-06
+183,Better Braids,207,839,Wood,2021-08-26,2020-12-26
+184,Omeprazole,137,192,Brass,2021-02-18,2021-07-11
+185,equate acid reducer,994,476,Brass,2021-04-09,2021-01-25
+186,GEODON,333,188,Plexiglass,2021-09-18,2021-09-07
+187,Propranolol Hydrochloride,682,921,Rubber,2021-04-02,2021-11-05
+188,"Food - Plant Source, Yeast, Brewer Saccharomyces cerevisiae",49,479,Granite,2021-04-14,2021-04-30
+189,EXALGO,904,659,Plexiglass,2021-12-01,2021-01-07
+190,VIRACEPT,195,869,Glass,2021-05-15,2021-11-16
+191,skin elements liquid veil foundation broad spectrum SPF 25,626,883,Plexiglass,2021-05-11,2021-05-31
+192,Everyday Clean Dandruff,221,259,Steel,2021-10-21,2020-12-09
+193,Anzemet,403,667,Plexiglass,2021-12-02,2021-04-10
+194,CENTURY 21 HEAVY METAL DETOX,715,389,Plexiglass,2020-12-31,2021-09-17
+195,Orapred,489,393,Wood,2021-10-22,2021-08-08
+196,Tolnaftate,893,441,Glass,2021-09-30,2020-12-23
+197,Potassium Chloride,524,586,Stone,2021-08-30,2021-07-02
+198,ABILIFY,394,512,Glass,2021-02-02,2021-01-13
+199,Ampicillin,597,444,Aluminum,2021-08-08,2021-02-26
+200,Loratadine,216,154,Brass,2021-11-09,2021-06-09
+201,rexall daytime nighttime,700,976,Brass,2021-07-18,2021-10-09
+202,Neuroforce,36,757,Rubber,2021-10-05,2021-02-27
+203,Being Well all day pain relief,722,952,Glass,2021-08-11,2021-09-28
+204,AVINZA,267,106,Brass,2021-08-28,2021-04-17
+205,Amoxicillin and Clavulanate Potassium,525,90,Granite,2021-01-03,2021-11-20
+206,ZINC OXIDE,321,223,Plastic,2021-11-15,2021-09-20
+207,PEACH,344,295,Granite,2021-07-15,2021-01-30
+208,Smelt,991,522,Steel,2021-11-21,2021-10-09
+209,FOAMING ANTIBACTERIAL,770,842,Brass,2020-12-12,2021-09-01
+210,Ovidrel,609,992,Rubber,2021-10-24,2021-03-14
+211,Gabapentin,968,964,Rubber,2021-11-17,2021-10-05
+212,Dr. Scholls,878,367,Plexiglass,2021-11-26,2021-06-04
+213,Glyburide,15,845,Aluminum,2021-02-18,2021-04-11
+214,Cymbalta,71,64,Wood,2021-03-06,2021-09-20
+215,Ketoprofen,534,705,Wood,2021-05-17,2021-09-09
+216,Zohydro,459,776,Stone,2021-07-04,2021-01-11
+217,DR. BABOR Ultimate Vitamin,711,441,Stone,2021-07-07,2021-04-25
+218,Gaba Phenolic,526,137,Stone,2021-09-04,2021-04-25
+219,SHISEIDO THE MAKEUP FOUNDATION,492,763,Rubber,2021-03-09,2021-06-29
+220,Acetic Acid,723,293,Plexiglass,2021-11-05,2021-02-10
+221,Talwin,161,94,Steel,2021-08-29,2021-11-20
+222,Tacrolimus,967,897,Aluminum,2021-02-26,2021-06-20
+223,ARTISTRY IDEAL RADIANCE UV Protect SPF 50 PLUS Broad Spectrum Sunscreen,367,677,Vinyl,2021-08-09,2021-01-14
+224,Fungicure,613,122,Wood,2021-07-25,2021-01-25
+225,WATERLESS HAND SANITIZER,778,655,Wood,2021-03-29,2021-05-04
+226,FLAWLESS FINISH FOUNDATION,806,172,Glass,2021-07-11,2021-06-22
+227,Isopto Atropine,975,57,Vinyl,2021-04-01,2021-10-07
+228,Atomy Sunscreen Beige,208,461,Vinyl,2021-09-20,2021-12-04
+229,Doxepin Hydrochloride,968,335,Brass,2021-06-05,2021-03-27
+230,Cuprum aceticum Zincum valerianicum,400,360,Brass,2021-05-05,2021-04-17
+231,Pentoxifylline,884,398,Stone,2021-03-23,2021-01-29
+232,ESIKA,740,72,Plexiglass,2021-09-25,2021-08-10
+233,Pravastatin Sodium,342,349,Wood,2021-04-13,2021-01-08
+234,Actos,544,378,Steel,2021-06-17,2020-12-18
+235,EQUALINE TOLNAFTATE ANTIFUNGAL,414,639,Brass,2021-07-22,2021-07-01
+236,ShopRite Ibuprofen IB,376,274,Vinyl,2021-05-17,2021-01-27
+237,Meloxicam,510,349,Plexiglass,2021-11-11,2021-05-02
+238,FLAWLESS FINISH PERFECTLY NUDE MAKEUP BROAD SPECTRUM SUNSCREEN SPF 15 SHADE CAMEO,218,83,Rubber,2021-04-04,2021-08-21
+239,Lien Plumbum,193,33,Steel,2021-04-28,2021-01-02
+240,NUCYNTA,390,472,Rubber,2021-10-11,2021-04-28
+241,Benzonatate,51,934,Aluminum,2021-01-12,2020-12-20
+242,Shock Grief,729,558,Glass,2021-11-11,2021-08-30
+243,ALMOND,497,569,Plastic,2020-12-28,2021-07-08
+244,"Pollens - Trees, Oak Mix",74,577,Steel,2021-02-06,2021-01-10
+245,Etodolac,382,134,Plexiglass,2021-05-05,2021-09-25
+246,ANTIBACTERIAL FOAMING,367,61,Glass,2021-11-04,2021-08-18
+247,Desmopressin Acetate,902,285,Vinyl,2021-03-07,2021-07-30
+248,NAPROXEN,741,719,Wood,2021-07-04,2021-09-20
+249,Polysporin,699,889,Wood,2021-04-12,2021-11-10
+250,flormar ADVICE Skin Geometry Purely Moisturizing Day Sunscreen Broad Spectrum SPF 15 Normal and Combination Skin,930,997,Steel,2021-06-09,2021-05-29
+251,equaline antacid,995,748,Granite,2021-04-13,2021-03-27
+252,PERCOCET,846,35,Wood,2021-06-01,2021-08-04
+253,IMAGE ESSENTIALS,822,886,Rubber,2021-11-12,2020-12-11
+254,Coffea cruda,123,145,Vinyl,2021-08-30,2021-09-27
+255,kirkland signature pain relief,482,551,Vinyl,2021-08-20,2020-12-06
+256,OXYGEN,192,428,Brass,2021-08-28,2021-11-20
+257,Naproxen Sodium,675,940,Brass,2021-11-07,2021-02-27
+258,Famotidine,981,61,Brass,2021-04-08,2021-04-23
+259,Baclofen,496,866,Rubber,2021-08-15,2021-03-13
+260,Zostrix Joint and Arthritis Pain Relief,851,25,Wood,2021-07-17,2021-06-22
+261,CLONIDINE HYDROCHLORIDE,755,740,Glass,2021-01-23,2021-01-29
+262,Max Revive,621,845,Brass,2021-06-03,2021-09-15
+263,Omeprazole,630,328,Granite,2021-09-08,2021-09-03
+264,SUPRAX,664,875,Glass,2021-04-03,2021-02-09
+265,Xylocaine,943,901,Plexiglass,2021-09-11,2021-10-28
+266,Migraine Relief,708,139,Stone,2021-06-06,2021-10-31
+267,Invisible Pain,232,751,Wood,2021-10-11,2021-04-27
+268,Triamterene hydrochlorothiazide,937,439,Glass,2021-08-01,2021-09-18
+269,Diclofenac Sodium,435,732,Plexiglass,2021-11-20,2021-02-28
+270,PERIPLANETA AMERICANA,402,675,Glass,2021-02-25,2021-07-17
+271,Hetastarch in Sodium Chloride,433,472,Plexiglass,2021-04-06,2021-04-18
+272,ZONISAMIDE,918,308,Steel,2021-02-09,2021-11-13
+273,Headache,138,902,Vinyl,2021-09-01,2021-09-07
+274,Ketek,443,202,Vinyl,2021-04-20,2021-02-04
+275,Enalapril Maleate,153,479,Plastic,2021-09-20,2021-01-31
+276,pain relief ibuprofen,194,230,Plexiglass,2021-10-22,2021-04-29
+277,Quetiapine Fumarate,530,746,Wood,2021-03-17,2020-12-30
+278,zonnic nicotine polacrilex,908,147,Granite,2021-05-22,2021-08-03
+279,BerbereX Wound Cleanser,476,30,Wood,2021-01-17,2021-10-15
+280,Zap APF,280,797,Wood,2021-06-22,2020-12-09
+281,Cardura,717,310,Plexiglass,2021-06-29,2021-05-27
+282,lice killing,112,968,Stone,2021-02-27,2021-10-11
+283,Divalproex Sodium,727,143,Wood,2021-02-26,2021-03-07
+284,Pleo Reb,49,945,Glass,2021-02-01,2021-02-03
+285,AMOXICILLIN,408,878,Aluminum,2020-12-29,2021-02-11
+286,Rohto Relief,336,517,Granite,2021-02-18,2021-11-25
+287,ONDANSETRON HYDROCHLORIDE,569,714,Granite,2021-08-10,2020-12-15
+288,BETULA LENTA POLLEN,885,174,Glass,2021-09-19,2021-11-02
+289,Anticavity,631,701,Brass,2020-12-08,2021-03-28
+290,MEDI-DERM,91,512,Rubber,2021-02-27,2021-03-15
+291,TobraDex,987,153,Glass,2020-12-16,2021-07-12
+292,Oxytrol For Women,914,278,Glass,2021-10-12,2021-02-17
+293,Atenolol,721,241,Stone,2020-12-18,2021-08-14
+294,Honey Almond Antibacterial Foaming Hand Wash,706,999,Glass,2021-10-22,2021-03-01
+295,Indomethacin,268,683,Glass,2021-04-15,2021-03-25
+296,Povidone Iodine Plus,914,610,Brass,2021-01-25,2021-06-17
+297,Azithromycin,203,991,Rubber,2021-01-19,2020-12-09
+298,Moxifloxacin,102,536,Brass,2021-05-28,2021-06-14
+299,Hectorol,963,170,Aluminum,2021-10-21,2021-11-03
+300,Actidose,94,681,Wood,2021-06-04,2021-03-13
+301,Ortho Micronor,677,275,Glass,2021-06-09,2021-07-02
+302,Oil Free Foaming Facial Cleanser,615,152,Steel,2021-11-19,2021-11-02
+303,FIRST Dukes Mouthwash Compounding,614,484,Brass,2021-02-22,2021-05-11
+304,Naproxen,610,596,Steel,2021-01-04,2021-11-12
+305,Levofloxacin,729,234,Stone,2021-08-01,2021-02-13
+306,SolMate,622,423,Granite,2021-01-14,2021-04-26
+307,Heparin Sodium,444,404,Vinyl,2021-08-20,2021-10-29
+308,Topical Anesthetic,61,30,Steel,2021-06-10,2021-03-07
+309,Flurazepam,686,760,Plastic,2021-10-18,2021-09-29
+310,Vasopressin,281,686,Glass,2021-01-02,2021-03-30
+311,Sildenafil,329,661,Aluminum,2021-05-11,2021-02-16
+312,ELF Mineral Concealers SPF 15,390,435,Granite,2021-11-13,2021-05-26
+313,Nu Skin 180 Degree UV Defense Hydrator SPF 18,904,135,Plexiglass,2021-07-02,2021-09-27
+314,Prochlorperazine Maleate,203,888,Steel,2021-01-20,2021-08-25
+315,Aspirin,753,989,Steel,2021-03-02,2021-10-21
+316,Ribavirin,399,951,Vinyl,2021-03-17,2021-04-06
+317,Isosorbide Dinitrate,240,430,Plastic,2021-03-05,2021-06-10
+318,Royal Petroleum (Cocoa Scent),973,570,Vinyl,2020-12-06,2021-01-09
+319,Folic Acid,610,110,Granite,2021-04-02,2021-07-28
+320,Meteoric Iron Phosphorus Quartz,123,367,Stone,2021-11-06,2021-11-10
+321,Menstrual Relief,926,256,Granite,2021-04-10,2021-05-01
+322,Mugwort,346,592,Rubber,2021-04-20,2021-12-04
+323,Childrens Emetrol Dye Free Grape,715,680,Steel,2021-05-10,2021-11-01
+324,Quality Choice,615,799,Rubber,2021-04-17,2021-07-24
+325,Hand Care Day care Broad Spectrum SPF 15,316,498,Vinyl,2021-02-10,2021-05-13
+326,Milk of Magnesia,830,47,Steel,2021-06-27,2021-09-28
+327,Prednisolone Sodium Phosphate,664,613,Wood,2021-10-12,2021-07-03
+328,HELMINTHOSPORIUM SATIVUM,432,389,Stone,2021-09-05,2021-11-05
+329,Divalproex Sodium,878,633,Wood,2021-03-04,2021-10-06
+330,MAX LAX,41,325,Aluminum,2021-04-21,2021-03-14
+331,Dandruff,657,220,Granite,2021-10-10,2021-01-05
+332,CARE ONE,592,473,Plexiglass,2021-09-27,2021-02-05
+333,Dimetane,404,395,Stone,2021-09-25,2021-09-18
+334,FUSARIUM OXYSPORUM VASINFECTUM,646,609,Vinyl,2021-07-05,2021-05-31
+335,Muscle and Joint Vanishing Scent,153,168,Brass,2021-04-01,2020-12-12
+336,equaline nicotine,178,649,Granite,2021-11-17,2021-01-08
+337,Hawaiian Tropic Tanning,152,123,Plastic,2021-05-28,2021-11-23
+338,JASMINE TEA AND BASIL ANTIBACTERIAL HAND SANITIZER,642,285,Wood,2021-01-09,2021-07-17
+339,Regular Strength Aspirin EC,253,478,Glass,2021-06-04,2021-06-15
+340,CareOne Adult Tussin DM,565,514,Glass,2021-03-22,2021-01-30
+341,dg health omeprazole,713,539,Granite,2021-01-13,2021-06-16
+342,SPAI-SONS,304,621,Aluminum,2021-04-08,2020-12-23
+343,Thursday Plantation,877,756,Wood,2021-05-20,2021-02-06
+344,Levofloxacin,393,446,Glass,2021-08-16,2021-10-16
+345,TOMMY HILFIGER,525,980,Plastic,2021-08-03,2021-10-29
+346,Amiloride Hydrochloride and Hydrochlorothiazide,173,185,Vinyl,2021-01-19,2021-01-09
+347,TEPADINA,167,774,Plastic,2021-05-13,2021-01-15
+348,Lexapro,270,999,Stone,2021-04-05,2021-09-30
+349,ZONISAMIDE,340,141,Glass,2021-04-01,2021-08-17
+350,ibuprofen,172,966,Granite,2020-12-23,2021-04-04
+351,Creamy Diaper Rash,929,624,Rubber,2020-12-08,2021-07-15
+352,Etodolac,78,858,Plastic,2021-03-26,2021-03-10
+353,Detoxifier,288,11,Brass,2021-04-02,2021-01-25
+354,Natural herb,396,621,Brass,2021-01-21,2021-02-12
+355,Aspirin,976,864,Rubber,2021-01-28,2021-08-12
+356,HPZ,708,475,Aluminum,2021-01-24,2021-02-11
+357,Risperidone,938,137,Rubber,2021-08-07,2021-07-09
+358,Glimepiride,459,676,Rubber,2021-09-06,2021-08-25
+359,Tussin Cough,96,325,Glass,2021-06-29,2021-11-03
+360,LBEL COULEUR LUXE AMPLIFIER XP,1000,381,Vinyl,2021-06-10,2021-08-31
+361,Gas relief,413,919,Vinyl,2021-10-15,2021-09-11
+362,ARIXTRA,569,350,Brass,2021-08-29,2021-07-11
+363,Alprazolam,981,444,Aluminum,2021-11-24,2021-06-23
+364,Rescue,352,648,Plexiglass,2021-02-02,2021-10-16
+365,CHANTIX,122,320,Wood,2021-11-21,2021-03-16
+366,FEIBA,396,428,Steel,2021-09-05,2021-10-16
+367,Triazolam,694,723,Plastic,2021-03-06,2021-02-12
+368,REVITALIZING C I2PL MASK,541,335,Wood,2021-08-13,2021-10-14
+369,"Food - Fish and Shellfish, Crab Xiphosurus sowerbyi",603,101,Vinyl,2020-12-21,2021-03-19
+370,"Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate and Amphetamine Sulfate",629,591,Plexiglass,2021-01-15,2021-11-25
+371,Yves Saint Laurent Youth Liberator Serum Foundation,799,398,Brass,2021-07-14,2021-07-18
+372,Duck Meat,246,843,Granite,2021-02-14,2021-07-25
+373,LOreal Paris Skin Expertise Revitalift Deep-Set Wrinkle Repair Eye Cream,246,883,Steel,2021-08-26,2021-01-02
+374,Treatment Set TS351201,311,409,Vinyl,2021-04-27,2021-01-05
+375,Childrens Ibuprofen,811,20,Vinyl,2021-03-09,2021-08-22
+376,DOXYCYCLINE,189,714,Plastic,2021-11-21,2021-09-25
+377,No7 Stay Perfect Foundation Sunscreen SPF 15 Vanilla,228,258,Plexiglass,2021-09-19,2021-06-21
+378,Urea,42,522,Stone,2021-11-09,2021-08-07
+379,Clarithromycin,532,59,Plastic,2021-08-28,2021-08-06
+380,Gallbladder Liver Meridian Opener,275,525,Steel,2020-12-06,2021-03-14
+381,Lucky Super Soft,280,851,Granite,2021-07-20,2020-12-23
+382,Extra Strength PM Pain Relief,132,545,Aluminum,2021-11-25,2021-09-04
+383,IT RADIANT BRIGHTENING,867,979,Wood,2021-11-28,2021-02-28
+384,SohMed Sinus,102,544,Glass,2021-04-23,2021-03-29
+385,Degree Fresh Oxygen,574,44,Vinyl,2021-11-24,2021-09-28
+386,Benazepril Hydrochloride and Hydrochlorothiazide,835,71,Aluminum,2021-01-10,2021-06-22
+387,Losartan Potassium,225,943,Aluminum,2021-10-12,2021-04-29
+388,Formica ex animale 3/15,556,873,Plastic,2021-01-06,2021-05-06
+389,COLGATE ULTRA BRITE ADVANCED WHITENING ALL IN ONE CLEAN MINT,824,361,Plexiglass,2021-10-04,2021-05-13
+390,ENGERIX-B,757,341,Rubber,2021-11-22,2021-01-17
+391,CELEBREX,466,721,Vinyl,2021-02-18,2021-01-01
+392,Lamotrigine,813,831,Plastic,2021-10-09,2021-01-26
+393,K-TAB,121,240,Plastic,2020-12-07,2021-03-12
+394,Atenolol,434,370,Steel,2021-05-28,2021-10-17
+395,DULOXETINE,678,315,Rubber,2021-08-16,2021-03-28
+396,Leader Nite Time,560,350,Plastic,2021-02-19,2021-09-25
+397,DAYWEAR,470,287,Plastic,2021-04-22,2021-08-31
+398,Phendimetrazine Tartrate,677,314,Brass,2021-05-03,2021-08-29
+399,Broad Spectrum SPF 50 Sunscreen,712,752,Glass,2021-07-24,2021-04-12
+400,Avedana Medicated Chest Rub,521,626,Aluminum,2021-09-15,2021-10-05
+401,CORGARD,678,910,Aluminum,2021-03-07,2021-04-14
+402,WHITE POTATO,627,192,Plastic,2021-10-18,2021-05-20
+403,CEFADROXIL,420,690,Vinyl,2021-10-15,2021-04-16
+404,Lip Smacker SPF 24 Lemon Lime Rush,604,74,Granite,2021-09-27,2021-05-13
+405,healthy accents sinus congestion and pain,157,872,Wood,2021-09-27,2021-11-25
+406,Caffeine Citrate,999,576,Aluminum,2021-09-02,2021-01-01
+407,Hydroxyzine Hydrochloride,327,291,Steel,2021-07-09,2021-08-13
+408,Gas Relief,521,161,Glass,2021-07-04,2021-09-30
+409,Bonogen Activator,731,734,Aluminum,2021-07-29,2021-02-13
+410,Ear Wax Removal Aid,535,478,Wood,2021-06-01,2021-06-18
+411,Laxative pills,786,291,Vinyl,2021-04-07,2021-02-26
+412,Mi-Omega NF,846,130,Steel,2021-02-19,2020-12-08
+413,CLARINS HydraQuench Tinted Moisturizer Broad Spectrum SPF 6 01 NATUREL,816,50,Stone,2021-09-22,2021-04-20
+414,Rice Grain,464,695,Stone,2021-02-14,2021-11-15
+415,Night Time Cold and Flu,728,754,Glass,2021-08-05,2021-01-22
+416,Temovate,699,348,Glass,2021-02-09,2021-07-25
+417,Quality Choice Maximum Strength Triple Antibiotic,225,159,Aluminum,2021-03-07,2021-04-03
+418,Crest Pro-Health,923,72,Steel,2021-03-05,2021-10-28
+419,Premphase,630,761,Vinyl,2021-07-24,2021-02-28
+420,True Essentials,128,169,Glass,2021-08-31,2021-06-04
+421,ANTI-AGING CONCEALER FACE EYES SUNSCREEN SPF 20 Shade 30,308,779,Rubber,2021-04-26,2021-05-28
+422,Valproate Sodium,569,246,Wood,2021-02-18,2021-08-24
+423,Naproxen Sodium,921,247,Glass,2021-11-03,2021-06-16
+424,Scilla Crataegus,255,696,Brass,2021-08-11,2021-06-09
+425,Myfortic,12,979,Plexiglass,2021-04-19,2021-02-05
+426,RED GINSENG FERMENTED EMULSION,642,505,Plexiglass,2021-01-23,2021-05-28
+427,Provocholine,826,145,Stone,2021-09-13,2021-05-25
+428,Fresh Umbrian Clay Freshface Foundation SPF 20 Cloudy Bay,328,823,Granite,2021-02-03,2020-12-05
+429,Natural Fiber,162,128,Wood,2021-05-29,2021-10-02
+430,Harmon Face Values Cucumber Melon Scent Hand Sanitizer,828,621,Plexiglass,2021-11-08,2021-09-23
+431,Levetiracetam,460,107,Vinyl,2021-04-05,2021-10-26
+432,Treatment Set TS344002,66,615,Granite,2021-02-11,2021-01-11
+433,Tramadol Hydrochloride and Acetaminophen,482,523,Plexiglass,2021-07-26,2021-03-25
+434,Ultra Tuss DM,711,58,Wood,2021-08-25,2021-10-30
+435,CLE DE PEAU BEAUTE UV PROTECTION,738,315,Steel,2021-04-27,2021-01-29
+436,Equaline Heartburn Relief,703,129,Granite,2021-09-20,2021-10-18
+437,Rite Aid Baby Sunscreen,624,557,Glass,2021-08-26,2021-06-19
+438,HAWAIIAN Tropic Dry Clear Sunscreen Broad Spectrum SPF 12 water resistant,542,474,Plexiglass,2021-10-24,2021-02-08
+439,Amoxicillin,740,575,Plexiglass,2021-08-28,2021-08-26
+440,MINOXIDIL,278,681,Glass,2021-02-10,2020-12-08
+441,Cefadroxil,249,250,Rubber,2021-08-27,2021-10-23
+442,Clarithromycin,140,861,Glass,2021-01-19,2021-01-24
+443,TOPCARE,435,880,Plastic,2020-12-28,2021-07-28
+444,Exuviance Sheer Refining Fluid SPF 35,560,509,Brass,2021-04-21,2021-06-15
+445,Skin Defense Concealer Broad Spectrum SPF 15,724,435,Steel,2021-08-13,2021-08-25
+446,Topcare Pain Relieving 40ct,370,734,Brass,2021-10-08,2021-07-02
+447,Spondylocladium,265,401,Steel,2021-05-23,2021-08-21
+448,Injury,695,777,Granite,2021-07-26,2021-02-19
+449,Gemfibrozil,919,774,Steel,2021-01-11,2021-02-11
+450,Instant Hand Sanitizer Fresh Aloe,176,442,Glass,2021-04-23,2021-06-15
+451,Isoniazid,646,861,Granite,2021-06-07,2021-02-26
+452,ANTI-AGING DAY SUNSCREEN BROAD SPECTRUM SPF 30,671,979,Stone,2021-08-11,2021-05-09
+453,Infants Dye-Free Ibuprofen,424,172,Rubber,2021-02-05,2020-12-18
+454,DEXAMETHASONE SODIUM PHOSPHATE,233,735,Brass,2021-07-18,2021-07-28
+455,Lamotrigine,925,996,Granite,2021-05-16,2021-03-30
+456,Dicloxacillin Sodium,949,291,Plexiglass,2021-04-07,2021-07-12
+457,GNP Calamine Topical Suspension,784,531,Vinyl,2021-03-05,2021-03-11
+458,Irbesartan and Hydrochlorothiazide,165,510,Glass,2021-08-09,2021-09-06
+459,Bupropion Hydrochloride,994,52,Plastic,2021-05-12,2021-03-30
+460,Severe Nighttime Severe Daytime,639,116,Granite,2021-07-14,2021-05-12
+461,CD DIORSKIN STAR Studio Makeup Spectacular Brightening with sunscreen Broad Spectrum SPF30 022,641,883,Brass,2021-08-15,2021-11-01
+462,Cortisone Acetate,396,365,Plexiglass,2021-01-13,2021-01-15
+463,Ruby-Cell 4U B B 10 in 1,451,972,Stone,2021-03-14,2021-11-23
+464,Candesartan Cilexetil-Hydrochlorothiazide,633,943,Wood,2021-05-11,2021-10-30
+465,Anticavity,179,836,Brass,2021-11-22,2021-02-01
+466,Xyrem,411,140,Glass,2021-10-01,2021-02-19
+467,Ketotifen Fumarate,568,65,Stone,2021-09-02,2021-10-29
+468,Adderall,839,448,Granite,2021-01-13,2021-02-14
+469,Hydrocortisone,497,223,Wood,2021-02-05,2021-08-26
+470,Micardis,392,652,Rubber,2021-03-13,2021-06-25
+471,hydrocodone bitartrate and acetaminophen,571,797,Glass,2021-03-13,2021-01-02
+472,Vaseline,494,917,Aluminum,2020-12-23,2020-12-05
+473,LISINOPRIL AND HYDROCHLOROTHIAZIDE,928,40,Brass,2021-02-26,2021-02-20
+474,LBEL Couleur luxe rouge irresistible maximum hydration SPF 17,631,81,Brass,2021-10-08,2021-05-16
+475,Lansoprazole,782,240,Aluminum,2021-09-26,2021-10-30
+476,LBEL EFFET PARFAIT Spots Reducing Effect Foundation SPF 18 - OBSCURE 8C,534,667,Stone,2021-01-21,2021-08-24
+477,REYATAZ,473,128,Wood,2021-04-23,2021-07-20
+478,FAMCICLOVIR,236,928,Wood,2021-11-09,2021-05-20
+479,Nasal,88,175,Stone,2021-06-19,2021-07-03
+480,Hydrocortisone,46,888,Plexiglass,2021-04-18,2021-05-29
+481,Bupivacaine Hydrochloride and Epinephrine,253,870,Plexiglass,2021-07-24,2021-08-11
+482,Ondansetron Hydrochloride,38,921,Rubber,2021-11-30,2021-11-16
+483,Salagen,518,959,Plexiglass,2021-07-22,2021-07-13
+484,ORCHID SECRET PACT,616,174,Rubber,2021-01-04,2020-12-28
+485,Terbutaline Sulfate,593,213,Brass,2021-11-15,2021-08-07
+486,Ropinirole Hydrochloride,908,641,Rubber,2021-04-01,2021-11-23
+487,CVS Pharmacy,914,70,Aluminum,2021-07-04,2021-09-17
+488,A.H.C. Collagen Toner,610,985,Glass,2021-10-05,2021-06-16
+489,Silver Maple,363,63,Stone,2021-03-21,2021-01-23
+490,Proprinal,75,561,Steel,2021-10-18,2021-06-20
+491,MEDI-WIPES,940,271,Steel,2021-09-25,2021-11-08
+492,Morphine Sulfate,681,717,Plexiglass,2021-04-21,2021-08-11
+493,Ropinirole Hydrochloride,796,454,Plexiglass,2021-09-09,2021-05-10
+494,ETHYL ALCOHOL,116,98,Stone,2021-06-14,2021-03-23
+495,Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30,470,718,Steel,2021-06-22,2021-10-10
+496,isosorbide mononitrate,88,551,Rubber,2021-04-21,2020-12-23
+497,Foundation Primer Plus SPF 15,296,434,Wood,2021-06-07,2021-11-26
+498,PREDNISONE,675,813,Granite,2021-04-27,2021-03-01
+499,Fludrocortisone Acetate,718,195,Aluminum,2021-10-17,2021-08-23
+500,Apricot,905,300,Aluminum,2021-10-06,2021-04-05
+501,LypSyl Honeyberry,109,853,Vinyl,2021-04-26,2021-04-09
+502,Anti-Diarrheal,626,744,Granite,2021-02-23,2020-12-06
+503,Methocarbamol,452,35,Vinyl,2021-10-12,2021-12-02
+504,L OCCITANE Anti-Dandruff Sensitive Scalp,84,767,Stone,2021-07-17,2021-12-04
+505,Bay Leaf,60,601,Rubber,2021-09-26,2021-01-15
+506,isosorbide mononitrate,834,976,Aluminum,2021-09-25,2021-06-06
+507,Amlodipine Besylate,874,274,Plastic,2021-05-16,2021-04-10
+508,Atenolol,419,825,Wood,2021-06-12,2021-06-25
+509,Anti-bacterial Hand,276,702,Vinyl,2021-06-30,2021-01-25
+510,Warfarin Sodium,604,593,Stone,2021-04-12,2021-10-23
+511,Acyclovir,290,960,Vinyl,2021-04-23,2021-05-14
+512,Diltiazem Hydrochloride,732,770,Stone,2021-01-03,2021-02-16
+513,Quinapril,235,124,Vinyl,2021-09-05,2021-05-20
+514,NOT YET DEFINED,844,259,Brass,2021-11-19,2021-06-21
+515,Terrestristat,68,366,Plastic,2021-09-29,2021-10-17
+516,Ring Relief,266,474,Steel,2020-12-28,2021-05-29
+517,Avon Sun Sport,90,647,Glass,2020-12-11,2020-12-15
+518,Povidone Iodine Solution First Aid Antiseptic,809,716,Plexiglass,2021-10-23,2021-11-19
+519,Tag Away,962,436,Glass,2021-01-26,2021-10-02
+520,TIMOLOL MALEATE,178,964,Plastic,2021-05-31,2021-10-27
+521,Dandruff,661,962,Stone,2021-01-27,2021-07-03
+522,Assured,75,73,Plexiglass,2021-07-17,2021-06-11
+523,Sunscreen Mist Broad Spectrum SPF 50,524,626,Vinyl,2021-05-21,2021-09-18
+524,Butrans,927,983,Aluminum,2021-09-27,2020-12-21
+525,Risperidone,35,152,Stone,2021-01-14,2021-08-15
+526,Chicken Meat,344,980,Plexiglass,2020-12-30,2021-07-25
+527,Green Olive,393,988,Glass,2021-01-16,2020-12-22
+528,Chlorhexidine Gluconate,501,701,Brass,2021-11-11,2021-11-19
+529,Minocycline Hydrochloride,360,917,Steel,2020-12-16,2021-01-05
+530,TIANHE GUTONG TIEGAO,214,830,Vinyl,2021-01-14,2021-07-24
+531,GABAPENTIN,897,741,Wood,2021-07-27,2021-02-11
+532,Ibuprofen,753,32,Glass,2021-10-17,2020-12-06
+533,ROBITUSSIN LINGERING COLD LONG-ACTING COUGHGELS,447,639,Granite,2021-01-07,2021-03-14
+534,Antacid,622,64,Rubber,2021-05-01,2021-07-13
+535,CELTIS OCCIDENTALIS POLLEN,926,427,Glass,2020-12-25,2021-10-27
+536,lice,418,128,Stone,2021-09-03,2021-05-06
+537,ACONITINUM,565,172,Steel,2021-07-21,2021-09-27
+538,Treatment Set TS345825,461,146,Vinyl,2021-07-05,2021-01-20
+539,Fentanyl Citrate,488,246,Stone,2021-06-15,2021-01-06
+540,SHISEIDO EXTRA SMOOTH SUN PROTECTION N,652,696,Glass,2020-12-12,2021-08-26
+541,metformin hydrochloride,336,893,Plexiglass,2021-06-19,2021-05-16
+542,Anti-Diarrheal,746,793,Stone,2021-03-29,2021-03-17
+543,China-Gel,412,161,Stone,2021-08-17,2021-07-12
+544,Buspirone Hydrochloride,771,419,Stone,2021-06-13,2021-09-20
+545,Neutrogena,85,721,Brass,2021-10-06,2021-02-08
+546,Axe,157,124,Rubber,2021-11-22,2021-07-01
+547,Red (River) Birch,985,291,Vinyl,2021-09-20,2021-10-20
+548,Arnica Montana Kit Refill,532,620,Plexiglass,2020-12-07,2021-09-22
+549,Zipsor,96,940,Stone,2021-03-16,2021-02-01
+550,simply right diphenhydramine hydrochloride,112,461,Glass,2021-05-21,2021-03-13
+551,Degree for Men Clean,891,105,Brass,2021-05-07,2021-03-11
+552,Rite Aid Dandruff,539,260,Vinyl,2021-10-18,2021-08-27
+553,La Roche Posay Laboratoire Dermatologique,212,71,Brass,2021-05-06,2021-08-31
+554,WellPatch Capsaicin Pain Relief,171,809,Plexiglass,2021-04-14,2021-05-13
+555,Naproxen Sodium,422,378,Brass,2021-03-23,2021-08-06
+556,PredniSONE,467,377,Granite,2021-05-28,2021-10-09
+557,Baclofen,103,322,Glass,2021-02-22,2021-01-02
+558,Antiseptic Mouth Rinse,740,200,Rubber,2021-08-22,2021-07-16
+559,Revlimid,437,856,Rubber,2021-03-27,2021-04-08
+560,CVS Extra Strength Itch Relief,687,947,Brass,2021-07-04,2021-11-06
+561,Equaline pain relief,11,250,Wood,2020-12-09,2021-03-12
+562,SHISEIDO FUTURE SOLUTION LX TOTAL RADIANCE FOUNDATION,207,938,Stone,2021-08-24,2021-05-20
+563,Illusion Tinted Moisturizer Broad Spectrum Ivory,246,456,Steel,2021-01-28,2021-04-09
+564,Doxycycline Hyclate,436,966,Plastic,2021-05-30,2021-11-21
+565,SNAIL RECOVER HEALER,122,181,Plexiglass,2020-12-19,2021-02-12
+566,Perfect Purity Advanced Hand Sanitizer Refreshing,956,926,Granite,2021-04-04,2021-07-05
+567,Bupropion hydrochloride,248,983,Rubber,2021-10-04,2021-11-03
+568,Ben E. Keith,737,371,Brass,2021-07-11,2021-07-20
+569,Childrens Acetaminophen,704,935,Plexiglass,2021-05-19,2021-07-08
+570,Phenylephrine Hydrochloride,266,488,Vinyl,2021-09-16,2021-01-11
+571,Doxazosin Mesylate,756,368,Rubber,2021-09-09,2021-10-27
+572,Refuge HC,312,179,Vinyl,2021-04-17,2021-03-14
+573,Fosinopril Sodium,170,737,Rubber,2021-04-08,2021-05-13
+574,Methocarbamol,822,541,Rubber,2021-03-08,2021-08-12
+575,day relief pe,634,923,Plexiglass,2021-03-07,2021-01-09
+576,Oxygen,902,215,Granite,2021-03-22,2020-12-25
+577,Sinus Soothe,101,188,Plastic,2021-08-24,2021-03-16
+578,equaline,548,277,Glass,2021-11-08,2021-04-02
+579,LAMICTAL,230,102,Granite,2021-08-16,2021-03-12
+580,Whole Grain Barley,673,161,Aluminum,2021-10-27,2021-07-12
+581,Green Tussin,120,111,Plexiglass,2021-01-28,2020-12-14
+582,Nabumetone,854,413,Stone,2021-10-18,2021-01-28
+583,Aspirin,588,588,Rubber,2021-05-21,2020-12-11
+584,Chelidonium Homaccord,10,463,Wood,2021-01-24,2021-01-14
+585,PYRIDOSTIGMINE BROMIDE,821,422,Plastic,2021-08-10,2021-03-27
+586,Levothyroxine Sodium,60,838,Rubber,2021-01-20,2021-08-12
+587,SPF-40 facial moisturizer,497,607,Plexiglass,2021-08-30,2021-05-29
+588,Euphrasia Officinalis Kit Refill,86,876,Aluminum,2021-08-05,2021-03-06
+589,Oral-B Minute-Foam Bubble Gum,785,24,Wood,2021-06-04,2021-04-22
+590,Sulfamethoxazole and Trimethoprim,747,211,Wood,2021-01-19,2021-06-10
+591,Clonidine Hydrochloride,489,32,Rubber,2020-12-06,2021-08-10
+592,Propranolol Hydrochloride,401,932,Plexiglass,2021-04-17,2020-12-26
+593,Burweed Marsh Elder,457,541,Rubber,2021-07-31,2021-10-08
+594,No7 Beautifully Matte Foundation Sunscreen Broad Spectrum SPF 15 Cool Vanilla,919,188,Steel,2021-01-08,2021-03-22
+595,Shopko Anti-Wrinkle and Firming Moisturizer Day Broad Spectrum SPF18,269,366,Aluminum,2021-04-10,2021-01-27
+596,TISSEEL,206,296,Granite,2021-11-28,2021-11-06
+597,Olanzapine,917,583,Brass,2020-12-29,2021-05-06
+598,amlodipine besylate and benazepril hydrochloride,437,978,Stone,2021-10-03,2021-01-02
+599,Good Neighbor Pharmacy Sinus and Allergy PE,934,255,Steel,2021-05-13,2021-02-07
+600,Pamidronate Disodium,940,99,Rubber,2021-02-23,2021-03-09
+601,Tizanidine,571,634,Aluminum,2021-01-16,2021-10-27
+602,AmerFresh,821,590,Glass,2021-04-12,2021-11-28
+603,Wal Fex Allergy,99,435,Vinyl,2020-12-19,2021-05-17
+604,Allerstat,906,216,Rubber,2021-03-03,2020-12-24
+605,Salex,710,419,Plastic,2021-03-21,2021-09-08
+606,Virx,781,195,Stone,2021-11-19,2021-06-03
+607,Zebeta,278,302,Aluminum,2021-09-14,2021-01-13
+608,Ciprofloxacin,302,466,Brass,2021-04-30,2021-10-07
+609,Ciprofloxacin,623,855,Rubber,2021-10-14,2021-06-06
+610,Sulfamethoxazole and Trimethoprim,12,642,Steel,2021-04-08,2021-11-26
+611,MAX LAX,828,224,Steel,2021-04-26,2021-01-04
+612,Laxative,48,918,Granite,2021-05-12,2021-05-22
+613,Sumatriptan Succinate,450,38,Vinyl,2021-02-23,2020-12-18
+614,ATORVASTATIN CALCIUM,526,374,Stone,2021-09-24,2021-03-07
+615,Gentamicin sulfate,375,710,Brass,2020-12-16,2021-06-12
+616,ATRIDOX,589,215,Steel,2021-03-01,2021-01-17
+617,Warfarin Sodium,151,990,Granite,2021-08-19,2021-09-10
+618,Sodium Fluoride,380,71,Steel,2021-07-05,2021-10-17
+619,LUMENE TIME FREEZE FIRMING DAY SPF 15,492,940,Rubber,2021-09-26,2021-07-14
+620,Healthy Accents Stay Awake,736,774,Rubber,2021-10-25,2021-04-03
+621,OXYGEN,138,345,Rubber,2021-05-10,2021-05-15
+622,Sinuforce,367,515,Plexiglass,2021-04-13,2021-07-23
+623,Leader,654,61,Rubber,2021-02-04,2021-01-10
+624,BABOR Baborganic Crystal Face Scrub,619,972,Steel,2021-01-11,2021-11-02
+625,ULTRASOL,355,959,Glass,2021-09-21,2021-07-08
+626,Tretin-X,363,209,Granite,2021-01-28,2021-11-20
+627,Nicorette,241,628,Aluminum,2021-08-05,2021-01-05
+628,Kiehls Since 1851 Superbly Efficient Antiperspirant and Deodorant,546,223,Steel,2021-04-17,2021-09-22
+629,SAVELLA,689,304,Plexiglass,2021-09-28,2021-07-25
+630,BestHealth Cough Relief Honey Lemon Flavor,64,891,Steel,2021-05-18,2021-08-18
+631,Green Guard PMS Relief,863,918,Glass,2021-04-07,2021-08-09
+632,Morphine sulfate,283,960,Granite,2021-05-28,2021-09-25
+633,NABUMETONE,847,533,Plexiglass,2021-02-17,2021-07-26
+634,Ceftazidime,89,306,Aluminum,2021-05-30,2021-11-26
+635,Phendimetrazine Tartrate,266,49,Granite,2021-06-05,2021-04-09
+636,Doribax,503,816,Vinyl,2021-05-05,2021-11-17
+637,Webb Candy,818,435,Plastic,2021-11-07,2020-12-30
+638,Zicam Ultra Cold Remedy Rapidmelts,354,444,Granite,2021-07-24,2021-08-17
+639,NARS Pure Radiant Tinted Moisturizer,780,764,Granite,2021-05-06,2021-04-29
+640,kids throat,441,295,Steel,2021-03-30,2020-12-16
+641,amoxicillin and clavulanate potassium,335,747,Plastic,2021-09-20,2021-03-11
+642,Eve Lom Radiance Perfected Tinted Moisturiser SPF 15,733,608,Granite,2021-01-28,2021-05-09
+643,Good Neighbor Pharmacy Acid Control 150,497,821,Brass,2021-01-04,2021-05-28
+644,Thyroplex,562,95,Rubber,2021-05-02,2021-09-23
+645,"Pollens - Weeds and Garden Plants, Plantain, English Plantago lanceolata",715,894,Granite,2021-12-04,2021-01-02
+646,Dr G deWrinkle BOOSTER ample by EGF,255,971,Vinyl,2021-01-05,2021-09-29
+647,Assured Hand Sanitizer With Moisturizers,278,579,Wood,2021-01-23,2021-11-20
+648,PROCHLORPERAZINE MALEATE,735,203,Stone,2021-07-09,2021-10-17
+649,Delestrogen,695,539,Vinyl,2021-01-18,2021-06-26
+650,amlodipine besylate,639,105,Glass,2021-08-12,2021-07-21
+651,Meloxicam,401,797,Rubber,2021-08-05,2021-02-27
+652,MINOXIDIL,726,424,Granite,2021-06-18,2021-06-26
+653,Coniferyl Alcohol,995,356,Rubber,2021-10-29,2021-11-07
+654,SaniSuds Foam Antibacterial Hand,820,79,Wood,2021-07-22,2021-02-09
+655,Metoprolol Tartrate and Hydrochlorothiazide,38,702,Plastic,2021-07-16,2021-10-14
+656,Glimepiride,691,106,Stone,2021-07-09,2021-07-14
+657,Moisture Renew,33,38,Granite,2021-07-25,2021-03-17
+658,Benzonatate,303,283,Wood,2021-11-08,2021-12-02
+659,pravastatin sodium,793,688,Glass,2021-05-23,2021-01-21
+660,CRESTOR,326,942,Steel,2021-08-05,2021-06-15
+661,HYPERICUM PERFORATUM,958,602,Stone,2021-11-25,2021-06-23
+662,Telmisartan,416,670,Plastic,2021-11-17,2021-05-03
+663,Aminosyn II,787,23,Plexiglass,2021-09-13,2021-01-24
+664,Banana Boat UltraMist Kids Tear Free Lotion SPF 50,940,603,Glass,2021-03-08,2021-03-18
+665,Good Sense Muscle,260,76,Vinyl,2021-02-19,2021-10-28
+666,Exuviance CoverBlend Concealing Treatment Makeup,59,95,Brass,2021-06-11,2021-06-01
+667,Spironolactone,528,91,Plastic,2021-03-23,2021-10-09
+668,Botrytis cinerea,696,753,Glass,2021-11-25,2021-03-01
+669,OLUX,904,266,Plastic,2021-03-19,2021-10-10
+670,Benzphetamine Hydrochloride,717,16,Rubber,2021-08-05,2021-06-14
+671,Neptune E2 ANTISEPTIC HAND,928,829,Stone,2021-10-08,2021-03-03
+672,Neomycin and Polymyxin B Sulfates and Hydrocortisone,275,242,Brass,2021-05-01,2021-06-18
+673,FAIR and SQUARE ANTIBACTERIAL HAND SANITIZER with ALOE VERA,44,412,Plexiglass,2021-02-16,2021-10-21
+674,Botanics Protecting Day Age Defense Sunscreen Broad Spectrum SPF 15,180,153,Vinyl,2021-05-02,2020-12-10
+675,Montelukast Sodium,223,424,Plastic,2021-06-04,2021-02-19
+676,Sure,493,15,Plastic,2021-10-19,2021-04-17
+677,Dopamine HCl,401,134,Granite,2021-01-25,2021-10-23
+678,L OCCITANE Anti-Dandruff Sensitive Scalp,439,393,Plastic,2021-09-19,2021-09-14
+679,GAMMAGARD,427,263,Brass,2021-01-27,2020-12-14
+680,SENSORCAINE,799,863,Brass,2021-03-17,2021-07-12
+681,SUPRAX,213,391,Vinyl,2021-01-23,2021-03-26
+682,Tanac,514,775,Rubber,2021-02-23,2021-02-25
+683,Safeway Nighttime Cold and Flu,233,149,Plastic,2021-08-06,2021-10-21
+684,Cetirizine Hydrochloride,915,834,Rubber,2021-12-02,2021-05-15
+685,Western Family Cavity Control,838,349,Brass,2021-06-04,2021-04-28
+686,Zonisamide,29,765,Plastic,2021-10-26,2021-03-10
+687,MK BZK Swab Sterile,739,642,Brass,2021-05-31,2021-02-27
+688,DEMEROL,414,78,Plastic,2021-07-05,2021-10-17
+689,SUPER AQUA MAX WHITE C LUMINOUS AMPOULE,107,718,Granite,2021-01-17,2021-10-01
+690,hydroxyzine pamoate,847,795,Steel,2021-08-14,2021-06-14
+691,HELMINTHOSPORIUM SOLANI,424,823,Brass,2020-12-21,2021-05-05
+692,Trandolapril,126,533,Glass,2020-12-18,2021-01-01
+693,Brain Supp,217,818,Brass,2021-09-15,2021-05-15
+694,Phenytoin Sodium,761,215,Plastic,2021-12-02,2020-12-06
+695,Tramadol Hydrochloride and Acetaminophen,736,607,Vinyl,2021-07-23,2020-12-20
+696,Scorodite Prunus,626,834,Wood,2021-02-18,2021-01-24
+697,THE YEON LOTUS FLOWER BC CUSHION PACT,493,216,Vinyl,2021-05-17,2021-03-04
+698,care one pain relief pm,23,721,Wood,2021-02-27,2021-05-29
+699,"Acetaminophen, Guaifenesin, Phenylephrine Hydrochloride",523,857,Glass,2021-09-10,2021-08-05
+700,Acacia,919,971,Steel,2021-12-02,2021-05-06
+701,ibuprofen,487,858,Aluminum,2021-08-28,2021-08-16
+702,Gabapentin,50,793,Aluminum,2021-05-17,2021-05-05
+703,FLUPHENAZINE HYDROCHLORIDE,617,337,Granite,2021-01-21,2021-03-14
+704,sunscreen,858,698,Rubber,2021-09-20,2021-10-06
+705,Clonazepam,269,315,Wood,2021-02-07,2021-09-22
+706,Oxygen,316,95,Granite,2021-08-24,2021-09-12
+707,Pleo Pin,241,546,Glass,2021-09-24,2021-01-07
+708,Xyzal,918,959,Granite,2021-10-19,2021-09-14
+709,Tegretol,851,715,Rubber,2021-08-23,2020-12-13
+710,CIALIS,664,512,Rubber,2021-11-26,2021-10-23
+711,My Pain Away,328,197,Plexiglass,2021-07-20,2021-11-19
+712,ELF Zit Zapper,828,641,Aluminum,2021-10-07,2021-01-25
+713,Nystatin,367,670,Steel,2021-10-14,2021-05-16
+714,Kadian,559,106,Wood,2021-02-18,2021-06-20
+715,Ammonia N 13,610,656,Steel,2021-08-30,2021-04-26
+716,Triple Antibiotic,747,310,Glass,2021-08-12,2021-07-02
+717,Goose Feathers,396,481,Brass,2021-04-17,2021-05-02
+718,Amoxicillin,25,55,Plastic,2021-05-18,2021-08-18
+719,Cheong-Kwan-Jang Sliced Korean HongSam,621,780,Plastic,2021-08-29,2021-05-03
+720,CareOne 7-in-1 Anti-Aging Vitamin,856,399,Granite,2021-02-02,2021-01-11
+721,flormar REBORN FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 20 SF27 Capuccino,706,338,Aluminum,2021-07-28,2020-12-21
+722,Instant Hand Sanitizer,875,664,Vinyl,2021-11-28,2021-11-25
+723,Lipitor,339,345,Aluminum,2021-10-24,2021-07-09
+724,Naturasil,660,198,Granite,2021-08-05,2020-12-29
+725,Good Sense Lubricant Eye,72,211,Vinyl,2021-05-26,2021-04-15
+726,Pure Finish Mineral Powder Foundation SPF 20 Pure Finish 1,24,212,Wood,2021-06-12,2021-06-24
+727,ibuprofen,724,137,Stone,2020-12-13,2021-10-12
+728,Antacid Antigas,773,662,Rubber,2021-06-14,2021-08-07
+729,Ethosuximide,460,232,Stone,2021-01-20,2021-01-27
+730,Megestrol Acetate,868,294,Steel,2021-07-07,2021-04-19
+731,North Woods Germ Stuff,561,335,Glass,2021-03-07,2020-12-20
+732,Smart Sense Allergy Relief,445,50,Wood,2021-07-11,2021-10-24
+733,Ondansetron,580,626,Stone,2021-02-26,2021-01-14
+734,Anxiety HP,357,801,Aluminum,2021-11-16,2021-05-06
+735,Zyclara,264,974,Rubber,2021-12-03,2021-05-17
+736,ProCoMycin,891,57,Plexiglass,2020-12-26,2021-02-03
+737,Doxycycline,298,349,Vinyl,2020-12-09,2021-09-15
+738,POVIDONE-IODINE SWABSTICK,156,185,Stone,2021-05-09,2021-07-26
+739,Benztropine Mesylate,544,871,Brass,2021-02-04,2021-02-02
+740,Robinul,235,29,Aluminum,2021-05-20,2021-11-15
+741,Acetaminophen,14,505,Wood,2021-01-21,2021-01-05
+742,Seasonique,279,737,Stone,2021-04-29,2021-09-20
+743,Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30,881,698,Brass,2021-01-21,2021-10-04
+744,Loxapine,721,850,Granite,2021-09-30,2021-10-16
+745,LEVETIRACETAM,685,139,Stone,2021-02-17,2021-04-18
+746,Famciclovir,955,87,Brass,2021-04-27,2021-03-17
+747,Superdent,668,181,Plexiglass,2021-04-03,2021-04-17
+748,Betadine,818,479,Vinyl,2021-01-02,2021-05-27
+749,Antispetic,299,310,Wood,2021-09-07,2021-04-08
+750,Wound Healing,519,850,Plexiglass,2021-09-04,2021-12-04
+751,Erythromycin Base,652,91,Rubber,2021-11-22,2021-01-12
+752,LBel,390,488,Glass,2021-08-22,2021-11-26
+753,ProAmatine,760,128,Plastic,2021-02-22,2021-06-09
+754,Lancome Paris BB Bienfait Teinte Beauty Balm Broad Spectrum SPF 30 Sunscreen,962,424,Plastic,2021-03-30,2021-06-29
+755,Ambien,882,402,Plastic,2021-01-24,2021-07-31
+756,Buspirone HCl,416,65,Aluminum,2021-06-17,2021-10-23
+757,Olanzapine,430,134,Rubber,2020-12-30,2021-11-08
+758,TISSEEL,398,653,Plexiglass,2021-10-02,2021-04-06
+759,Levocarnitine,712,472,Vinyl,2021-07-21,2021-04-06
+760,Isoniazid,914,209,Granite,2021-04-10,2021-04-21
+761,Metoprolol Succinate,51,20,Rubber,2021-07-06,2021-10-14
+762,METFORMIN HYDROCHLORIDE,109,836,Granite,2020-12-28,2021-01-30
+763,Lemon Glycerin,273,159,Stone,2021-04-17,2021-07-23
+764,DIAPEDIC FOOT TREATMENT,827,52,Plexiglass,2021-09-06,2021-02-19
+765,Epi-Clenz Pure Instant Hand Antiseptic,719,268,Vinyl,2021-01-26,2020-12-19
+766,Stressa Back and Neck Pain Relieving,918,566,Wood,2021-04-18,2021-01-31
+767,Lamotrigine,798,931,Wood,2021-08-06,2021-08-04
+768,Dexamethasone,872,238,Brass,2021-04-15,2021-02-07
+769,HYDROXYZINE HYDROCHLORIDE,480,556,Rubber,2021-08-26,2021-02-26
+770,SIMPLY RIGHT,659,789,Plexiglass,2021-11-08,2021-09-13
+771,Box Elder,351,74,Plastic,2021-09-21,2021-09-27
+772,Acetone Alcohol,442,931,Aluminum,2021-12-03,2021-08-14
+773,GOONG MAHN GEUM,546,646,Stone,2021-07-22,2021-02-05
+774,skin elements liquid veil foundation broad spectrum SPF 25,648,699,Steel,2021-06-07,2020-12-06
+775,Cephalexin,417,56,Steel,2021-03-13,2021-09-05
+776,OXYGEN,680,888,Steel,2020-12-17,2021-04-24
+777,Vyvanse,282,212,Aluminum,2021-08-17,2021-01-07
+778,Proactiv,301,171,Wood,2021-02-22,2021-08-21
+779,"QCare Oral Cleansing and Suctioning System, Q4",431,397,Stone,2021-04-19,2021-09-28
+780,Chicken Pox Symptom Relief,273,882,Plexiglass,2021-03-10,2021-03-24
+781,Propranolol Hydrochloride,431,764,Plexiglass,2021-01-01,2020-12-23
+782,Sanatos,15,724,Rubber,2021-01-06,2021-01-22
+783,Formucare Triple Antibiotic,900,226,Plexiglass,2021-04-13,2021-01-20
+784,PrePLUS,751,853,Stone,2021-01-16,2020-12-07
+785,Mirtazapine,947,11,Aluminum,2021-02-13,2021-05-15
+786,LYRICA,646,194,Stone,2021-02-20,2020-12-26
+787,Glipizide,182,428,Granite,2021-08-11,2021-05-22
+788,Acetazolamide,35,713,Glass,2021-10-03,2021-04-07
+789,Salt Cedar,618,96,Glass,2021-11-05,2020-12-16
+790,Kids Foaming Hand Sanitizer Alcohol Free,778,564,Glass,2021-10-04,2021-04-13
+791,Midodrine HCl,697,581,Aluminum,2021-11-24,2021-10-16
+792,Welchol,941,832,Stone,2021-04-06,2021-09-11
+793,Lorac Foundation Golden Light,151,82,Rubber,2021-12-04,2021-08-17
+794,Treatment Set TS347337,917,784,Plastic,2021-06-22,2021-01-31
+795,Naproxen,730,908,Plexiglass,2021-04-21,2021-07-02
+796,Pure Cashmere Skin Defense Makeup SPF 15,572,71,Wood,2021-09-21,2021-09-27
+797,BIOTENE,262,443,Brass,2021-07-03,2021-10-07
+798,Hydroxyzine Pamoate,389,654,Glass,2020-12-25,2021-08-05
+799,Sulwhasoo,52,727,Granite,2021-02-24,2021-10-03
+800,Metformin Hydrochloride,82,868,Stone,2021-11-11,2021-04-04
+801,Divalproex SodiumDelayed-Release,477,873,Steel,2021-02-02,2021-08-27
+802,Warfarin Sodium,233,692,Plexiglass,2021-03-01,2020-12-31
+803,ZELAPAR,660,141,Aluminum,2021-11-18,2021-06-28
+804,Captopril,759,827,Stone,2021-05-06,2021-03-24
+805,Lorazepam,409,50,Stone,2021-03-12,2021-03-28
+806,TRAMADOL HYDROCHLORIDE,672,911,Aluminum,2021-07-18,2020-12-09
+807,Topex,509,57,Wood,2020-12-21,2021-07-11
+808,CHANTIX,209,12,Wood,2021-10-30,2021-10-18
+809,Amlodipine,89,629,Wood,2021-07-07,2021-10-31
+810,Anti-Diarrheal,382,850,Brass,2021-08-20,2021-03-08
+811,Alcohol-Free Anticavity,799,530,Granite,2021-11-22,2021-07-13
+812,Sulindac,125,190,Brass,2021-03-03,2021-06-22
+813,Prochlorperazine Edisylate,827,308,Rubber,2021-02-06,2020-12-17
+814,SYLVANT,730,866,Steel,2021-09-26,2021-03-05
+815,CLE DE PEAU BEAUTE PW FOUNDATION s,469,796,Aluminum,2021-11-09,2020-12-22
+816,Diazepam,793,128,Plexiglass,2021-07-09,2021-09-02
+817,Alendronate Sodium,56,602,Wood,2021-02-27,2021-12-01
+818,Sandostatin LAR Depot Demonstration Kit,536,855,Plastic,2021-08-19,2021-06-20
+819,Feminine Comfort,771,505,Granite,2021-10-02,2021-10-06
+820,ERWINAZE,994,666,Wood,2021-01-26,2021-04-12
+821,Lisinopril,378,185,Steel,2021-01-26,2021-11-11
+822,Zicam,99,841,Granite,2021-03-18,2021-03-02
+823,Irbesartan and Hydrochlorothiazide,627,511,Plastic,2021-04-25,2021-06-06
+824,triCitrasol,596,487,Wood,2021-03-31,2021-06-04
+825,SHISEIDO SHEER AND PERFECT COMPACT (REFILL),230,595,Vinyl,2021-11-16,2020-12-13
+826,Nystatin and Triamcinolone Acetonide,895,684,Vinyl,2021-04-10,2021-05-27
+827,Anti-Aging Hydra Tint SPF 20 Shade 10,546,243,Brass,2020-12-10,2021-07-17
+828,PLENDIL,747,776,Wood,2021-10-26,2021-04-30
+829,2 Gallbladder,633,17,Plexiglass,2020-12-24,2021-10-04
+830,ENALAPRIL MALEATE,986,875,Aluminum,2021-06-28,2021-07-05
+831,Lyrica,437,616,Glass,2021-10-22,2021-10-02
+832,Phenobarbital,125,755,Stone,2020-12-28,2021-05-29
+833,Harmon Face Values Medicated,983,676,Rubber,2021-02-01,2021-08-17
+834,Amoxicillin and Clavulanate Potassium,438,840,Granite,2021-05-20,2020-12-08
+835,ANTIMONIUM TARTARICUM,637,952,Stone,2021-06-10,2021-01-08
+836,Diazepam,123,41,Plexiglass,2021-03-27,2020-12-20
+837,pain relief,190,646,Brass,2021-08-21,2021-05-22
+838,COMBIGAN,769,254,Stone,2020-12-27,2021-11-30
+839,CPDA-1,934,742,Stone,2021-09-26,2021-01-21
+840,Jantoven,673,545,Brass,2021-09-25,2021-11-29
+841,Cotta,164,846,Plexiglass,2021-10-23,2021-05-19
+842,Cephalexin,703,739,Steel,2021-10-29,2021-04-01
+843,Indomethacin,539,901,Wood,2021-11-10,2021-08-02
+844,HemeNatal OB plus DHA,892,995,Plexiglass,2020-12-08,2021-07-13
+845,XtraCare Foam Antibacterial Hand Wash,535,964,Stone,2021-05-01,2021-03-01
+846,SHISEIDO PURENESS MATIFYING COMPACT OIL-FREE (REFILL),951,883,Wood,2021-10-31,2021-08-28
+847,LEVOXYL,427,223,Glass,2021-01-02,2021-07-20
+848,Han-I-Size,999,470,Wood,2021-04-04,2021-02-18
+849,Sheer Defense Tinted Moisturizer SPF 15 ML 40,539,952,Steel,2021-04-20,2021-05-28
+850,Cephalexin,827,108,Aluminum,2021-04-11,2021-10-04
+851,all day pain relief,576,76,Plexiglass,2021-01-09,2021-06-25
+852,ENALAPRIL MALEATE,435,184,Wood,2021-01-01,2021-05-02
+853,Merle Norman,235,998,Rubber,2021-11-12,2021-01-25
+854,Secret Antiperspirant,816,643,Stone,2021-05-26,2021-07-26
+855,Keralyt,936,703,Brass,2021-07-16,2021-04-06
+856,Levetiracetam,215,210,Glass,2021-01-20,2021-09-14
+857,Lemon Glycerin,824,139,Glass,2021-05-14,2021-04-22
+858,Lime,788,196,Plastic,2021-07-17,2021-01-16
+859,Acidil,409,887,Plexiglass,2021-09-24,2020-12-15
+860,VERELAN PM,453,194,Steel,2021-02-23,2021-08-20
+861,ZADITOR,140,857,Rubber,2021-01-16,2021-11-07
+862,Duloxetine,674,760,Rubber,2021-05-23,2021-11-18
+863,tussin,711,874,Steel,2021-05-23,2021-11-21
+864,Potassium Phosphates,634,312,Stone,2021-01-19,2021-11-26
+865,Ondansetron,27,186,Rubber,2021-03-17,2021-01-05
+866,Glipizide,357,157,Aluminum,2021-03-18,2020-12-29
+867,SEROQUEL,663,587,Granite,2021-11-09,2020-12-25
+868,Naloxone Hydrochloride,372,821,Rubber,2021-07-17,2021-04-13
+869,Lorazepam,79,232,Glass,2021-07-07,2021-06-11
+870,Lovastatin,357,738,Steel,2021-10-17,2021-02-17
+871,Propranolol Hydrochloride,404,315,Brass,2021-04-19,2021-03-13
+872,Morphine Sulfate,705,805,Brass,2021-12-01,2021-03-24
+873,Clario Instant Hand Sanitizer,455,98,Aluminum,2021-10-23,2021-02-05
+874,Phenytoin,800,533,Plastic,2021-11-04,2021-03-07
+875,Moisturizing Face Screen Medium Tint SPF 30,878,105,Rubber,2021-10-11,2021-02-15
+876,Salicylic Acid,259,353,Vinyl,2021-09-16,2021-05-01
+877,Famotidine,774,801,Stone,2021-11-24,2021-04-18
+878,Clindamycin Hydrochloride,111,690,Brass,2021-09-30,2021-01-01
+879,Valproic Acid,932,543,Steel,2021-07-06,2021-01-10
+880,Meclizine Hydrochloride,276,503,Steel,2021-04-28,2021-01-05
+881,Klor-Con,295,505,Steel,2021-04-24,2021-05-05
+882,Silicea,606,805,Steel,2021-01-28,2021-04-22
+883,Doxepin Hydrochloride,597,489,Stone,2021-10-31,2021-08-11
+884,Adrenal Tincture,353,274,Wood,2021-11-09,2021-08-19
+885,TRICARE PRENATAL,413,502,Steel,2020-12-19,2021-05-28
+886,Gabapentin,709,514,Granite,2021-02-17,2021-10-28
+887,OLEA EUROPAEA POLLEN,221,195,Aluminum,2021-05-16,2021-01-29
+888,Green Tussin,669,102,Plexiglass,2021-04-24,2021-09-15
+889,Hydrocortisone,495,455,Wood,2021-03-10,2021-05-21
+890,Roxicodone,476,393,Stone,2021-03-23,2021-05-19
+891,"butalbital, acetaminophen and caffeine",307,341,Plexiglass,2021-07-27,2021-02-15
+892,Famciclovir,402,27,Plastic,2020-12-16,2021-06-04
+893,ERY-TAB,257,585,Plastic,2021-01-19,2021-10-18
+894,Montelukast,89,35,Granite,2021-11-18,2021-07-24
+895,NEUTRA MAXX 5000,151,246,Granite,2021-06-10,2021-06-23
+896,Nicotine,598,759,Stone,2021-11-12,2021-11-25
+897,Medroxyprogesterone Acetate,983,295,Granite,2021-01-03,2021-10-19
+898,Geodon,912,743,Glass,2021-03-06,2021-05-19
+899,Ibuprofen,261,851,Plexiglass,2021-04-15,2021-05-30
+900,Cold Spot,818,57,Steel,2021-03-21,2021-09-08
+901,Antacid,269,183,Plexiglass,2021-02-10,2021-02-22
+902,Artificial Tears,346,150,Plexiglass,2021-08-09,2021-04-28
+903,Mental Alertness For Seniors,199,667,Brass,2021-08-17,2021-09-01
+904,Ziprasidone hydrochloride,982,611,Granite,2021-03-26,2021-02-13
+905,Multi-Vitamin With Fluoride,804,90,Glass,2021-03-04,2021-04-23
+906,SNAIL THERAPY PACT,576,485,Plastic,2021-03-30,2021-07-11
+907,Athletes Foot,964,973,Plastic,2021-05-02,2021-03-27
+908,Childrens Benadryl Itch Cooling,612,991,Vinyl,2021-06-07,2021-04-27
+909,Buckwheat,911,324,Brass,2021-03-28,2021-11-16
+910,BullFrog Super Block,989,351,Plastic,2021-02-20,2021-09-23
+911,Daily Acne Control Cleanser,106,81,Plastic,2021-09-18,2021-11-09
+912,Eye Allergy Relief,447,17,Plexiglass,2021-10-21,2021-01-30
+913,Sertraline Hydrochloride,551,901,Aluminum,2021-10-19,2021-09-16
+914,Megestrol Acetate,307,241,Glass,2021-05-28,2020-12-25
+915,RUMEX CRISPUS POLLEN,665,119,Plexiglass,2021-04-07,2021-05-31
+916,Enlighten Me,504,540,Granite,2020-12-20,2021-05-28
+917,"mineral oil, petrolatum, phenylephrine hydrochloride, shark liver oil",426,477,Wood,2021-06-25,2021-08-29
+918,Minocin Kit,118,350,Aluminum,2021-06-19,2021-09-13
+919,Montelukast Sodium,182,504,Brass,2021-09-17,2021-09-07
+920,SORGHUM HALEPENSE POLLEN,881,627,Rubber,2021-11-14,2021-04-18
+921,Phenobarbital,824,258,Vinyl,2021-09-21,2021-04-19
+922,Bronkids,688,553,Glass,2021-06-01,2021-10-08
+923,Smart Sense Complete,297,601,Brass,2021-06-22,2021-04-20
+924,Promethazine,364,73,Plastic,2021-11-05,2021-11-06
+925,Colgate,53,467,Glass,2021-03-30,2021-04-21
+926,CALCID,541,665,Rubber,2021-08-24,2020-12-16
+927,RhoGAM Ultra-Filtered PLUS,967,79,Granite,2021-09-15,2021-03-30
+928,Otozin,289,408,Plexiglass,2020-12-27,2021-11-26
+929,Diltiazem Hydrochloride,488,860,Granite,2021-09-02,2021-01-26
+930,Ailanthus,595,51,Plastic,2021-08-06,2021-07-12
+931,Alcohol-Free Anticavity,604,324,Steel,2021-09-30,2021-09-22
+932,Black Willow,734,698,Wood,2021-10-02,2021-05-31
+933,Viramune,943,115,Glass,2021-07-02,2021-05-25
+934,Doxycycline Hyclate,156,403,Steel,2021-05-06,2021-11-11
+935,MUSTARD SEED,184,378,Vinyl,2020-12-10,2021-09-30
+936,PROMETHAZINE DM,281,875,Vinyl,2021-08-18,2021-09-12
+937,Clear Eyes Complete 7 Sympton Relief,404,675,Granite,2021-02-07,2021-11-26
+938,Hydromorphone Hydrochloride,567,634,Stone,2021-05-22,2021-06-15
+939,Treatment Set TS335861,773,647,Plastic,2021-09-12,2021-08-30
+940,Famotidine,785,435,Glass,2021-03-25,2021-12-02
+941,Meropenem,301,624,Vinyl,2021-03-27,2021-04-11
+942,Glycerin,925,838,Plexiglass,2021-06-21,2021-02-25
+943,Verapamil Hydrochloride,92,502,Vinyl,2021-06-14,2021-02-24
+944,The Oriental Gyeol Goun Two Way Pact,45,418,Rubber,2021-09-21,2021-06-03
+945,Bystolic,140,702,Granite,2021-08-30,2021-04-14
+946,Carcinosin,146,121,Vinyl,2021-10-10,2021-05-16
+947,HAWAIIAN Tropic,625,455,Vinyl,2021-07-25,2021-09-08
+948,Alendronate Sodium,815,696,Wood,2021-12-03,2021-07-23
+949,Toviaz,577,571,Glass,2021-06-24,2021-03-18
+950,HELMINTHOSPORIUM SOLANI,339,348,Steel,2021-10-21,2021-03-23
+951,Diltiazem Hydrochloride,3,942,Stone,2021-07-26,2021-10-09
+952,Levisticum Quercus,326,710,Wood,2021-04-13,2021-01-23
+953,KeVUENO Pain Relieving,109,845,Brass,2021-10-29,2021-06-28
+954,Treatment Set TS349931,640,273,Wood,2021-07-04,2021-08-24
+955,Hyoscyamine,200,512,Rubber,2021-07-15,2021-11-20
+956,Aunt Bees Five Flavors,894,445,Plastic,2021-08-20,2021-09-13
+957,Pitch Pine,628,625,Granite,2021-01-23,2021-02-03
+958,Black Birch,38,348,Wood,2020-12-12,2021-03-13
+959,LBEL EFFET PARFAIT Spots Reducing Effect Foundation SPF 18 - MEDIUM 6B,546,762,Vinyl,2021-01-15,2021-07-20
+960,Lyrica,433,731,Plexiglass,2021-06-17,2021-10-11
+961,Cyklokapron,440,832,Rubber,2021-09-01,2021-08-09
+962,Vibativ,897,749,Stone,2021-05-29,2021-02-28
+963,AMOREPACIFIC,215,163,Glass,2021-05-11,2021-05-14
+964,quetiapine fumarate,358,392,Plastic,2021-06-24,2021-11-21
+965,Treatment Set TS332850,8,17,Wood,2021-04-15,2021-11-07
+966,Fortamet,497,297,Plexiglass,2021-09-10,2021-08-17
+967,Allopurinol,844,170,Stone,2021-07-18,2021-11-06
+968,SBS Care,758,612,Plastic,2021-10-24,2021-08-30
+969,Acetaminophen,977,176,Stone,2021-11-24,2021-03-05
+970,SHISEIDO SHEER AND PERFECT FOUNDATION,712,900,Aluminum,2021-07-20,2020-12-11
+971,Chillax,799,769,Brass,2021-03-21,2021-05-22
+972,SHISEIDO THE MAKEUP FOUNDATION,868,722,Aluminum,2021-07-24,2021-09-01
+973,PREVPAC,739,957,Granite,2021-02-19,2021-10-26
+974,CELEBREX,223,70,Stone,2020-12-18,2021-05-14
+975,Aldex D,368,523,Rubber,2021-11-29,2021-08-27
+976,CLINIMIX,205,254,Aluminum,2021-09-13,2021-03-10
+977,Aluminum Hydroxide,929,281,Wood,2021-05-17,2021-05-09
+978,Flatulence,806,803,Vinyl,2021-03-27,2021-01-12
+979,IRIS,750,810,Vinyl,2021-01-17,2021-05-09
+980,Oxycodone and Acetaminophen,336,793,Vinyl,2021-11-15,2020-12-16
+981,Somatuline Depot,117,120,Plastic,2021-10-31,2021-05-24
+982,DIORSKIN NUDE BB CREME NUDE GLOW SKIN-PERFECTING BEAUTY BALM SUNSCREEN BROAD SPECTRUM SPF10 Tint 4,378,154,Stone,2021-05-06,2020-12-14
+983,Ropinirole,62,665,Granite,2021-02-23,2021-11-17
+984,Nu Skin Clear Action,203,289,Glass,2020-12-17,2021-12-01
+985,ZONISAMIDE,561,69,Rubber,2021-04-08,2021-02-08
+986,ADVATE,328,799,Granite,2021-08-31,2021-08-31
+987,Tranexamic Acid,653,170,Vinyl,2021-10-31,2021-01-15
+988,Acetaminophen PM,725,144,Plastic,2020-12-18,2021-07-17
+989,Cold - Sinus,204,78,Plastic,2021-09-12,2021-02-15
+990,Gout Symptom Reliever,479,97,Steel,2021-10-16,2021-11-09
+991,ENGLISH WALNUT FOOD,965,686,Brass,2021-05-02,2021-05-24
+992,Adult Tussin Cough Gels,719,205,Aluminum,2021-07-10,2021-06-14
+993,Almond,818,658,Plastic,2021-10-30,2021-04-07
+994,Stoko Refresh,663,74,Granite,2021-05-30,2021-04-03
+995,Amrix,785,667,Granite,2021-02-26,2021-05-04
+996,Acid Controller Complete,819,293,Stone,2021-07-31,2021-06-29
+997,Methimazole,505,810,Brass,2021-06-04,2021-10-30
+998,Ropinirole Hydrochloride,988,177,Stone,2021-04-10,2021-05-10
+999,Propranolol Hydrochloride,508,459,Wood,2021-05-31,2021-07-11
+1000,Divalproex Sodium,903,627,Plastic,2021-02-04,2021-08-09
